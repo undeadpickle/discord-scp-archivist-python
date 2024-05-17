@@ -48,8 +48,8 @@ for filename in os.listdir(json_dir):
         # Generate a unique identifier
         unique_id = str(uuid.uuid4())
 
-        # Extract the SCP number from the title
-        scp_number = title.split("-")[-1] if "-" in title else ""
+        # Extract the SCP number from the title and remove preceding zeros
+        scp_number = title.split("-")[-1].lstrip("0") if "-" in title else ""
 
         # Create a CSV file for the current SCP with the formatted filename
         csv_filename = f"scp_{scp_number}.csv"
