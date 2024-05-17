@@ -1,0 +1,26 @@
+{
+  "created_at": "2011-05-31T09:08:00",
+  "creator": "orikae",
+  "link": "scp-560",
+  "rating": 82,
+  "references": [
+    "scp-559",
+    "scp-561",
+    "component:license-box",
+    "licensing-guide"
+  ],
+  "scp_number": 560,
+  "series": "series-1",
+  "tags": [
+    "_cc",
+    "_licensebox",
+    "alive",
+    "computer",
+    "electronic",
+    "safe",
+    "scp"
+  ],
+  "title": "SCP-560",
+  "url": "https://scp-wiki.wikidot.com/scp-560",
+  "content": "Item #: SCP-560\nObject Class: Safe\nSpecial Containment Procedures: SCP-560 is to be kept on a Foundation archival-quality optical storage medium at least \u2588\u2588\u2588 GB in size. This medium should be accessed at least once per month using the stand-alone desktop computer within SCP-560's containment unit. After the computer ceases to function, the medium should be placed in a shock-proof case, specification \u2588\u2588\u2588-\u2588\u2588-\u2588\u2588\u2588\u2588. Pursuant to Foundation secure-wipe protocols, the blank drive should be discarded through civilian avenues and replaced with a wipe-ready drive from Site-\u2588\u2588 Research. Testing on workstations with any network access or removable media other than SCP-560's storage unit is prohibited by Level 4 order.\nDescription: SCP-560 is a single digital lifeform of indeterminate origin. Viewed through a binary or hex editor, SCP-560 appears as a pattern of bits which travels through the data structure of the storage medium it occupies. Analysis of SCP-560's bit structure is ongoing.\nSCP-560 behaves similarly to certain kinds of malicious software. Before the Foundation's discovery of the lifeform in \u2588\u2588\u2588\u2588, amateur researchers on the \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 message boards had discovered a pattern in appearances of the creature's spent data, attributing it to a particularly prolific virus. Rather than administer amnestics, Foundation personnel removed SCP-560 and allowed the board to continue their project. The message board recently celebrated the \u2588\u2588th anniversary of investigation into SCP-560.\nWhen introduced into a digital habitat, SCP-560 begins processing the contents of the storage medium. It is currently hypothesized that the lifeform metabolizes data in a manner similar to amoeba, engulfing data within itself and excreting corrupted images, text files, executables, videos, and sound files. This corruption proceeds gradually on each individual file, as the lifeform moves from file to file while feeding. SCP-560 shows a preference for files containing sensitive data; Dr. \u2588\u2588\u2588\u2588\u2588 theorizes that encrypted, compressed, or high-density data provides SCP-560 with a large amount of metabolic energy. This preference makes it ideal for use in Foundation secure-wipe protocols.\nUnlike a computer virus, SCP-560 does not deposit copies of itself in corrupted files. Current speculation is that SCP-560 reproduces through [REDACTED]; however, as there are no extant [REDACTED]. As SCP-560's feeding process proceeds, it consumes data at an exponential rate, its feeding efficiency increasing in tandem with the amount of data consumed. After wiping a storage medium, SCP-560 enters a cryptobiotic state. Given a tiny amount of information, SCP-560 can survive indefinitely.\nSCP-560 was contained by Foundation personnel during an engineered failure of \u2588\u2588\u2588\u2588\u2588\u2588\u2588's content servers on April \u2588\u2588, \u2588\u2588\u2588\u2588. The organism entered its cryptobiotic state and was successfully retrieved shortly thereafter. Given the recent [REDACTED], any leak of information pertaining to SCP-560 is punishable by summary termination.\nAddendum: Viewing of materials corrupted by SCP-560 on a 3D-capable television or through stereoscopic, linearly polarized, or circular polarized glasses is prohibited. -O5-3\nRevision \u2588\u2588-\u2588\u2588-\u2588\u2588\u2588\u2588: This includes 3D-capable video game systems. -O5-3\n\n\n\u2021\u00a0Licensing\u00a0/\u00a0Citation\n\n\u2021\u00a0Hide\u00a0Licensing\u00a0/\u00a0Citation\n\nCite this page as:\n \n\n\"SCP-560\" by orikae, from the SCP Wiki. Source: https://scpwiki.com/scp-560. Licensed under CC-BY-SA.\n\n\n\nFor information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.\n\nFilename: scp-560.png\nAuthor: Bonnie Moreland, stephlynch\nLicense: CC BY-SA 3.0\nSource Link: SCP Foundation Wiki\nDerivative of:\n\nName: Coast Range in the winter, Oregon\nAuthor: Bonnie Moreland\nLicense: Public Domain\nSource Link: Flickr\n\n\n\n\n\n"
+}

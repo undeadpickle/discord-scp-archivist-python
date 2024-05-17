@@ -1,0 +1,25 @@
+{
+  "created_at": "2008-10-14T04:39:00",
+  "creator": "HK-016",
+  "link": "scp-313",
+  "rating": 139,
+  "references": [
+    "scp-312",
+    "scp-314",
+    "component:license-box",
+    "licensing-guide"
+  ],
+  "scp_number": 313,
+  "series": "series-1",
+  "tags": [
+    "_licensebox",
+    "appliance",
+    "ectoentropic",
+    "indestructible",
+    "safe",
+    "scp"
+  ],
+  "title": "SCP-313",
+  "url": "https://scp-wiki.wikidot.com/scp-313",
+  "content": "Item #: SCP-313\nObject Class: Safe\nSpecial Containment Procedures: SCP-313 is to be kept unmounted and disconnected when not being tested. Access is strictly prohibited except with special permission from a level 4 official. Under no circumstances are personnel to press the button, save for officially sanctioned testing under rigidly controlled conditions. Please see Addendum 313-a.\nDescription: SCP-313 is identical in appearance and marking to a World Dryer Corp Model A electric hand dryer. The object measures 25\u00a0cm x 24\u00a0cm x 21\u00a0cm. Its casing is painted white steel, with a polished stainless steel nozzle and button. Internal workings are consistent with Model A specifications. However, despite this veneer of normalcy, SCP-313 has two significantly anomalous qualities \u2013 first and foremost, it is utterly indestructible and impervious to all forces available to us, and secondly, it is extraordinarily destructive, apparently by design. Destruction test logs are available on request to those with level 2 or higher security clearance.\nThe second anomalous property should be considered \u2018armed\u2019 when SCP-313 is mounted on a wall and connected to a dedicated 20\u00a0A power source. Under these conditions, each push of the button represents a 1.5% chance that this property will activate. When this occurs, SCP-313 will begin to emit a stream of superheated plasma, which originates somewhere within the object and exits from the nozzle in a direction perpendicular to the surface on which the object is mounted. The stream\u2019s force and temperature increase exponentially until the object tears loose from its mounting and/or propels itself through the mounted surface. Temperatures of over 25,000\u00a0K and forces as great as 650\u00a0kN have been recorded, although thrust of this magnitude would never occur under normal circumstances.\nThe flow of plasma will continue for up to thirty seconds after the object has torn free (i.e., the normal duration of airflow for a standard Model A), generally enough to propel the object an enormous distance if there is nothing in the way, or cause it to ricochet at high speed inside any structure in which the object is confined, potentially demolishing the structure. This destruction is compounded by the effects of extremely high temperatures.\nBoth the civilian casualties and property damage attributable to SCP-313 are staggering. It has caused a number of fires and other disasters over the years, generally in a predictable pattern of being sold and installed, blasting halfway across the country, and being found and resold. The object passed into Foundation hands when it impacted near Site-05, having been mistaken for a meteorite.\nAddendum 313-a: Some of the lower-level personnel have been pestering me about our safety procedures when using SCP-313. For those of you who have forgotten high school physics: 25,000\u00a0K is over four times hotter than the surface of the sun, and 650\u00a0kN is roughly enough force to lift an M1 Abrams main battle tank. Now imagine that much force behind this object, which weighs less than 10\u00a0kg (remember, F = ma) and is indestructible.\n\u2013 Dr. Sundstrom, Supervisor 3-401, Site-19\n\n\n\u2021\u00a0Licensing\u00a0/\u00a0Citation\n\n\u2021\u00a0Hide\u00a0Licensing\u00a0/\u00a0Citation\n\nCite this page as:\n \n\n\"SCP-313\" by HK-016, from the SCP Wiki. Source: https://scpwiki.com/scp-313. Licensed under CC-BY-SA.\n\n\n\nFor information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.\n\n\n\n\n"
+}

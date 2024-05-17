@@ -1,0 +1,29 @@
+{
+  "created_at": "2015-11-15T05:18:00",
+  "creator": "Doctor Cimmerian",
+  "link": "scp-245",
+  "rating": 740,
+  "references": [
+    "component:info-ayers",
+    "scp-244",
+    "scp-246",
+    "component:license-box",
+    "licensing-guide"
+  ],
+  "scp_number": 245,
+  "series": "series-1",
+  "tags": [
+    "_licensebox",
+    "game",
+    "interactive",
+    "media",
+    "meta",
+    "narrative",
+    "prize-feature",
+    "safe",
+    "scp"
+  ],
+  "title": "SCP-245",
+  "url": "https://scp-wiki.wikidot.com/scp-245",
+  "content": "Item #: SCP-245\nObject Class: Safe\nSpecial Containment Procedures: Copies of SCP-245-1 are to be contained on airgapped computers. These computers are to be located on floor 10, section C of Site-88. Individual iterations of SCP-245-1 are to be monitored and completed on a regular basis to ensure continued containment.\nMajor changes to SCP-245-1's gameworld are to be reported to SCP-245's project head. Under no circumstances should SCP-245-1's master password be revealed to any entities encountered in SCP-245-1.\nDescription: Please see SCP-245-1.zip for information relating to SCP-245.\n\nNotice: SCP-245-1 will only run on a system utilizing OSCP or the Windows operating system.\n\n\n\n\n\n\u2021\u00a0Licensing\u00a0/\u00a0Citation\n\n\u2021\u00a0Hide\u00a0Licensing\u00a0/\u00a0Citation\n\nCite this page as:\n \n\n\"SCP-245\" by Doctor Cimmerian, from the SCP Wiki. Source: https://scpwiki.com/scp-245. Licensed under CC-BY-SA.\n\n\n\nFor information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.\n\nFilename: SCP-245-1.zip\nAuthor: Doctor Cimmerian\nLicense: CC-BY-SA 3.0\nSource: SCP Foundation Wiki\n\n\n\n\n\n\nSCP-RPG\n\n\nNone\n\n"
+}

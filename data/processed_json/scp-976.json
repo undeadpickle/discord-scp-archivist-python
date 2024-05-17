@@ -1,0 +1,26 @@
+{
+  "created_at": "2009-08-11T15:39:00",
+  "creator": "Aelanna",
+  "link": "scp-976",
+  "rating": 123,
+  "references": [
+    "scp-975",
+    "scp-977",
+    "component:license-box",
+    "licensing-guide"
+  ],
+  "scp_number": 976,
+  "series": "series-1",
+  "tags": [
+    "_licensebox",
+    "computer",
+    "extradimensional",
+    "knowledge",
+    "media",
+    "safe",
+    "scp"
+  ],
+  "title": "SCP-976",
+  "url": "https://scp-wiki.wikidot.com/scp-976",
+  "content": "Item #: SCP-976\nObject Class: Safe\nSpecial Containment Procedures: SCP-976 is attached to an isolated research computer at Site-\u2588. All data from SCP-976 must be archived for analysis from automated backups made every 24 hours. Research on data extracted from SCP-976 requires level 2 clearance.\nSCP-976 must not be installed in any terminal with a live connection to the Site-\u2588 intranet or to any outside internet connection. Direct access to SCP-976 for purposes other than maintenance requires prior approval from at least two level 3 personnel.\nDescription: SCP-976 appears to be a Western Digital \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 model hard drive with an indicated capacity of 32\u00a0GB. The outside casing is identical to a hard drive of the indicated model and has a standard parallel ATA-100 interface. SCP-976 is unusually heavy, and all attempts to disassemble the outside casing have failed thus far.\nSCP-976 was found in Foundation research terminal computer \u2588\u2588\u2588\u2588-\u2588\u2588 at Site-\u2588 during a mandatory security pass for ensuring the destruction of sensitive data prior to the disposal of electronic equipment. Its anomalous properties were discovered when technicians noted that its installation was in violation of standard equipment configuration guidelines, and was immediately taken into containment when the device was accessed and the data within analyzed. How SCP-976 ended up inside the terminal is unknown at this time.\nWhen connected to a standard PC and activated, SCP-976 operates normally, but with an abnormally high-pitched hum that does not match any known hard drive model. When read using a specially-designed interface, SCP-976 appears to contain a 32\u00a0GB 'slice' of a larger data repository, currently estimated at exceeding \u2588\u2588\u2588 TB in size. This 'slice' changes position every 24 hours at exactly 00:11:53 AM, thus necessitating all data on SCP-976 to be downloaded daily for analysis.\nFrom ongoing analysis of over \u2588,\u2588\u2588\u2588 'slices' of data extracted from SCP-976, the following file fragments have been reconstructed:\n\nSeveral fragments of news reports, including images and partial videos. These news items are all dated in the past, but do not match any news reports in Foundation archives.\nArchives documenting the use of [DATA EXPUNGED] and [DATA EXPUNGED], technologies that have not been invented, or were never pursued in modern science.\nContainment procedures and experiment logs for SCP-\u2588\u2588\u2588, an object that was destroyed during acquisition and never contained.\nDetailed experiment logs for SCP-\u2588\u2588\u2588, which were never authorized due to the danger involved in said experiment proposals.\nDetailed descriptions for SCP-\u2588\u2588\u2588 and SCP-\u2588\u2588\u2588, objects that do not exist.\nA record of assets and SCP objects stored at Site-\u2588\u2588, which does not exist.\n\nAll data recovered from SCP-976 matches standard Foundation data formats, but otherwise do not seem to correspond to data found in Foundation archives. It is currently theorized that SCP-976 may be a 'window' into a Foundation archive from an alternate timeline or existence.\nAnalysis into data recovered from SCP-976 is ongoing.\nAddendum 976-1:\nOn \u2588\u2588/\u2588\u2588/200\u2588, Dr. \u2588\u2588\u2588\u2588\u2588\u2588\u2588 and Dr. \u2588\u2588\u2588\u2588\u2588 were killed while accessing data on SCP-976 that appears to have contained a memetic kill agent similar to [DATA EXPUNGED]. Increased security has been requested for SCP-976 data, and automated data analysis must be used before opening unknown files.\n\n\n\u2021\u00a0Licensing\u00a0/\u00a0Citation\n\n\u2021\u00a0Hide\u00a0Licensing\u00a0/\u00a0Citation\n\nCite this page as:\n \n\n\"SCP-976\" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-976. Licensed under CC-BY-SA.\n\n\n\nFor information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.\n\n\n\n\n"
+}

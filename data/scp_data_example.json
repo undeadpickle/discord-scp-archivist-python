@@ -1,0 +1,691 @@
+{
+  "SCP-001": {
+    "created_at": "2024-02-12T12:19:00",
+    "creator": "OriTiefling",
+    "domain": "scp-wiki.wikidot.com",
+    "history": [
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"inthemorningsunMARG.jpg\".",
+        "date": "2024-02-12T12:19:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "",
+        "date": "2024-02-12T12:19:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz6.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz5.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz4.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz3.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz2.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz1.png\".",
+        "date": "2024-02-12T12:20:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz10.png\".",
+        "date": "2024-02-12T12:21:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz9.png\".",
+        "date": "2024-02-12T12:21:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz8.png\".",
+        "date": "2024-02-12T12:21:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Uploaded file \"Cruz7.png\".",
+        "date": "2024-02-12T12:21:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Added tags: 8000. ",
+        "date": "2024-02-12T12:27:00"
+      },
+      {
+        "author": "psychicprogrammer",
+        "author_href": "http://www.wikidot.com/user:info/psychicprogrammer",
+        "comment": "",
+        "date": "2024-02-12T16:21:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Fixed typo",
+        "date": "2024-02-13T01:50:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Added tags: _licensebox, apollyon, entropic, k-class-scenario, scp, temporal, thermodynamic. ",
+        "date": "2024-02-13T22:35:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "",
+        "date": "2024-02-16T12:30:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Added preview text",
+        "date": "2024-02-17T20:40:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "",
+        "date": "2024-02-18T05:36:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Editing numbers and title",
+        "date": "2024-03-11T11:24:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Added tags: 001-proposal. ",
+        "date": "2024-03-11T11:25:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "You successfully renamed the page: \"8000contestoritiefling\" to \"oris-proposal\".",
+        "date": "2024-03-11T11:25:00"
+      },
+      {
+        "author": "OriTiefling",
+        "author_href": "http://www.wikidot.com/user:info/oritiefling",
+        "comment": "Parent page set to: \"scp-001\".",
+        "date": "2024-03-11T11:26:00"
+      }
+    ],
+    "hubs": [
+      "welcome-to-delta-t",
+      "secure-facility-dossier-site-58",
+      "scp-001",
+      "scp8000contesthub",
+      "artist-showcase-archive"
+    ],
+    "images": [],
+    "link": "oris-proposal",
+    "page_id": "1452605917",
+    "rating": 202,
+    "raw_content": "<html><body><div id=\"page-content\">\n\n\n<div class=\"preview\">\n<p>February 13th, 2025, 7:10am. It has been February 13th, 2025, 7:10am for 30 years.</p>\n</div>\n\n\n<div class=\"authorlink-wrapper\"><a href=\"javascript:;\">oritiefling</a>\n<div class=\"authorbox\">\n<div class=\"authorcontent\">\n<p>Did you enjoy the article? Please check out my other works! <a href=\"https://scp-wiki.wikidot.com/oris-box\">Right here</a>!</p>\n</div>\n</div>\n</div>\n<p><span style=\"white-space: pre-wrap;\"> </span><br/>\n<span style=\"white-space: pre-wrap;\"> </span><br/></p>\n<div style=\"text-align: center;\">\n<p><strong>\u201cTo see a world in a grain of sand and heaven in a wild flower\"</strong><br/>\n<strong>\"Hold infinity in the palm of your hand and eternity in an hour.\u201d</strong><br/>\n<strong>\u2014William Blake</strong></p>\n</div>\n<br/>\n<span style=\"white-space: pre-wrap;\"> </span><br/>\n<span style=\"white-space: pre-wrap;\"> </span>\n<div class=\"anom-bar-container item-SCP-001 clear-3 esoteric apollyon amida critical {$american}\">\n<div class=\"anom-bar\">\n<div class=\"top-box\">\n<div class=\"top-left-box\"><span class=\"item\">Item#:</span> <span class=\"number\">SCP-001</span></div>\n\n<div class=\"top-right-box\">\n<div class=\"level\">Level3</div>\n\n</div>\n</div>\n<div class=\"bottom-box\">\n<div class=\"text-part\">\n<div class=\"main-class\">\n<div class=\"contain-class\">\n<div class=\"class-category\">Containment Class:</div>\n<div class=\"class-text\">esoteric</div>\n</div>\n<div class=\"second-class\">\n<div class=\"class-category\">Secondary Class:</div>\n<div class=\"class-text\">apollyon</div>\n</div>\n</div>\n<div class=\"disrupt-class\">\n<div class=\"class-category\">Disruption Class:</div>\n<div class=\"class-text\">amida</div>\n</div>\n<div class=\"risk-class\">\n<div class=\"class-category\">Risk Class:</div>\n<div class=\"class-text\">critical</div>\n</div>\n</div>\n<div class=\"diamond-part\">\n<div class=\"danger-diamond\"><a href=\"/classification-committee-memo\">link to memo</a><br/>\n\n\n\n\n\n\n\n</div>\n</div>\n</div>\n</div>\n</div>\n<hr/>\n<p><strong>Special Containment Procedures:</strong> SCP-001 cannot be contained. As a result, Foundation efforts are to focus on the following:</p>\n<p>- Recovery of remaining motile civilians to Foundation-organized safe communities;</p>\n<p>- Restoration of Foundation technological and communications infrastructure wherever possible;</p>\n<p>- Restoration of the concept of \"time\" via reconstruction of SCP-001-1.</p>\n<p>Those affected by SCP-001 are currently considered lost. Preservation of the veil is to be disregarded.</p>\n<p>Foundation agents have the full approval of remaining O5 council members to eliminate persons or groups deemed hostile to the Foundation's mission with prejudice.</p>\n<p><strong>Description:</strong> SCP-001 is categorized as a ZK-Class Temporal Cessation event, which resulted in the total cessation of the standard passage of time on February 13th, 2025 at 0710 PST. Folloking no sound beyond the occasional word of caution stopping me from going tumbling into a valley. Eventually I feel something, almost like eyes on my back.</em></p>\n<p><strong>Kidd:</strong> \u2026Cruz, can I get a quick scan of the area?</p>\n<p><strong>Cruz.aic:</strong> Hm? Sure. Let's see\u2026</p>\n\n<p><strong>Cruz.aic:</strong> \u2026Woah, wait! Kidd, we're\u2014</p>\n<p><em>Before Cruz can finish, we're surrounded by a group of men. They're no more than ten or so in number, each with a blade at their side. At their lead stands a tall, suited man, who looks at me with a smile.</em></p>\n<p><strong>Man:</strong> I should've guessed it was someone from your group out here. Good to see you, Agent Kidd. It's been far too long, have you been well?</p>\n<p><em>I chuckle, my arms held up in surrender.</em></p>\n<p><strong>Kidd:</strong> Agent Saul. I've been better, I gotta say.</p>\n<p><strong>Saul:</strong> I'd gotten some intel that the Foundation had an operation in this area. Little did I realize it was going to be an old friend.</p>\n<p><em>Agent Saul raises an eyebrow, his eyes falling on my eyepatch. He approaches me with a stony expression and draws his sword. Bringing the sword's tip to my chin, he tilts my head up slightly so I'm forced to meet his eyes.</em></p>\n<p><strong>Saul:</strong> This is [[include <a href=\"http://scp-wiki.wikidot.com/component:license-box\">:scp-wiki:component:license-box</a>]]\n\n=====\n\n> **Filename:** Cruz1-10.png\n\n> **Author:** OriTiefling\n\n> **License:** Creative Commons Share-Alike 3.0\n\n> **Additional Notes:** All Cruz icons are drawn by the original author, OriTiefling, and released under the CC by SA 3.0 license\n\n=====\n\n> **Filename:** inthemorningsunMarg.jpg\n\n> **Author:** LOVEMarginal\n\n> **License:** Creative Common Share-Alike 3.0\n\n> **Additional Notes:** Image was commissioned by the original author for use in this article and is released under the CC by SA 3.0 license.\n\n=====\n\n[[include <a href=\"http://scp-wiki.wikidot.com/component:license-box-end\">:scp-wiki:component:license-box-end</a>]]\n",
+    "references": [
+      "oris-box",
+      "classification-committee-memo",
+      "scp-6459",
+      "component:license-box",
+      "licensing-guide"
+    ],
+    "scp": "SCP-001",
+    "scp_number": 1,
+    "series": "scp-001",
+    "tags": [
+      "001-proposal",
+      "8000",
+      "_licensebox",
+      "apollyon",
+      "entropic",
+      "k-class-scenario",
+      "scp",
+      "temporal",
+      "thermodynamic"
+    ],
+    "title": "SCP-001",
+    "url": "https://scp-wiki.wikidot.com/oris-proposal"
+  },
+  "SCP-002": {
+    "created_at": "2008-07-19T22:37:00",
+    "creator": "The Administrator",
+    "domain": "scp-wiki.wikidot.com",
+    "history": [
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "SCP-002 Formatting",
+        "date": "2008-07-19T22:37:00"
+      },
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "Uploaded file \"800px-SCP002.jpg\".",
+        "date": "2008-07-24T18:19:00"
+      },
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "",
+        "date": "2008-07-24T18:22:00"
+      },
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "",
+        "date": "2008-07-24T18:26:00"
+      },
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "",
+        "date": "2008-07-25T11:05:00"
+      },
+      {
+        "author": "The Administrator",
+        "author_href": "http://www.wikidot.com/user:info/the-administrator",
+        "comment": "",
+        "date": "2008-07-25T11:14:00"
+      },
+      {
+        "author": "Kain Pathos Crow",
+        "author_href": "http://www.wikidot.com/user:info/kain-pathos-crow",
+        "comment": "",
+        "date": "2008-07-25T21:50:00"
+      },
+      {
+        "author": "Kain Pathos Crow",
+        "author_href": "http://www.wikidot.com/user:info/kain-pathos-crow",
+        "comment": "",
+        "date": "2008-07-25T21:53:00"
+      },
+      {
+        "author": "far2",
+        "author_href": "http://www.wikidot.com/user:info/far2",
+        "comment": "Turned the image thumbnail into a link to the full-size image",
+        "date": "2008-07-27T08:38:00"
+      },
+      {
+        "author": "far2",
+        "author_href": "http://www.wikidot.com/user:info/far2",
+        "comment": "",
+        "date": "2008-07-27T10:19:00"
+      },
+      {
+        "author": "Anonymous (67.142.130.x)",
+        "author_href": "javascript:;",
+        "comment": "",
+        "date": "2008-08-19T19:59:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "For great justice and epic lulz. Also, go to http://lol.on.nimp.org  (a must-see)",
+        "date": "2008-10-18T23:28:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "For great justice and epic lulz. Also, go to http://lol.on.nimp.org (a must see)",
+        "date": "2008-10-18T23:29:00"
+      },
+      {
+        "author": "Anonymous (99.245.177.x)",
+        "author_href": "javascript:;",
+        "comment": "Reverted to page revision number 10",
+        "date": "2008-10-18T23:49:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "Page name changed: \"scp-002\" to \"deleted:scp-002\".",
+        "date": "2008-10-19T00:22:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "For great justice and epic lulz. Also, go to http://lol.on.nimp.org (a must see)",
+        "date": "2008-10-19T00:27:00"
+      },
+      {
+        "author": "snorlison",
+        "author_href": "http://www.wikidot.com/user:info/snorlison",
+        "comment": "Reverted to page revision number 13",
+        "date": "2008-10-19T04:59:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "Page name changed: \"deleted:scp-002\" to \"scp-002\".",
+        "date": "2008-10-19T05:07:00"
+      },
+      {
+        "author": "Hell-spawn",
+        "author_href": "http://www.wikidot.com/user:info/hell-spawn",
+        "comment": "Page name changed: \"scp-002\" to \"hagger\".",
+        "date": "2008-10-25T21:17:00"
+      },
+      {
+        "author": "Lee Byron",
+        "author_href": "http://www.wikidot.com/user:info/lee-byron",
+        "comment": "Page name changed: \"hagger\" to \"scp-002\".",
+        "date": "2008-10-25T21:44:00"
+      },
+      {
+        "author": "Hinoa",
+        "author_href": "http://www.wikidot.com/user:info/hinoa",
+        "comment": "Unit nitpicking (m^2 measures area; m^3 volume)",
+        "date": "2009-01-13T22:33:00"
+      },
+      {
+        "author": "LordHaHa",
+        "author_href": "http://www.wikidot.com/user:info/lordhaha",
+        "comment": "Added experimental graphic \"Threat Table\" below SPC image; self-explanitory layout. Comments?",
+        "date": "2009-02-02T23:11:00"
+      },
+      {
+        "author": "judgedeadd",
+        "author_href": "http://www.wikidot.com/user:info/judgedeadd",
+        "comment": "No. It looks ugly.",
+        "date": "2009-02-03T17:51:00"
+      },
+      {
+        "author": "AdminBright",
+        "author_href": "http://www.wikidot.com/user:info/adminbright",
+        "comment": "Reverted to page revision number 22",
+        "date": "2009-02-03T19:54:00"
+      },
+      {
+        "author": "AdminBright",
+        "author_href": "http://www.wikidot.com/user:info/adminbright",
+        "comment": "Reverted to page revision number 21",
+        "date": "2009-02-03T19:54:00"
+      },
+      {
+        "author": "Anonymous (65.26.177.x)",
+        "author_href": "javascript:;",
+        "comment": "changed \"it is apparently only facilitated by the introduction of living humans\" to \"is apparently only facilitated by the introduction of living humans\"",
+        "date": "2009-03-13T20:18:00"
+      },
+      {
+        "author": "Anonymous (65.26.177.x)",
+        "author_href": "javascript:;",
+        "comment": "changed \"smallradioactive\" to \"small, radioactive\"",
+        "date": "2009-03-13T20:21:00"
+      },
+      {
+        "author": "thefifthman",
+        "author_href": "http://www.wikidot.com/user:info/thefifthman",
+        "comment": "Added tags: featured.",
+        "date": "2009-04-19T08:33:00"
+      },
+      {
+        "author": "snorlison",
+        "author_href": "http://www.wikidot.com/user:info/snorlison",
+        "comment": "Added tags: alive.",
+        "date": "2009-04-26T06:41:00"
+      },
+      {
+        "author": "Devilot",
+        "author_href": "http://www.wikidot.com/user:info/devilot",
+        "comment": "Minor grammar fix (Use of comma between non-coordinate adjectives)",
+        "date": "2009-10-12T22:29:00"
+      },
+      {
+        "author": "A Fat Ghost",
+        "author_href": "http://www.wikidot.com/user:info/a-fat-ghost",
+        "comment": "Formatting.",
+        "date": "2010-02-05T14:49:00"
+      },
+      {
+        "author": "lastsyllable",
+        "author_href": "http://www.wikidot.com/user:info/lastsyllable",
+        "comment": "",
+        "date": "2010-06-04T18:48:00"
+      },
+      {
+        "author": "A Fat Ghost",
+        "author_href": "http://www.wikidot.com/user:info/a-fat-ghost",
+        "comment": "Small formatting.",
+        "date": "2010-06-04T21:22:00"
+      },
+      {
+        "author": "SophosBlitz",
+        "author_href": "http://www.wikidot.com/user:info/sophosblitz",
+        "comment": "Nope. Fixed image link.",
+        "date": "2011-06-26T12:12:00"
+      },
+      {
+        "author": "Riobren",
+        "author_href": "http://www.wikidot.com/user:info/riobren",
+        "comment": "Changed one instance of 'metres' to 'meters' for consistency with other in-article usage.",
+        "date": "2011-07-27T17:21:00"
+      },
+      {
+        "author": "Aelanna",
+        "author_href": "http://www.wikidot.com/user:info/aelanna",
+        "comment": "Added tags: compulsion, transfiguration. ",
+        "date": "2012-04-03T16:24:00"
+      },
+      {
+        "author": "Rosa Tarte",
+        "author_href": "http://www.wikidot.com/user:info/rosa-tarte",
+        "comment": "Minor grammatical changes",
+        "date": "2012-05-04T15:17:00"
+      },
+      {
+        "author": "Aelanna",
+        "author_href": "http://www.wikidot.com/user:info/aelanna",
+        "comment": "You successfully reverted the page to revision number 35",
+        "date": "2012-05-04T15:26:00"
+      },
+      {
+        "author": "Aelanna",
+        "author_href": "http://www.wikidot.com/user:info/aelanna",
+        "comment": "Fixed measurement formatting properly, removed extraneous line breaks.",
+        "date": "2012-05-04T15:28:00"
+      },
+      {
+        "author": "September Burns",
+        "author_href": "http://www.wikidot.com/user:info/september-burns",
+        "comment": "Extra letter removed. Hyphen added to seventy-two.",
+        "date": "2012-05-16T22:30:00"
+      },
+      {
+        "author": "Quikngruvn",
+        "author_href": "http://www.wikidot.com/user:info/quikngruvn",
+        "comment": "Removed an extraneous comma.",
+        "date": "2012-12-19T02:29:00"
+      },
+      {
+        "author": "weizhong",
+        "author_href": "http://www.wikidot.com/user:info/weizhong",
+        "comment": "Image Format Redo 2014",
+        "date": "2014-02-28T03:15:00"
+      },
+      {
+        "author": "weizhong",
+        "author_href": "http://www.wikidot.com/user:info/weizhong",
+        "comment": "Image Format Redo 2014",
+        "date": "2014-02-28T20:22:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "",
+        "date": "2014-07-10T04:39:00"
+      },
+      {
+        "author": "ProcyonLotor",
+        "author_href": "http://www.wikidot.com/user:info/procyonlotor",
+        "comment": "You successfully reverted the page to revision number 42",
+        "date": "2014-07-10T04:47:00"
+      },
+      {
+        "author": "NicTyn",
+        "author_href": "http://www.wikidot.com/user:info/nictyn",
+        "comment": "Removed tags: compulsion. ",
+        "date": "2014-09-05T18:15:00"
+      },
+      {
+        "author": "thedeadlymoose",
+        "author_href": "http://www.wikidot.com/user:info/thedeadlymoose",
+        "comment": "",
+        "date": "2015-01-15T01:49:00"
+      },
+      {
+        "author": "djkaktus",
+        "author_href": "http://www.wikidot.com/user:info/djkaktus",
+        "comment": "Added tags: in-rewrite. ",
+        "date": "2015-01-15T21:22:00"
+      },
+      {
+        "author": "Eskobar",
+        "author_href": "http://www.wikidot.com/user:info/eskobar",
+        "comment": "Removed tags: in-rewrite. ",
+        "date": "2015-01-18T22:49:00"
+      },
+      {
+        "author": "KarnageKrash",
+        "author_href": "http://www.wikidot.com/user:info/karnagekrash",
+        "comment": "Keter Because It Takes Humans",
+        "date": "2015-01-27T07:38:00"
+      },
+      {
+        "author": "KarnageKrash",
+        "author_href": "http://www.wikidot.com/user:info/karnagekrash",
+        "comment": "",
+        "date": "2015-01-27T07:39:00"
+      },
+      {
+        "author": "KarnageKrash",
+        "author_href": "http://www.wikidot.com/user:info/karnagekrash",
+        "comment": "",
+        "date": "2015-01-27T07:41:00"
+      },
+      {
+        "author": "TelamonWings",
+        "author_href": "http://www.wikidot.com/user:info/telamonwings",
+        "comment": "",
+        "date": "2015-05-26T15:19:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "You successfully reverted the page to revision number 51",
+        "date": "2015-05-26T15:25:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "Image removed, We should kill White people",
+        "date": "2017-04-26T12:37:00"
+      },
+      {
+        "author": "Shaggydredlocks",
+        "author_href": "http://www.wikidot.com/user:info/shaggydredlocks",
+        "comment": "You successfully reverted the page to revision number 53",
+        "date": "2017-04-26T12:41:00"
+      },
+      {
+        "author": "jarvis-bot",
+        "author_href": "http://www.wikidot.com/user:info/jarvis-bot",
+        "comment": "add navigation links",
+        "date": "2017-06-06T09:02:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "\u4e9a\u6d32\u4eba\u66f4\u4f18\u8d8a",
+        "date": "2017-06-22T19:46:00"
+      },
+      {
+        "author": "Decibelles",
+        "author_href": "http://www.wikidot.com/user:info/decibelles",
+        "comment": "You successfully reverted the page to revision number 56",
+        "date": "2017-06-22T19:47:00"
+      },
+      {
+        "author": "jarvis-bot",
+        "author_href": "http://www.wikidot.com/user:info/jarvis-bot",
+        "comment": "Added tags: _image. ",
+        "date": "2017-07-24T11:26:00"
+      },
+      {
+        "author": "DarkVoxels",
+        "author_href": "http://www.wikidot.com/user:info/darkvoxels",
+        "comment": "",
+        "date": "2017-10-05T23:26:00"
+      },
+      {
+        "author": "DarkVoxels",
+        "author_href": "http://www.wikidot.com/user:info/darkvoxels",
+        "comment": "",
+        "date": "2017-10-05T23:29:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "",
+        "date": "2017-12-24T20:35:00"
+      },
+      {
+        "author": "MayD",
+        "author_href": "http://www.wikidot.com/user:info/mayd",
+        "comment": "You successfully reverted the page to revision number 61",
+        "date": "2017-12-24T20:59:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "April Fools!",
+        "date": "2020-04-01T04:18:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "You successfully reverted the page to revision number 63",
+        "date": "2020-04-02T03:41:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Uploaded file \"800px-SCP002-new.jpg\".",
+        "date": "2020-04-19T15:51:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "File \"800px-SCP002-new.jpg\" deleted",
+        "date": "2020-04-19T15:52:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Added tags: _cc. Removed tags: _image. ",
+        "date": "2020-04-24T01:34:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Image replaced",
+        "date": "2020-04-24T01:34:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Uploaded file \"800px-SCP002-new.jpg\".",
+        "date": "2020-04-24T01:34:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Adding Licensebox",
+        "date": "2020-07-03T01:10:00"
+      },
+      {
+        "author": "Elenee FishTruck",
+        "author_href": "http://www.wikidot.com/user:info/elenee-fishtruck",
+        "comment": "Added tags: _licensebox. ",
+        "date": "2020-07-03T01:11:00"
+      },
+      {
+        "author": "TSATPWTCOTTTADC",
+        "author_href": "http://www.wikidot.com/user:info/tsatpwtcotttadc",
+        "comment": "Added author to licensebox.",
+        "date": "2020-07-28T22:21:00"
+      },
+      {
+        "author": "TSATPWTCOTTTADC",
+        "author_href": "http://www.wikidot.com/user:info/tsatpwtcotttadc",
+        "comment": "2021 April Fools",
+        "date": "2021-04-01T04:12:00"
+      },
+      {
+        "author": "TSATPWTCOTTTADC",
+        "author_href": "http://www.wikidot.com/user:info/tsatpwtcotttadc",
+        "comment": "You successfully reverted the page to revision number 73",
+        "date": "2021-04-02T03:44:00"
+      },
+      {
+        "author": "deleted",
+        "author_href": false,
+        "comment": "File \"800px-SCP002.jpg\" deleted",
+        "date": "2023-09-08T14:32:00"
+      }
+    ],
+    "hubs": [
+      "top-rated-pages",
+      "scp-series-1-audio-edition",
+      "scp-series-1-tales-edition",
+      "highest-rated-scps",
+      "featured-scp-archive",
+      "april-fools-2020",
+      "april-fools-2021",
+      "audio-adaptations",
+      "scp-series"
+    ],
+    "images": [
+      "https://scp-wiki.wdfiles.com/local--files/scp-002/800px-SCP002-new.jpg"
+    ],
+    "link": "scp-002",
+    "page_id": "1927127",
+    "rating": 2069,
+    "raw_content": "<html><body><div id=\"page-content\">\n\n<div class=\"scp-image-block block-right\" style=\"width:300px;\"><img alt=\"800px-SCP002-new.jpg\" class=\"image\" src=\"https://scp-wiki.wdfiles.com/local--files/scp-002/800px-SCP002-new.jpg\"/>\n<div class=\"scp-image-caption\">\n<p>SCP-002 in its containment area</p>\n</div>\n</div>\n<p><strong>Item #:</strong> SCP-002</p>\n<p><strong>Object Class:</strong> Euclid</p>\n<p><strong>Special Containment Procedures:</strong> SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Once facility power is re-established, alternating bursts of X-ray and ultraviolet light must strobe the area until SCP-002 is re-affixed to the power supply and returned to recharging mode. Containment area is to be kept at negative air pressure at all times.</p>\n<p>Teams including a minimum of two (2) members are required within 20 meters of SCP-002 or its containment area. Personnel should maintain physical contact with one another at all times to confirm there is another person present, as perception may be dulled, skewed, or influenced by proximity to the object.</p>\n<p>No personnel below Level 3 are permitted within SCP-002. This requirement may be waived via written authorization from two (2) off-site Level 4 administrators. Command staff issued such a waiver must be escorted by at least five (5) Level 3 Security personnel for the duration of their contact and must temporarily surrender their rank and security clearance. Following contact, command staff will be escorted at least 5\u00a0km from SCP-002 to undergo a seventy-two (72)-hour quarantine and psychological evaluation. If deemed fit for return to duty by psych staff, rank and security clearance may be restored when quarantine expires.</p>\n<p><strong>Description:</strong> SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60\u00a0m\u00b3 (or 2000 ft\u00b3). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.</p>\n<p>Refer to the Mulhausen Report [cross-ref:document00.023.603] for details related to object's discovery.</p>\n<p><strong>Reference:</strong> To date, subject has been responsible for the disappearances of seven personnel. It has also in its time at the facility further furnished itself with two lamps, a throw rug, a television, a radio, a beanbag chair, three books in an unknown language, four children's toys, and a small potted plant. Tests with a variety of lab animals including higher primates have failed to provoke a response in SCP-002. Cadavers as well fail to produce any effect. Whatever process the subject uses to convert organic matter into furnishings is apparently only facilitated by the introduction of living humans.</p>\n<blockquote>\n<p>view Mulhausen Report docid:00.023.603</p>\n</blockquote>\n<blockquote>\n<p>Mulhausen Report [00.023.603]<br/>\n<br/>\nThe following is a brief report detailing the discovery of SCP-002</p>\n<p>Subject was discovered in a small crater in northern Portugal where it struck the Earth from orbit. Encased in a shell of thick rock, the fleshy exterior of the object was exposed by the impact. A native farmer happened upon the site and reported his findings to the village elder. Subject gained SCP attention when a Level 4 agent posted in the area detected a small radioactive anomaly generated by the object.</p>\n<p>A collection squad of SCP security personnel led by General Mulhausen was immediately dispatched to the area where they quickly secured the subject in a large container and perforv class=\"collapsible-block-folded\"><a class=\"collapsible-block-link\" href=\"javascript:;\">\u2021\u00a0Licensing\u00a0/\u00a0Citation</a></div>\n<div class=\"collapsible-block-unfolded\" style=\"display:none\">\n<div class=\"collapsible-block-unfolded-link\"><a class=\"collapsible-block-link\" href=\"javascript:;\">\u2021\u00a0Hide\u00a0Licensing\u00a0/\u00a0Citation</a></div>\n<div class=\"collapsible-block-content\">\n<p>Cite this page as:</p>\n<div class=\"list-pages-box\"> <div class=\"list-pages-item\">\n<blockquote>\n<p>\"<a href=\"/scp-002\">SCP-002</a>\" by Unknown Author, from the <a href=\"https://scpwiki.com\">SCP Wiki</a>. Source: <a href=\"https://scpwiki.com/scp-002\">https://scpwiki.com/scp-002</a>. Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC-BY-SA</a>.</p>\n</blockquote>\n</div>\n</div>\n<p>For information on how to use this component, see the <a href=\"/component:license-box\">License Box component</a>. To read about licensing policy, see the <a href=\"/licensing-guide\">Licensing Guide</a>.</p>\n\n<blockquote>\n<p><strong>Filename:</strong> 800px-SCP002-new.jpg<br/>\n<strong>Names:</strong> Leather ball, N/A, two brown steel wheeled airplane stairs on snow field during daytime<br/>\n<strong>Authors:</strong> The Metropolitan Museum of Art, N/A, N/A<br/>\n<strong>License:</strong> Public Domain, CC0, CC0<br/>\n<strong>Source Links:</strong> <a href=\"https://www.metmuseum.org/art/collection/search/545493\">Metropolitan</a>, <a href=\"https://pxhere.com/en/photo/1154955\">pxhere</a>, <a href=\"https://www.peakpx.com/470690/two-brown-steel-wheeled-airplane-stairs-on-snow-field-during-daytime\">peakpx</a></p>\n</blockquote>\n\n</div>\n</div>\n</div>\n</div>\n</div></body></html>",
+    "raw_source": "\n\t[[>]]\n\n[[module Rate]]\n\n[[/>]]\n\n\n\n[[include <a href=\"/component:image-block\">component:image-block</a> name=800px-SCP002-new.jpg|caption=SCP-002 in its containment area|width=300px]]\n\n\n\n**Item #:** SCP-002\n\n\n\n**Object Class:** Euclid\n\n\n\n**Special Containment Procedures:** SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Once facility power is re-established, alternating bursts of X-ray and ultraviolet light must strobe the area until SCP-002 is re-affixed to the power supply and returned to recharging mode. Containment area is to be kept at negative air pressure at all times. \n\n\n\nTeams including a minimum of two (2) members are required within 20 meters of SCP-002 or its containment area. Personnel should maintain physical contact with one another at all times to confirm there is another person present, as perception may be dulled, skewed, or influenced by proximity to the object.\n\n\n\nNo personnel below Level 3 are permitted within SCP-002. This requirement may be waived via written authorization from two (2) off-site Level 4 administrators. Command staff issued such a waiver must be escorted by at least five (5) Level 3 Security personnel for the duration of their contact and must temporarily surrender their rank and security clearance.\u00a0\u00a0Following contact, command staff will be escorted at least 5 km from SCP-002 to undergo a seventy-two (72)-hour quarantine and psychological evaluation.\u00a0\u00a0If deemed fit for return to duty by psych staff, rank and security clearance may be restored when quarantine expires.\n\n\n\n**\n>\u00a0\u00a0\n\n> Following the termination of General Mulhausen, SCP-002 was re-secured by SCP staff and \\\n\nbrought into special containment in [CLASSIFIED], where it currently resides. Staff with \\\n\nclearance below Level 3 have been denied access to the SCP-002 container without \\\n\nprior approval of at least two Level 4 staff after the Mulhausen incident. \\\n\n\n\n[[footnoteblock]]\n\n\n\n[[div class=\"footer-wikiwalk-nav\"]]\n\n[[=]]\n\n<< [[[SCP-001]]] | SCP-002 | [[[SCP-003]]] >>\n\n[[/=]]\n\n[[/div]]\n\n\n\n[[include <a href=\"http://scp-wiki.wikidot.com/component:license-box\">:scp-wiki:component:license-box</a>\n\n|author=Unknown Author]]\n\n=====\n\n> **Filename:** 800px-SCP002-new.jpg\n\n> **Names:** Leather ball, N/A, two brown steel wheeled airplane stairs on snow field during daytime\n\n> **Authors:** The Metropolitan Museum of Art, N/A, N/A\n\n> **License:** Public Domain, CC0, CC0\n\n> **Source Links:** [[[https://www.metmuseum.org/art/collection/search/545493|Metropolitan]]], [[[https://pxhere.com/en/photo/1154955|pxhere]]], [[[https://www.peakpx.com/470690/two-brown-steel-wheeled-airplane-stairs-on-snow-field-during-daytime|peakpx]]]\n\n=====\n\n[[include <a href=\"http://scp-wiki.wikidot.com/component:license-box-end\">:scp-wiki:component:license-box-end</a>]]\n",
+    "references": [
+      "scp-001",
+      "scp-003",
+      "component:license-box",
+      "licensing-guide"
+    ],
+    "scp": "SCP-002",
+    "scp_number": 2,
+    "series": "series-1",
+    "tags": [
+      "_cc",
+      "_licensebox",
+      "alive",
+      "euclid",
+      "featured",
+      "scp",
+      "structure",
+      "transfiguration"
+    ],
+    "title": "SCP-002",
+    "url": "https://scp-wiki.wikidot.com/scp-002"
+  }
+}
