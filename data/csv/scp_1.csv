@@ -1,25 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-985c1043-9826-470c-b626-74de3d7eac50,SCP-001,"Item #: SCP-001
-
-
-Pending
-
-
-
-
-
-
-
-Amoni-Ram.
-
-
-
-
-
-SCP-001, map.
-
-
-SPECIAL CONTAINMENT PROCEDURES: Full containment procedures have not been finalized due to recent changes in the status of SCP-001, detailed at the conclusion of this file with a tentative response plan. Foundation policy on cybernetic implants is currently frozen, pending Council vote.
+2a19107b-f96e-4bbe-8e99-ba08028c5ca9,SCP-001,"Item #: SCP-001 Pending Amoni-Ram. SCP-001, map. SPECIAL CONTAINMENT PROCEDURES: Full containment procedures have not been finalized due to recent changes in the status of SCP-001, detailed at the conclusion of this file with a tentative response plan. Foundation policy on cybernetic implants is currently frozen, pending Council vote.
 DESCRIPTION: SCP-001 is an extradimensional 'bubble' of self-contained reality, located in the southern Arabian desert, inaccessible to individuals that do not have prior knowledge of SCP-001's location. Traveling through the desert with only the intention of reaching SCP-001 is not sufficient; express and exact knowledge of its geographical position is required.
 Notably, individuals with some sort of artificial implant — ranging from surgical screws and plates to complex prosthetics — appear to have a higher chance of success in locating and entering the anomaly. The purpose and range of this is unclear, but personnel with implants successfully entered SCP-001 in 88% of tests, compared to standard personnel's 62%.
 SCP-001 contains an ancient metropolis partially buried in the sand. Maps and initial sonar testing indicate approximately two thirds of this city are aboveground and largely intact, while the subterranean portion has degraded heavily and is no longer structurally sound. The aboveground portion is made up of skyscrapers and buildings up to half a kilometer high using modern design techniques far beyond those available at the time of construction, which has been carbon dated to approximately 2,400 BCE. The buildings are fully set and furnished, and appear to have served residential, commercial, bureaucratic, and various other uses. The largest and most intricate of these buildings is a large temple structure in the center of the city that extends through all thirds.
@@ -27,14 +7,8 @@ There are no living organisms inside the city (See Section 001.4).
 The buildings also contain artistic works and large bas-reliefs depicting a variety of scenes ranging from apparently-religious stories to historical events. These contain writing in an unknown language containing elements of Old Arabic (See Section 001.2). Most of these are concentrated in the temple at the heart of SCP-001.
 The subterranean floors are dominated by extensive, complex machinery. These range from antiquated clockwork systems to vacuum tubes to power generators extremely similar to modern nuclear reactors. However, all machinery is nonfunctional and appears to be in a state of advanced disrepair.
 SCP-001-A is a collective designation for all automata found within the city, chief among which is SCP-001-A1 (See Section 001.2).
-SCP-001-A1 has identified the city as being the origin for the Quranic myth of Iram of the Pillars (See Section 001.1), but has clarified that its proper name is Amoni-Ram.
-
-
-Section 001.1
-HISTORICAL BRIEFING
-
-
-The first mention of Iram in mundane literature is in the eighty-ninth chapter of the Quran, lines six through fourteen. They reference ”Iram – who had lofty pillars, the likes of whom had never been created in the lands” as a culture subject to divine retribution by God for their oppression of others.
+SCP-001-A1 has identified the city as being the origin for the Quranic myth of Iram of the Pillars (See Section 001.1), but has clarified that its proper name is Amoni-Ram. Section 001.1
+HISTORICAL BRIEFING The first mention of Iram in mundane literature is in the eighty-ninth chapter of the Quran, lines six through fourteen. They reference ”Iram – who had lofty pillars, the likes of whom had never been created in the lands” as a culture subject to divine retribution by God for their oppression of others.
 
 6: Have you not considered how your Lord dealt with ‘Aad –
 7: [With] Iram – who had lofty pillars,
@@ -45,33 +19,10 @@ The first mention of Iram in mundane literature is in the eighty-ninth chapter o
 12: And increased therein the corruption.
 13: So your Lord poured upon them a scourge of punishment.
 14: Indeed, your Lord is in observation.
-Surah al-Fajr (6-14)
+Surah al-Fajr (6-14) From Lord Blackwood's private collection. Many theories have been offered on the identity or location of the group or city identified as Iram, but nothing has ever been confirmed by the wider historical community.
+SCP-001 first came to Foundation attention in 1983 upon the containment of SCP-1867. With the seizure of assets in SCP-1867's private vault, a series of journals were recovered detailing its experiences with the French Armée d'Orient during their campaign into the Middle East in 1801. One journal partially dictated an encounter with a vast, ruined city accessible only to those who knew its location, but moisture damage had left it largely unreadable. An interview was conducted. ▶OPEN ADDENDUM◀
 
-
-
-From Lord Blackwood's private collection.
-
-
-Many theories have been offered on the identity or location of the group or city identified as Iram, but nothing has ever been confirmed by the wider historical community.
-SCP-001 first came to Foundation attention in 1983 upon the containment of SCP-1867. With the seizure of assets in SCP-1867's private vault, a series of journals were recovered detailing its experiences with the French Armée d'Orient during their campaign into the Middle East in 1801. One journal partially dictated an encounter with a vast, ruined city accessible only to those who knew its location, but moisture damage had left it largely unreadable. An interview was conducted.
- 
- 
- 
-
-▶OPEN ADDENDUM◀
-
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - JUNE 1983
-
-
-
-Lord Theodore Thomas Blackwood.
-
-
-INTERVIEWER: Doctor Hedvig Nussbaum, Parahistory Division, Special Consultant on Anomalous Cults and Cultures
+▷CLOSE◁ ATTACHED TRANSCRIPT - JUNE 1983 Lord Theodore Thomas Blackwood. INTERVIEWER: Doctor Hedvig Nussbaum, Parahistory Division, Special Consultant on Anomalous Cults and Cultures
 SUBJECT: SCP-1867 (""Lord Theodore Thomas Blackwood"")
 «BEGIN LOG»
 
@@ -103,44 +54,19 @@ SCP-1867: Indeed. Throughout, the city has a very specific…. air, I suppose.
 NUSSBAUM: An air?
 SCP-1867: The distinct feeling of walking into a graveyard.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-SCP-1867 surrendered the location of the Aegean Tablets. Translation is ongoing due to the extremely specific dialect of Ancient Greek they are written in. The extant page of the journal mentioned by Blackwood contains a translation of the front of the first tablet.
-
-
-ATTACHED DOCUMENT — JULY 1983
-
-
-In the beginning, there were three.
+«END LOG» ▷CLOSE◁ SCP-1867 surrendered the location of the Aegean Tablets. Translation is ongoing due to the extremely specific dialect of Ancient Greek they are written in. The extant page of the journal mentioned by Blackwood contains a translation of the front of the first tablet. ATTACHED DOCUMENT — JULY 1983 In the beginning, there were three.
 A thousand years before, before man learned of Olympus, before the extinction of the giants, before the sea had full regressed, there were three. Three great cities dividing the world tripartite.
 Mamjul and Korar, two dark fortresses resting in the jungles of the subcontinent. The magicians and sorcerer-nawabs allied themselves against the horrors of the jungle, and crossed a pact with something ancient. The Covenant of the Daeva was born, using the first magic gifted to Man - the magic of life and death.
 Adytum, a city thrown into rebellion by a charismatic slave turned lay preacher who promised wealth, freedom, and power to those that would help him. Together they threw off their yokes, slaughtered their oppressors with their new sorcery and rebuilt their collapsed city, all under the name of the Grand Karcist Ion. The Nälka Empire freed the second magic - carnomancy, the magic of flesh.
 Amoni-Ram, first great Ram of the Mekhanite Empire as it spread like a wildfire from the deserts. A gleaming, shining metropolis rising out of the dunes - a center of knowledge, science, understanding that the world had never seen. The magic of machines became known, the fervor for a new god that sought to uplift men, not subjugate them.
 A thousand years before, the three great nations of men fought a war that destroyed the world.
 
-The Aegean Tablets go on to clarify that Amoni-Ram was ruled by a theocratic cult in the area. The endonym of the group is unknown, but the Greek tablets refer to it exclusively as the Mekhanite Cult or Cult of the Broken God. No other evidence for this group had been discovered thus far.
-
-
-Section 001.2
-INITIAL ENCOUNTER
-
-
-MTF Sigma-3 (""Magellan Men"") were dispatched to the coordinates provided by SCP-1867 to investigate the location of SCP-001 and, if possible, gain entry to the city.
+The Aegean Tablets go on to clarify that Amoni-Ram was ruled by a theocratic cult in the area. The endonym of the group is unknown, but the Greek tablets refer to it exclusively as the Mekhanite Cult or Cult of the Broken God. No other evidence for this group had been discovered thus far. Section 001.2
+INITIAL ENCOUNTER MTF Sigma-3 (""Magellan Men"") were dispatched to the coordinates provided by SCP-1867 to investigate the location of SCP-001 and, if possible, gain entry to the city.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED DOCUMENT — AUGUST 1983
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED DOCUMENT — AUGUST 1983 «BEGIN LOG»
 
 MAGELLAN-1: We're coming up to the coordinates now. Set her down nice and easy, we'll walk the last klick, over.
 MAGELLAN-5 (PILOT): Roger that, over.
@@ -193,13 +119,7 @@ COMMAND: Permission granted.
 [MAGELLAN enters the compound. The interior is an open-air courtyard with a central, thirty-meter statue of a man sitting on a throne. The man's face is obscured by an intricate mask, and his robes fall away to reveal a torso made of metal plating.]
 MAGELLAN-4: Looks kingly, alright.
 MAGELLAN-3: I sure hope that's not life-size.
-MAGELLAN-2: Check out these walls, Command. They look almost like… no, they're definitely telling a story. Should get somebody smarter than us to take a look at it.
-
-
-Amoni-ram, palace.
-
-
-COMMAND: Roger. Continue into the palace for now.
+MAGELLAN-2: Check out these walls, Command. They look almost like… no, they're definitely telling a story. Should get somebody smarter than us to take a look at it. Amoni-ram, palace. COMMAND: Roger. Continue into the palace for now.
 [MAGELLAN enters through the large doorway, into a central court area. An oversized throne, inset with gears and swords, sits on a raised daïs at the opposite end. The interior of the palace is vast - the following hour is spent exploring its various staterooms, kitchens, and bathrooms. The vast gardens are completely bare of greenery, and as with the rest of the city, no living thing is present. MAGELLAN returns to the throne room.]
 MAGELLAN-3: This place gives me the creeps. It doesn't feel abandoned but… where is everyone?
 MAGELLAN-1: No idea. In any case, it's getting late, we should pack it in and-
@@ -215,181 +135,38 @@ MAGELLAN-1: Got it, over. At least there's only-
 [A louder skittering becomes audible. Around the throne room, a larger number of automatons, all small but varying in shape, peer out of the various pipes.]
 MAGELLAN-1: Oh.
 
-«END LOG»
+«END LOG» ▷CLOSE◁ MAGELLAN team exited Amoni-Ram, and were not pursued by the SCP-001-A instances. On their way out, they noted many SCP-001-A instances milling about the city and traversing through the city's pipe system, indicating its purpose as transportation for the entities. The SCP-001-A instances expressed no hostility towards MAGELLAN team, and several approached to investigate. None followed past the borders of the city. Section 001.3
+INVESTIGATION Upon debriefing of MAGELLAN team, and a series of subsequent expeditions to ascertain the area's safety and the docility of SCP-001-A instances, it was proposed that a long-term research outpost be established inside SCP-001 to study the history of Amoni-Ram, the then-unmapped undercity, and SCP-001-A. ATTACHED DOCUMENT — AUGUST 1983
 
-
-▷CLOSE◁
-
-
-MAGELLAN team exited Amoni-Ram, and were not pursued by the SCP-001-A instances. On their way out, they noted many SCP-001-A instances milling about the city and traversing through the city's pipe system, indicating its purpose as transportation for the entities. The SCP-001-A instances expressed no hostility towards MAGELLAN team, and several approached to investigate. None followed past the borders of the city.
-
-
-Section 001.3
-INVESTIGATION
-
-
-Upon debriefing of MAGELLAN team, and a series of subsequent expeditions to ascertain the area's safety and the docility of SCP-001-A instances, it was proposed that a long-term research outpost be established inside SCP-001 to study the history of Amoni-Ram, the then-unmapped undercity, and SCP-001-A.
-
-
-ATTACHED DOCUMENT — AUGUST 1983
-
-COUNCIL VOTE SUMMARY:
-
-
-YEA
+COUNCIL VOTE SUMMARY: YEA
 ABSTAIN
-NAY
-
-
-O5-01
-
-
-
-
-
-
-O5-02
-
-
-O5-03
-
-
-
-
-O5-04
-
-
-
-
-O5-05
-
-
-
-
-O5-06
-
-
-
-
-
-
-O5-07
-
-
-
-
-O5-08
-
-
-O5-09
-
-
-
-
-O5-10
-
-
-
-
-
-O5-11
-
-
-
-O5-12
-
-
-
-
-O5-13
-
-
-
-
- 
-
-
-STATUS
-
-
-APPROVED
-
-
-
-Forty-three researchers were flown in from various sites and departments, primarily specializing in archaeology, history (anomalous or otherwise), and paratechnology — accompanying them was 15-man Tactical Response Team India-Three ""Cherno"". As augmented personnel were still common within the Foundation at this time, individuals with complex prosthetics, bionics, and implants were favored, both due to the relative ease of accessing SCP-001 and for further study of the unexplained connection to SCP-001-A instances. Two co-leads were selected for the project: Doctor Robert Aram and Doctor Hedvig Nussbaum.
-
-
-
-Dr. Robert Aram
-Dr. Hedvig Nussbaum
-
-
-
-
-
-Doctor Robert Aram
-
-
-Doctor Robert Aram
+NAY O5-01 O5-02 O5-03 O5-04 O5-05 O5-06 O5-07 O5-08 O5-09 O5-10 O5-11 O5-12 O5-13 STATUS APPROVED Forty-three researchers were flown in from various sites and departments, primarily specializing in archaeology, history (anomalous or otherwise), and paratechnology — accompanying them was 15-man Tactical Response Team India-Three ""Cherno"". As augmented personnel were still common within the Foundation at this time, individuals with complex prosthetics, bionics, and implants were favored, both due to the relative ease of accessing SCP-001 and for further study of the unexplained connection to SCP-001-A instances. Two co-leads were selected for the project: Doctor Robert Aram and Doctor Hedvig Nussbaum. Dr. Robert Aram
+Dr. Hedvig Nussbaum Doctor Robert Aram Doctor Robert Aram
 Age: 33
 Position: Senior Researcher in the Paratechnology Department, Special Consultant on Anomalous Robotics
 Education: PhD in Thaumechatronics from ICSUT, Three Portlands.
 Previous Assignment: Consulting on anomalous technology recovered from Group of Interest ""Prometheus Labs, Incorporated"".
 Employment Summary: Left previous employer, Prometheus Labs Inc., in 1979 over a salary dispute. Accepted an attractive recruitment offer from the Foundation later that year, and was brought in to consult and advise on anomalous objects recovered from his previous workplace. Distinguished himself with superior, prodigal knowledge and skill in handling paratechnology; promoted to Senior Researcher in 1982.
-Other Notes: Left arm and leg amputated below the elbow and knee following laboratory accident at Prometheus. Replaced with high-quality anomalous prosthetics that allow fine motor movement and limited tactile sensation. Due to his dependence on them to function in the workplace, they have not been placed into containment and are in his full-time custody.
-
-
-
-
-Doctor Hedvig Nussbaum
-
-
-Doctor Hedvig Nussbaum
+Other Notes: Left arm and leg amputated below the elbow and knee following laboratory accident at Prometheus. Replaced with high-quality anomalous prosthetics that allow fine motor movement and limited tactile sensation. Due to his dependence on them to function in the workplace, they have not been placed into containment and are in his full-time custody. Doctor Hedvig Nussbaum Doctor Hedvig Nussbaum
 Age: 43
 Position: Researcher with the Parahistory Division, Special Consultant on Anomalous Cults and Cultures
 Education: PhD in Archaeology, University of Oslo.
 Previous Assignment: Cataloguing anomalous objects recovered in the possession of SCP-1867.
 Employment Summary: Recruited out of graduate school at 32 in 1972. Junior researcher on various programs until 1983, promoted to full Researcher with Level 3 Clearance upon her discovery of a complex of anomalous ruins in Sub-Saharan Africa. Assigned to assist with the cataloguing and identification of the large amount of anomalous artifacts discovered in SCP-1867's vault when she discovered the references to SCP-001.
-Other Notes: Noninvasive ocular implant allowing hands-free visual communication and overlay, as well as general access to Foundation databases.
-
-
-
-
-All personnel selected were introduced through SCP-001 with substantial supplies and equipment, and organized a provisional dormitory and research facility in the temple and palace complex (designated ARF-01). SCP-001-A instances appeared intrigued by the new arrivals and approached to investigate before losing interest shortly thereafter. Researchers were organized primarily into two groups - an engineering team headed by Doctor Aram to investigate the technology of Amoni-Ram and SCP-001-A instances, and an anthropological team headed by Doctor Nussbaum to investigate the history, culture, and ultimate fate of the 'Mekhanite Empire'.
+Other Notes: Noninvasive ocular implant allowing hands-free visual communication and overlay, as well as general access to Foundation databases. All personnel selected were introduced through SCP-001 with substantial supplies and equipment, and organized a provisional dormitory and research facility in the temple and palace complex (designated ARF-01). SCP-001-A instances appeared intrigued by the new arrivals and approached to investigate before losing interest shortly thereafter. Researchers were organized primarily into two groups - an engineering team headed by Doctor Aram to investigate the technology of Amoni-Ram and SCP-001-A instances, and an anthropological team headed by Doctor Nussbaum to investigate the history, culture, and ultimate fate of the 'Mekhanite Empire'.
 A general directive was given for all researchers and Tactical Response Officers to avoid the subterranean undercity until a detachment from MTF Zeta-9 (""Mole Rats"")1 could arrive to map it out and declare it safe for study. In the meantime, both groups began investigating the rest of the surface city and compiling preliminary reports.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED DOCUMENT — SEPTEMBER 1983
-
-
-FROM THE DESK OF DOCTOR ROBERT ARAM
+▷CLOSE◁ ATTACHED DOCUMENT — SEPTEMBER 1983 FROM THE DESK OF DOCTOR ROBERT ARAM
 AMONI-RAM INITIATIVE
 
 Preliminary notes on the paratechnology of Amoni-Ram
 
 I've encountered many strange, unique things over my career at Prometheus and the Foundation, but I can firmly state that I've never seen anything quite as magical as Amoni-Ram.
 So far we've only been able to investigate the machinery on the surface city (I'm told the real treasure is under the streets, but obviously we can't explore that right now) which appears to be largely concentrated in the upper floors of the skyscrapers, though I think calling them skyscrapers is an understatement. Each is about 500m, a little taller than Sears Tower. A marvel of engineering in and of itself, but not an obviously anomalous one. What they contain, however, is a different story.
-For my layman's perspective, they appear to be a combination of residential, office, and bureaucratic buildings. Each floor seems to consign itself to one of those three types, and contains appropriate pieces of technology - most are too degraded to be useful, but the fact that they're there at all after thousands of years is incredible. I can discern the purposes of about a quarter of them, though. They're all anomalous to some extent - the drones are writing up detailed reports now, but they variously break laws of thermodynamics, physics, and matter conservation, and often simply use magic to do things as mundane as copy documents or keep food hot or cold.
-
-
-SCP-001-A instance.
-
-
-And, of course, the automata. Little machines, made of a golden metal and built to resemble animals that this culture in the middle of the desert could have no possible way of knowing about. Definitely sentient, possibly sapient - fully mechanical (I found a broken-open one on the street and took it as a sample, picture attached) but demonstrating what looks to me like primitive artificial intelligence. There must be hundreds of them, at least - my guess is that they were designed to maintain the city and, for the millenia it's lain abandoned, they've been doing exactly that. They're pretty cute, to be honest.
-Whatever this civilization was, the anomalous was so pedestrian to them they were using paratechnology we even now barely understand as household appliances and servants. They were playing with nuclear reactors while the rest of us huddled in caves behind the fire. If this is any indicator of what lies below the streets… Amoni-Ram might be the key to pushing humanity into the future.
-
-
-
-
-ATTACHED DOCUMENT — SEPTEMBER 1983
-
-
-FROM THE DESK OF DOCTOR HEDVIG NUSSBAUM
+For my layman's perspective, they appear to be a combination of residential, office, and bureaucratic buildings. Each floor seems to consign itself to one of those three types, and contains appropriate pieces of technology - most are too degraded to be useful, but the fact that they're there at all after thousands of years is incredible. I can discern the purposes of about a quarter of them, though. They're all anomalous to some extent - the drones are writing up detailed reports now, but they variously break laws of thermodynamics, physics, and matter conservation, and often simply use magic to do things as mundane as copy documents or keep food hot or cold. SCP-001-A instance. And, of course, the automata. Little machines, made of a golden metal and built to resemble animals that this culture in the middle of the desert could have no possible way of knowing about. Definitely sentient, possibly sapient - fully mechanical (I found a broken-open one on the street and took it as a sample, picture attached) but demonstrating what looks to me like primitive artificial intelligence. There must be hundreds of them, at least - my guess is that they were designed to maintain the city and, for the millenia it's lain abandoned, they've been doing exactly that. They're pretty cute, to be honest.
+Whatever this civilization was, the anomalous was so pedestrian to them they were using paratechnology we even now barely understand as household appliances and servants. They were playing with nuclear reactors while the rest of us huddled in caves behind the fire. If this is any indicator of what lies below the streets… Amoni-Ram might be the key to pushing humanity into the future. ATTACHED DOCUMENT — SEPTEMBER 1983 FROM THE DESK OF DOCTOR HEDVIG NUSSBAUM
 AMONI-RAM INITIATIVE
 
 Personal thoughts on the historical potential of Amoni-Ram
@@ -397,24 +174,11 @@ Personal thoughts on the historical potential of Amoni-Ram
 I have to continually pinch myself to make sure I'm not dreaming. A vast city, undocumented by anyone else in the modern era, hiding a culture that had blended advanced magic and technology to settle half of Asia while the Egyptians had yet to settle the Nile. If the evidence wasn't surrounding me, I'd call myself a liar.
 We've already discovered much. Some of the researchers are more interested in investigating the individual houses and homes to see what an average citizen lived like - completely understandable. That said, I'm far more intrigued by this 'Cult of Mekhane' that seems to pervade every aspect of Amoni-Ram.
 In the ruins of Sumer and other ancient cities, religious iconography is common. Here, it's ubiquitous; the palace-temple is the most obvious example of this, with mechanical bas-reliefs that seem to tell a creation myth laid throughout. The buildings, houses, shops, skyscrapers, even the machinery Robert's team is disassembling have this religious significance about them.
-It's especially fascinating since practically nothing else is known to us about the religion or culture of these 'Mekhanites' beyond the admittedly-questionable statements of Lord Blackwood. Even the name Mekhanite is a Greek epithet used in the Aegean tablets, derivative of mekhane; machine. As it stands, their culture is a blackbox, and even with the murals and writings, I doubt we will ever have more than a passing understanding of this once-great civilization - and what happened to them.
-
-
-▷CLOSE◁
-
-
-MTF Zeta-9 Fireteam ECHO passed through SCP-001 and arrived in Amoni-Ram on September 6th with no complications. The next day, they prepared themselves for insertion into Amoni-Ram's undercity in a controlled exploration. All members were, along with their individual digital augments and implants, equipped with Cochlear Topological Mappers, devices that use high-frequency echoing sound waves to construct maps of subterranean areas.
+It's especially fascinating since practically nothing else is known to us about the religion or culture of these 'Mekhanites' beyond the admittedly-questionable statements of Lord Blackwood. Even the name Mekhanite is a Greek epithet used in the Aegean tablets, derivative of mekhane; machine. As it stands, their culture is a blackbox, and even with the murals and writings, I doubt we will ever have more than a passing understanding of this once-great civilization - and what happened to them. ▷CLOSE◁ MTF Zeta-9 Fireteam ECHO passed through SCP-001 and arrived in Amoni-Ram on September 6th with no complications. The next day, they prepared themselves for insertion into Amoni-Ram's undercity in a controlled exploration. All members were, along with their individual digital augments and implants, equipped with Cochlear Topological Mappers, devices that use high-frequency echoing sound waves to construct maps of subterranean areas.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT — SEPTEMBER 1983
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED TRANSCRIPT — SEPTEMBER 1983 «BEGIN LOG»
 
 ECHO-1: Echo One, beginning Op. Inserting into Amoni-Ram subterranean zone from Entrance Alpha, near home base.
 ECHO-2: Looks dark down there. Night vision?
@@ -429,26 +193,14 @@ ECHO-4: Might not be an industrial area at all.
 [They continue their descent before their elevation stabilizes.]
 ECHO-1: Alright, we appear to have reached the bottom. Instruments say we are 25m below ground.
 ECHO-3: We're in some sort of corridor. Walls are stone but there's those same pipes in every direction. There's a couple of paths we could take.
-ECHO-1: Taking the first left, left-hand rule. Leave a marker trail.
-
-
-Ocular implant still image.
-
-
-[ECHO team begins walking down the corridor, periodically marking the wall with red paint. It is wide enough to comfortably accommodate all of them.]
+ECHO-1: Taking the first left, left-hand rule. Leave a marker trail. Ocular implant still image. [ECHO team begins walking down the corridor, periodically marking the wall with red paint. It is wide enough to comfortably accommodate all of them.]
 ECHO-2: Looks like there's lights on the walls. Nonfunctional, though.
 ECHO-4: I see something up ahead, I think. Down on the left.
 ECHO-1: Yup. Eyes up, boys.
 [ECHO team advances into the room.]
 ECHO-3: Clear.
 ECHO-2: Looks like some sort of foundry, command. Huge room, assembly line, lots of big machinery. Most of it looks trashed, though.
-ECHO-4: Taking photos. The techies will love this.
-
-
-Ocular implant still image.
-
-
-[Team moves around the room, collecting evidence and surveying the area.]
+ECHO-4: Taking photos. The techies will love this. Ocular implant still image. [Team moves around the room, collecting evidence and surveying the area.]
 ECHO-1: Let's not spend the day down here, folks. Keep moving.
 ECHO-3: Yep, packing up now.
 ECHO-4: Onwards and downwards.
@@ -471,13 +223,7 @@ ECHO-3: No, sorry. Implant's just acting kind of wonky.
 ECHO-2: Is it flickering and going staticky?
 ECHO-3: Yeah, how did you-
 ECHO-2: Happening to mine too. I asked some of the scientists, they mentioned their augments have also been a little cranky. City obviously has a weird relationship with tech, they're working on figuring out what.
-ECHO-4: Huh.
-
-
-Ocular implant still image.
-
-
-ECHO-3: Well, don't go- Fuck!
+ECHO-4: Huh. Ocular implant still image. ECHO-3: Well, don't go- Fuck!
 [ECHO-3 loses his footing and is grabbed by ECHO-2 as the pipework beneath shears away and collapses. A large section falls into the abyss below, landing with a splash.]
 ECHO-2: Woah, you good?
 ECHO-3: Yeah, Jesus. Thanks. And, uh, I think we've discovered the sewers.
@@ -510,37 +256,13 @@ ECHO-3: What the hell?
 [The object is a massive block of metal covered in gears, displays, circuitry, and vacuum tubes extending throughout the room to more machinery arranged along the walls. At the front of the block of metal, a vaguely humanoid figure juts outward, hanging into the empty air like a figurehead. A human head, arm, and upper chest are placed on a mostly-mechanical frame. It looks upward as ECHO team approaches, firearms raised. It opens its mouth and a stilted, feminine voice with a digital edge booms out from the machine.]
 SCP-001-A1: YOU HAVE ENTERED THE GATE OF THE WEST, ADYTUM'S ANSWER, THE GREAT AND HOLY CITY OF AMONI-RAM. WELCOME. THERE IS MUCH TO DISCUSS.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-
-
-Section 001.4
-FURTHER INVESTIGATION
-
-
-Further inquiries from ECHO team to SCP-001-A1 were rebuffed or met with nonsensical statements. It repeatedly expressed the desire to speak with 'the scholars', interpreted to refer to Doctors Aram and Nussbaum. ECHO team spent the following hours mapping a path back to the surface, utilizing their CTMs. Upon arrival, researchers used the collected data to construct a 3D rendering of a significant portion of Amoni-ram's undercity, attached below.
-
-
-Sonar rendering of Amoni-Ram.
-
-
-ECHO team was debriefed and declared that the undercity was largely safe for exploration, barring particularly heavily corroded passages and areas infested by the anomalous extinct vegetation species, tentatively classified as SCP-001-B, and the pods of acid, classified as SCP-001-C. Subsequent sample analysis determined that the external 'skin' of the pods was an organic but calcified substance similar to flesh.
+«END LOG» ▷CLOSE◁ Section 001.4
+FURTHER INVESTIGATION Further inquiries from ECHO team to SCP-001-A1 were rebuffed or met with nonsensical statements. It repeatedly expressed the desire to speak with 'the scholars', interpreted to refer to Doctors Aram and Nussbaum. ECHO team spent the following hours mapping a path back to the surface, utilizing their CTMs. Upon arrival, researchers used the collected data to construct a 3D rendering of a significant portion of Amoni-ram's undercity, attached below. Sonar rendering of Amoni-Ram. ECHO team was debriefed and declared that the undercity was largely safe for exploration, barring particularly heavily corroded passages and areas infested by the anomalous extinct vegetation species, tentatively classified as SCP-001-B, and the pods of acid, classified as SCP-001-C. Subsequent sample analysis determined that the external 'skin' of the pods was an organic but calcified substance similar to flesh.
 Project leads Aram and Nussbaum were briefed on the discovery of SCP-001-A1 under the palace and its requests for their presence. Both agreed to conduct an interview, and were escorted by a contingent of armed Tactical Response Officers to SCP-001-A1's chamber the following day.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - SEPTEMBER 1983
-
-
-INTERVIEWERs: Doctor Hedvig Nussbaum, Doctor Robert Aram
+▷CLOSE◁ ATTACHED TRANSCRIPT - SEPTEMBER 1983 INTERVIEWERs: Doctor Hedvig Nussbaum, Doctor Robert Aram
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -593,13 +315,7 @@ SCP-001-A1: YES. I WILL ANSWER ANY INQUIRIES YOU HAVE, MECHANIST. THE AUTOMATA W
 NUSSBAUM: I- Thank you. We are in your debt.
 SCP-001-A1: NO. A BARGAIN HAS BEEN STRUCK. A FAIR EXCHANGE. WE SHOW YOU, AND YOU PRESERVE THE MEKHANITE EMPIRE. GO NOW.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-SCP-001-A1 presented Doctors Aram and Nussbaum with a series of documents printed from its ""body"". The documents were as follows:
+«END LOG» ▷CLOSE◁ SCP-001-A1 presented Doctors Aram and Nussbaum with a series of documents printed from its ""body"". The documents were as follows:
 
 A basic translation guide from the language all records within Amoni-Ram are written in, coined Mekhanite, to English, with some Greek bywords. Digitized and distributed to all members of the archaeological team;
 A map of the undercity, fully annotated with sections of interest and unpassable areas that ECHO team had missed. Combined with the CTM map formed by ECHO team to offer a complete map of the undercity;
@@ -610,18 +326,8 @@ With the assistance provided by SCP-001-A1, research into Amoni-Ram began in ear
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED DOCUMENT - SEPTEMBER 1983
-
-
-MURAL ANALYSIS
-AMONI-RAM INITIATIVE
-
-
-The temple courtyard contains intricate murals depicting what Dr. Nussbaum theorizes is a creation myth for the extant Mekhanite culture. Accompanying these are plaques bearing an inscription in Mekhanite. While the rest of the archaeological team investigated the rest of the city, a small team was dedicated to translating the courtyard engravings.
+▷CLOSE◁ ATTACHED DOCUMENT - SEPTEMBER 1983 MURAL ANALYSIS
+AMONI-RAM INITIATIVE The temple courtyard contains intricate murals depicting what Dr. Nussbaum theorizes is a creation myth for the extant Mekhanite culture. Accompanying these are plaques bearing an inscription in Mekhanite. While the rest of the archaeological team investigated the rest of the city, a small team was dedicated to translating the courtyard engravings.
 
 Side Description: First relief depicts a scene of three figures wrestling in a dark void, followed by the figures falling to different corners of a slightly inaccurate2 map of Asia. One lands in the far corner of the Indian subcontinent, one lands on the coast of China, and one lands in the center of the Arabian peninsula. This final figure dominates the rest of the scenes; it is revealed to be a massive but lithe figure dressed in golden armor. A shepherd, his wife, and his three lame sheep happen upon it buried in the sand, obviously wounded.
 Translation of Plaque: BEFORE THE NEW PANTHEON, BEFORE THE SMOKE AND THE SINGING, THE OLD GODS FOUGHT THEIR WAR OVER NOTHING. THEY WOUNDED EACH OTHER AND FELL, TWISTING AND WRITHING, TO THE LOWEST WORLD. MEKHANE, BLESSED BE HER NAME, ALIGHTED IN THE FAR WEST UNDER THE SCORCHING GAZE OF THE SUN. SHE RESTED IN THE DUNES, UNCOVERED BY THE FLOCK OF A SHEPHERD - BUMARO.
@@ -630,18 +336,8 @@ Side Description: The god reaches out and touches the shepherd and his wife. The
 Translation of Plaque: MEKHANE DREW FORTH HER TOUCH AND RAISED THEM. BUMARO'S LAME LEG REPLACED BY A GREAVE, HEDARA'S SIGHT RESTORED AND ALL GIVEN THE FORM OF THE ANGELS. GRATEFUL, THEY SOUGHT TO RAISE THEIR NEW GOD FROM HER TOMB, AND THEY FAILED.
 
 Side Description: The god digs deeper, lying face down in the sand. It looks up at the shepherd and strips the armor from its massive fist. The shepherd takes the armor and fashions a simple forge, melting and reforging it into a suit of armor in the image of the god and a massive throne. He returns to his village, where the people naturally submit to him. Many are disabled and lacking limbs. They return to the resting place of the god, who touches them all in turn, replacing their shortcomings with its gifts. They rejoice and, as the god strips its armor, use the metal to construct a shining city on its back.
-Translation of Plaque: SHE KNEW THAT THE WOUND WAS NOT MORTAL, BUT CRIPPLING. SHE UNDERSTOOD HER FATE - AND ENTRUSTED HER LEGACY TO BUMARO AND HIS BLOOD. HE BECAME THE FIRST BLACKSMITH, SHAPING THE METAL OF HER BODY AS SHE SHAPED LIFE ITSELF. HE MADE HIMSELF IN HER IMAGE, AND THE PEOPLE WERE AWED. FOR THEIR FAITH, THEY WERE UPLIFTED BEYOND THE CHAINS OF HUMANITY, AND FROM HER STRIPPED ARMOR THEY RAISED THE FIRST CITY ON THE BACK OF THE SLEEPING GODDESS - AMONI-RAM, CITY OF FULADH, SHINING GATE OF THE WEST.
-
-
-
-ATTACHED DOCUMENT - OCTOBER 1983
-
-
-MACHINERY LOG
-AMONI-RAM INITIATIVE
-
-
-From September to February, hundreds of pieces of technology were analyzed and investigated by the engineering team. While many were too degraded to be of any practical use, they were still highly illuminating in determining the technology level of the extant Mekhanite culture. A few particularly notable discoveries are attached:
+Translation of Plaque: SHE KNEW THAT THE WOUND WAS NOT MORTAL, BUT CRIPPLING. SHE UNDERSTOOD HER FATE - AND ENTRUSTED HER LEGACY TO BUMARO AND HIS BLOOD. HE BECAME THE FIRST BLACKSMITH, SHAPING THE METAL OF HER BODY AS SHE SHAPED LIFE ITSELF. HE MADE HIMSELF IN HER IMAGE, AND THE PEOPLE WERE AWED. FOR THEIR FAITH, THEY WERE UPLIFTED BEYOND THE CHAINS OF HUMANITY, AND FROM HER STRIPPED ARMOR THEY RAISED THE FIRST CITY ON THE BACK OF THE SLEEPING GODDESS - AMONI-RAM, CITY OF FULADH, SHINING GATE OF THE WEST. ATTACHED DOCUMENT - OCTOBER 1983 MACHINERY LOG
+AMONI-RAM INITIATIVE From September to February, hundreds of pieces of technology were analyzed and investigated by the engineering team. While many were too degraded to be of any practical use, they were still highly illuminating in determining the technology level of the extant Mekhanite culture. A few particularly notable discoveries are attached:
 
 Description: Four-meter poles inset into the ground at various intervals through the streets of Amoni-Ram. Six disc-shaped objects, a meter wide, top each pole. When an electrical current is applied to the pole, the discs begin to knock against each other, emitting radio waves of unclear purpose. Currently theorized to be some sort of conductor system for the city, possibly an attempt at creating a free, wireless power system.
 
@@ -653,19 +349,7 @@ Description: Small metal shields with two switches on the handle. When fully pow
 
 Description: Large constructs, two in every district, set into the ground, though not part of the undercity. The locks and seals have been damaged. Inside are large machines that have been investigated to contain radioactive material. Details are currently sealed, but the engineering team is of the opinion that these could have been functional nuclear or possibly cold-fusion reactors, supplying electricity to the city's power grid and 'power poles'.
 
-Description: Unclear. Large sections of the undercity are inaccessible, making thorough analysis difficult - however, the engineering team agreed that a significant portion of the undercity appears to be one gargantuan machine incorporating mundane technology along with paratechnology. Further research required.
-
-
-▷CLOSE◁
-
-
-In the process of research and excavation, SCP-001-A instances led the archaeological team to a structure within the Southern district that appeared to be a record center, possibly a library or university. While the vast majority of the paper documents contained therein were rotted and illegible, the metal and clay tablets were remarkably well-preserved. The instances further directed personnel to a basement section containing a large metal safe, since rusted off its hinges. Within was a cache of several dozen metal cylinders measuring 10cm in diameter, imprinted with writing in Mekhanite. Due to their form, the language, and several other factors, only one was immediately translated.
-
-
-ATTACHED DOCUMENT - NOVEMBER 1983
-
-
-And the Shining Eye of the Empire rose as Bumaro took his anointed Seat on the Fuladh Throne. Amoni-Ram rose from the sands on the back of MEKHANE, her Pieces scattered to the six winds and the five corners of the world. As the slaves marched on Adytum in the East and the Covenants were struck in the South, so too was the holiest and the godliest of magics given freely to Man under the watchful eye of the Sun.
+Description: Unclear. Large sections of the undercity are inaccessible, making thorough analysis difficult - however, the engineering team agreed that a significant portion of the undercity appears to be one gargantuan machine incorporating mundane technology along with paratechnology. Further research required. ▷CLOSE◁ In the process of research and excavation, SCP-001-A instances led the archaeological team to a structure within the Southern district that appeared to be a record center, possibly a library or university. While the vast majority of the paper documents contained therein were rotted and illegible, the metal and clay tablets were remarkably well-preserved. The instances further directed personnel to a basement section containing a large metal safe, since rusted off its hinges. Within was a cache of several dozen metal cylinders measuring 10cm in diameter, imprinted with writing in Mekhanite. Due to their form, the language, and several other factors, only one was immediately translated. ATTACHED DOCUMENT - NOVEMBER 1983 And the Shining Eye of the Empire rose as Bumaro took his anointed Seat on the Fuladh Throne. Amoni-Ram rose from the sands on the back of MEKHANE, her Pieces scattered to the six winds and the five corners of the world. As the slaves marched on Adytum in the East and the Covenants were struck in the South, so too was the holiest and the godliest of magics given freely to Man under the watchful eye of the Sun.
 And the Sword of MEKHANE cut a swath through the world, and all those trembled in fear until they saw the light of the Ram. The greatest city of Man, gifted by MEKHANE but built by the hands of the workers, not the demons of the Covenant or the flesh-slaves. The Empire swelled and the Metal Road ferried new people, and Amoni-Ram swelled from their presence, and the world was good as Bumaro watched from his Throne for his reign of centuries.
 And when his reign ended and his golden body passed, the Empress Hedara wept, and the city of Amoni-Ram wept with her, and they rested their hope onto the heir. And Hashir Bumaro grew into a wise king under the auspices of his family, and gave his arm and his leg for his empire just as his father had done, and in that way Bumaro lived on, resting in the soul of his son and his son's son and so on forevermore.
 And the Emperor Bumaro used the Throne to invoke the wisdom of his past lives, and in that way the Empire conquered and slew its way into the world. And it was led into the continent and into the conflict with the other nations of Man, bloody and brutal. Devastation.
@@ -674,14 +358,7 @@ After several weeks and months of independent research, another interview was sc
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - DECEMBER 1983
-
-
-INTERVIEWERs: Doctor Hedvig Nussbaum (Archaeological Team Lead), Doctor Robert Aram (Engineering Team Lead), Doctors Cecric Blascowitz (AT) & Sarah McKinnon (AT), Researchers Bill Tenz (ET) & Mohammad Zaid (ET)
+▷CLOSE◁ ATTACHED TRANSCRIPT - DECEMBER 1983 INTERVIEWERs: Doctor Hedvig Nussbaum (Archaeological Team Lead), Doctor Robert Aram (Engineering Team Lead), Doctors Cecric Blascowitz (AT) & Sarah McKinnon (AT), Researchers Bill Tenz (ET) & Mohammad Zaid (ET)
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -739,24 +416,11 @@ ARAM: Unfortunate. But I think that's all we have for you today - I believe Hedv
 NUSSBAUM: That is right. Just trying to get a better image of the culture from someone who lived it.
 SCP-001-A1: THIS IS… ACCEPTABLE.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Due to the substantial amount of paratech and parahistorical findings submitted to Overwatch Command by the Amoni-Ram Initiative since active research began six months prior, O5-11 scheduled a meeting with the Initiative leads on March 2nd, approximately eight months after the initial discovery of the Mekhanite culture, using the Secure Leyspace Communicator.
+«END LOG» ▷CLOSE◁ Due to the substantial amount of paratech and parahistorical findings submitted to Overwatch Command by the Amoni-Ram Initiative since active research began six months prior, O5-11 scheduled a meeting with the Initiative leads on March 2nd, approximately eight months after the initial discovery of the Mekhanite culture, using the Secure Leyspace Communicator.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - MARCH 1984
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED TRANSCRIPT - MARCH 1984 «BEGIN LOG»
 
 OPERATOR: Ley connection to Overwatch Command established. Doctor Nussbaum, Doctor Aram, O5-11 is waiting. Please step into the Communicator.
 [NUSSBAUM and ARAM step onto the raised metal platform.]
@@ -800,31 +464,13 @@ O5-11: I suppose so. Permission granted, just… stay safe. We're still working 
 [O5-11 opens the car door and gets inside, starting the engine. Simultaneously, the Leyspace collapses into darkness and ARAM and NUSSBAUM step backward.]
 OPERATOR: Ley connection to Overwatch Command terminated.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-
-
-Section 001.5
-LATER RESEARCH
-
-
-The additional personnel and requisitions arrived via airlift to ARF-01 throughout March and April of 1984. The sudden threefold increase in personnel required immediate expansion - ARF-02 was established in another structurally-intact skyscraper in the Southern district of Amoni-Ram, each site now holding approximately one hundred personnel.
+«END LOG» ▷CLOSE◁ Section 001.5
+LATER RESEARCH The additional personnel and requisitions arrived via airlift to ARF-01 throughout March and April of 1984. The sudden threefold increase in personnel required immediate expansion - ARF-02 was established in another structurally-intact skyscraper in the Southern district of Amoni-Ram, each site now holding approximately one hundred personnel.
 To connect the two sites, the disused rail system of Amoni-Ram was brought back into functional condition to ferry materials and personnel. This further necessitated the repair and refurbishment of the city's power grid and reactors, using technical assistance from SCP-001-A1 and its automatons. While the cold fusion reactors required extensive study and repair, the relatively simpler nuclear reactors incorporating paratechnology were slowly brought online using requisitioned nuclear fuel. On April 12th, the first two thaumic reactors came online, providing power to the entire Western and Southern districts of the city, allowing use of lighting, air conditioning, and of the rail system to ferry personnel and materials between the two sites.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - APRIL 1984
-
-
-INTERVIEWERs: Doctor Hedvig Nussbaum, Doctor Robert Aram
+▷CLOSE◁ ATTACHED TRANSCRIPT - APRIL 1984 INTERVIEWERs: Doctor Hedvig Nussbaum, Doctor Robert Aram
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -864,22 +510,12 @@ SCP-001-A1: YOU ALREADY HAVE IT.
 ARAM: … The machine you gave me. It fits perfectly on the end of my arm. That's not a coincidence, is it?
 SCP-001-A1: NO. BUT I AM AS BLIND TO WHAT BROUGHT ABOUT THE END OF THE MEKHANITES AS YOU. GO NOW, AND DISCOVER OUR LEGACY. TELL ME, SO I MIGHT REMEMBER WHAT I WAS BEFORE.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Upon their exit from the undercity, Project Leads immediately assembled a team and made for the palace to investigate the Throne. The hum of machinery was barely audible from inside - it was concluded that bringing the city's power online had returned the Throne to working order. The left armrest contained a port that fit the cylinders recovered from the library, while the right contained a depressed section molded around the grip of the Fist.
+«END LOG» ▷CLOSE◁ Upon their exit from the undercity, Project Leads immediately assembled a team and made for the palace to investigate the Throne. The hum of machinery was barely audible from inside - it was concluded that bringing the city's power online had returned the Throne to working order. The left armrest contained a port that fit the cylinders recovered from the library, while the right contained a depressed section molded around the grip of the Fist.
 Testing was immediately commenced.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - APRIL 1984
+▷CLOSE◁ ATTACHED TRANSCRIPT - APRIL 1984
 
 «BEGIN LOG»
 
@@ -909,19 +545,7 @@ ARAM: ""Thank you, your lord loves you. MEKHANE honors us all!"" Just lots of ha
 [The light disappears from ARAM's eyes and the locks release. He slumps backward, unconscious.]
 NUSSBAUM: Robert! Medic!
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Doctor Aram was removed from the throne room and taken to the infirmary at ARF-01. Medical personnel found he had a slightly elevated blood pressure and heartbeat, consistent with strenuous physical activity, but was otherwise healthy. He was placed in an infirmary bed; the following day, he was conscious, active, and responsive within normal levels. Closer inspection revealed no lasting physical or neurological damage from the incident, and Doctor Aram indeed expressed a closer interest in the archaeological team's findings in the following days, citing his experience as giving him a newfound interest in the extant Mekhanite culture. While the findings from the Throne test were transcribed and analyzed, other records found in the city were translated.
-
-
-ATTACHED DOCUMENT - APRIL 1984
-
-
-And the sweep of the Golden Legion took three long centuries of expansion as the Mekhanite Empire's legates established beautiful, harmonious dominion on the oases and villages of the world. And as they expanded, they found relics - artifacts sheared from MEKHANE during their god's fall from heaven, scattered over the Earth, and with each relic carried back to Amoni-Ram the fervor of the people grew and grew as their leaders rose, warred, and died for their heirs.
+«END LOG» ▷CLOSE◁ Doctor Aram was removed from the throne room and taken to the infirmary at ARF-01. Medical personnel found he had a slightly elevated blood pressure and heartbeat, consistent with strenuous physical activity, but was otherwise healthy. He was placed in an infirmary bed; the following day, he was conscious, active, and responsive within normal levels. Closer inspection revealed no lasting physical or neurological damage from the incident, and Doctor Aram indeed expressed a closer interest in the archaeological team's findings in the following days, citing his experience as giving him a newfound interest in the extant Mekhanite culture. While the findings from the Throne test were transcribed and analyzed, other records found in the city were translated. ATTACHED DOCUMENT - APRIL 1984 And the sweep of the Golden Legion took three long centuries of expansion as the Mekhanite Empire's legates established beautiful, harmonious dominion on the oases and villages of the world. And as they expanded, they found relics - artifacts sheared from MEKHANE during their god's fall from heaven, scattered over the Earth, and with each relic carried back to Amoni-Ram the fervor of the people grew and grew as their leaders rose, warred, and died for their heirs.
 And as the Legion marched forward over those long centuries, two other nations of man marched. The Covenant of the Daeva rode forth on their great horrible spirit-beasts, searing a path through the jungle from their twin-city of Mamjul Korar. And they used their black magic to open a gap, stepping from one side of the continent to another, and those that went through established another city - Adytum, that would after another two centuries fall to its own slaves, branding themselves the Nälka.
 And all these parties marched into Asia, only vaguely aware of the existence of the other two until the Battle of Harumar, where they collided. The existence was an affront - the disgusting flesh-beasts of the Nälka an insult to the steel glory of MEKHANE, and the Covenant's plant-spirits choking and infesting the gears and wheels of the Legion, and so the Legion fired the first mortar, shattering the Covenant's ranks, and thus began a war that would end with the destruction of Asia.
 The First War raged across the continent in every theater. Fleets of golden-hulled warships constructed in Amoni-Ram and pushed downriver to encounter the Covenant in the Bay. The Nälka raised an army of the dishonored dead from Adytum and marched them ceaselessly to throw themselves in the front line, choking the vines of the sorcerer-nawabs. There were no laws in war, and there is no honor in death - every corpse was fodder for future battles. Forests were scorched during retreat to deny the Covenant seed, and the warriors of the Nälka and Covenant chose to throw their weapons in the sea rather than surrender the precious metal to the foundries of the Legion. And the COLOSSI, great thousand-arm-tall goliaths of steel and bronze and fuladh that rent the sky down upon the Nälkan hordes. Every second man was killed in the fighting, and it raged for three hundred years and would have gone on forever until the Abominate landed his ships on the western coast of Aethiopia and began his march to Amoni-Ram.
@@ -931,11 +555,7 @@ A week later, Doctor Aram once again volunteered to use the Throne, citing his q
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - MAY 1984
+▷CLOSE◁ ATTACHED TRANSCRIPT - MAY 1984
 
 «BEGIN LOG»
 
@@ -989,24 +609,11 @@ ARAM: Yes?
 NUSSBAUM: When did you learn to speak Mekhanite and Egyptian?
 ARAM: … I have no idea.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Upon the discoveries of the epochal scale of the First War waged between the three empires, research began to take a special priority on war records and weapons technology that may have been left behind. Over the course of the following weeks, records of manufacture and shipment for thousands of ammunition and supplies were translated, revealing a scale of war production previously considered impossible in antiquity and rivalling the war output of developed nations in the modern era. In addition, the references to the ""Mekhane's Kiss"", suggested to be an extremely powerful superweapon of some sort, incited a new flurry of research into the components and devices in the undercity.
+«END LOG» ▷CLOSE◁ Upon the discoveries of the epochal scale of the First War waged between the three empires, research began to take a special priority on war records and weapons technology that may have been left behind. Over the course of the following weeks, records of manufacture and shipment for thousands of ammunition and supplies were translated, revealing a scale of war production previously considered impossible in antiquity and rivalling the war output of developed nations in the modern era. In addition, the references to the ""Mekhane's Kiss"", suggested to be an extremely powerful superweapon of some sort, incited a new flurry of research into the components and devices in the undercity.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED DOCUMENT - JUNE 1984
-
-
-FROM THE DESK OF RESEARCHER MUHAMMAD ZAID
+▷CLOSE◁ ATTACHED DOCUMENT - JUNE 1984 FROM THE DESK OF RESEARCHER MUHAMMAD ZAID
 AMONI-RAM INITIATIVE
 
 Memo to Doctor Robert Aram
@@ -1015,19 +622,7 @@ I understand you're recovering from extended experimentation with the Throne - n
 Just some background context - some of the geologists that came in during the second wave of personnel made some interesting but, at the time, irrelevant discoveries, amounting to the revelation that the sand within SCP-001 is of a slightly different chemical composition to the sand outside it. The sand inside is more similar to a kind of white sand found in a section of the Arabian desert several hundred miles to the north-east.
 We didn't know what to make of it, but the recent research into the undercity has changed things. We've mapped out the whole device - it occupies 65% of the undercity's volume, practically everything is connected to it that isn't stuff like the sewers. Its components have also become more understandable with our new experience on Mekhanite design architecture and philosophy. The technology is antiquated, but it's almost all paratech - extremely powerful conduits, converters, connections, etc, all terminating in a small chamber emitting extremely high levels of radiation. We sent a protected probe in, warding it - it melted a few minutes later but we ran the pictures and energy signals against the database and got… nothing. We've never seen anything like it.
 But then, Tenz decided to call in a few favors and run it against the GOC database. Apparently they have seen something like it, and tried to weaponize it - a long-distance, large-scale matter de/reconstructor and emitter. A gigantic teleporter, basically. Apparently big enough to move an entire city hundreds of kilometers. Mekhane's Kiss isn't a superweapon, it's a Hail Mary.
-Unfortunately, it's completely burned out. It'd require a team months to get it back into remotely working order, and that's ignoring the problem of power. It's way too demanding to pull from the city's power grid - we think it draws directly from the cold fusion reactors, which is another impossibility. Plus we still don't know how it was controlled, or how any of the computation works without… well, computers. In any case, I don't think Amoni-Ram will be teleporting anywhere soon.
-
-
-▷CLOSE◁
-
-
- 
-
-
-ATTACHED TRANSCRIPT - JUNE 1984
-
-
-And in the sixtieth year of the war, as the fighting reached a crescendo and Thamud burned with the shelling of the Legion on the flesh-hordes of the Nälka, the Matriarch of the Covenant and the Grand Karcist Ion met under the shadow of night in the black catacombs of Adytum. And there they came to understand a truth - bitter enemies though they might be, the flesh of the Nälka and the plants of the Covenant were an extension of each other, both extrusions of the natural world. Evenly matched, neither could truly destroy the other. But the Mekhanite blessed steel was something else - a gift from the sky, well capable of crushing each of them. But together, they stood a chance.
+Unfortunately, it's completely burned out. It'd require a team months to get it back into remotely working order, and that's ignoring the problem of power. It's way too demanding to pull from the city's power grid - we think it draws directly from the cold fusion reactors, which is another impossibility. Plus we still don't know how it was controlled, or how any of the computation works without… well, computers. In any case, I don't think Amoni-Ram will be teleporting anywhere soon. ▷CLOSE◁ ATTACHED TRANSCRIPT - JUNE 1984 And in the sixtieth year of the war, as the fighting reached a crescendo and Thamud burned with the shelling of the Legion on the flesh-hordes of the Nälka, the Matriarch of the Covenant and the Grand Karcist Ion met under the shadow of night in the black catacombs of Adytum. And there they came to understand a truth - bitter enemies though they might be, the flesh of the Nälka and the plants of the Covenant were an extension of each other, both extrusions of the natural world. Evenly matched, neither could truly destroy the other. But the Mekhanite blessed steel was something else - a gift from the sky, well capable of crushing each of them. But together, they stood a chance.
 And such it was that as the invasion plans were drawn and the great siege engines were constructed and the polearms cooled in the foundries, the Golden Legion marshalled and marched themselves, beginning the long, bloody truck to Adytum. And as they crossed through the desert of Asia, the Nälka were lending their forces to another invasion, this one raised by the sorcerer-nawabs with the Daeva against Amoni-Ram. A black, wicked army secretly gathering in the jungles of the South, marching on the suddenly-vulnerable First Ram of the Mekhanites. And with them came the magics - the Nälka offered one of their greatest boons, a plague to infest the city. And the Covenant offered the Song of the Daeva to make the verdant greenery of the desert rebel against its masters.
 And even then, their marshaled forces were not enough to dominate the colossi and take the city. But in the Far West, beyond the Gate, another storm was brewing. The Abominate, may his name never be spoken of, stood on the shores of the coast as the Damned Fleet disembarked from their massive ships. And his army assembled itself from his prisoners and his soldiers, and the march to the East, to Amoni-Ram, began. The city settled between two unstoppable forces, neither aware of the other's presence, as the two armies pushed to the walls of the city and the head of its king, queen, and general.
 
@@ -1035,14 +630,7 @@ Another meeting with O5-11 was scheduled for June 26th to ascertain the progress
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - JUNE 1984
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED TRANSCRIPT - JUNE 1984 «BEGIN LOG»
 
 [O5-11 is standing in one of Amoni-Ram's thoroughfares. An Alpha-1 agent stands on every nearby corner and window. The sun is directly overhead, but the cooling and power units on the street corners keep the air at room temperature. A hot, silent wind passes through the broadway. ARAM and NUSSBAUM approach from the north.]
 NUSSBAUM: [Out-of-breath] Hello, sir.
@@ -1104,19 +692,7 @@ NUSSBAUM: Yes… yes it is. I support the idea.
 O5-11: Hm. Well, if both of you are in agreement, I can make it happen. But be safe, and don't take any needless risks. We don't want anything happening this far in, yes?
 NUSSBAUM: Of course.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-
-
-
-ATTACHED DOCUMENT - JULY 1984
-
-
-FROM THE DESK OF DOCTOR ROBERT ARAM
+«END LOG» ▷CLOSE◁ ATTACHED DOCUMENT - JULY 1984 FROM THE DESK OF DOCTOR ROBERT ARAM
 AMONI-RAM INITIATIVE
 
 Personal log
@@ -1134,14 +710,7 @@ Due to the severity of injuries sustained - including a shattered collarbone, fr
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - JULY 1984
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED TRANSCRIPT - JULY 1984 «BEGIN LOG»
 
 NUSSBAUM: [Whispering] Wa-ter.
 ARAM: Wh- Oh! You're awake. Here. Don't move your arms.
@@ -1167,26 +736,13 @@ ARAM: The flesh is weak, Hedvig. Your new body - you'll be up on your feet in a 
 NUSSBAUM: [Silence.]
 ARAM: Get some rest. And, for what it's worth, I don't think you look like a monster at all. These implants are works of art - the spine support is spread like a pair of wings. You look like an angel.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Doctor Nussbaum continued her recovery for two weeks in SCP-001, refusing medevac to Area-66 in Sinai upon seeing the extremely rapid recuperation offered by the implants. Evaluations by medical personnel provided insight into the enhancements offered by the Mekhanite augmentations. Internally, they integrated with her immune and nervous systems, offering fine, instinctual control and an increase in healing speed. Due to the relative lightness of the fuladh metalwork compared to steel, her body mass did not shift considerably. However, her strength, lift capacity, running speed, pull weight, and a suite of other measurements vastly increased in the weeks following her recovery. She similarly reported significant increases in her sensory ability, well beyond that given by her former Foundation-issue ocular and auditory implants. The spinal brace and its external portion, an artfully crafted pair of wings able to be extended and retracted by the user, allow a limited but notable ability to glide on strong updrafts.
+«END LOG» ▷CLOSE◁ Doctor Nussbaum continued her recovery for two weeks in SCP-001, refusing medevac to Area-66 in Sinai upon seeing the extremely rapid recuperation offered by the implants. Evaluations by medical personnel provided insight into the enhancements offered by the Mekhanite augmentations. Internally, they integrated with her immune and nervous systems, offering fine, instinctual control and an increase in healing speed. Due to the relative lightness of the fuladh metalwork compared to steel, her body mass did not shift considerably. However, her strength, lift capacity, running speed, pull weight, and a suite of other measurements vastly increased in the weeks following her recovery. She similarly reported significant increases in her sensory ability, well beyond that given by her former Foundation-issue ocular and auditory implants. The spinal brace and its external portion, an artfully crafted pair of wings able to be extended and retracted by the user, allow a limited but notable ability to glide on strong updrafts.
 On August 28th, Doctor Nussbaum declined an offer of a desk position in Area-66, choosing to continue her work as Project Co-Lead of the Amoni-Ram Initiative.
 Doctor Aram was reprimanded for his unauthorized use of potentially dangerous anomalous artifacts on a colleague and himself, but was not given disciplinary action considering the extenuating circumstances and Doctor Nussbaum's expressed gratitude to him, stating that if she had been conscious, she would have consented to the procedure.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - AUGUST 1984
-
-
-INTERVIEWERs: Doctor Hedvig Nussbaum & Doctor Robert Aram
+▷CLOSE◁ ATTACHED TRANSCRIPT - AUGUST 1984 INTERVIEWERs: Doctor Hedvig Nussbaum & Doctor Robert Aram
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -1245,21 +801,11 @@ ARAM: This is ridiculous.
 [ARAM turns to leave.]
 SCP-001-A1: YOU SEEK TO CHANGE THE WORLD. MAKE IT MORE ACCEPTING TO PEOPLE LIKE YOU AND HER. SO DID HE. THE VOICE OF THE EMPEROR IS YOURS NOW. DO NOT SQUANDER IT.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-The following day, another experiment was scheduled with the Throne using the cylinder provided by SCP-001-A1.
+«END LOG» ▷CLOSE◁ The following day, another experiment was scheduled with the Throne using the cylinder provided by SCP-001-A1.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - AUGUST 1984
+▷CLOSE◁ ATTACHED TRANSCRIPT - AUGUST 1984
 
 «BEGIN LOG»
 
@@ -1355,20 +901,7 @@ NUSSBAUM: I am no engineer, but if I were a betting woman…
 [NUSSBAUM holds the cylinder to the light.]
 NUSSBAUM: I would guess these cylinders are a memory-storage form of some sort. She placed her memories into this to get rid of them, but obviously when she rid herself of her memories - she forgot what it even was.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-Upon the discoveries made in the Throne Report, further testing was temporarily halted until a decision could be made on whether to inform SCP-001-A1 of its past. Until then, routine research into repair of infrastructural elements of the city continued as per regular schedule.
-
-
-
-ATTACHED TRANSCRIPT - SEPTEMBER 1984
-
-
-FROM THE DESK OF DOCTOR ROBERT ARAM
+«END LOG» ▷CLOSE◁ Upon the discoveries made in the Throne Report, further testing was temporarily halted until a decision could be made on whether to inform SCP-001-A1 of its past. Until then, routine research into repair of infrastructural elements of the city continued as per regular schedule. ATTACHED TRANSCRIPT - SEPTEMBER 1984 FROM THE DESK OF DOCTOR ROBERT ARAM
 AMONI-RAM INITIATIVE
 
 Personal log
@@ -1384,14 +917,7 @@ On September 30th, the O5 Council approved a plan allowing the involvement of SC
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - OCTOBER 1984
-
-
-INTERVIEWERs: Doctor Hedvig Nussbaum & Doctor Robert Aram
+▷CLOSE◁ ATTACHED TRANSCRIPT - OCTOBER 1984 INTERVIEWERs: Doctor Hedvig Nussbaum & Doctor Robert Aram
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -1426,29 +952,13 @@ ARAM: It's possible. Thanks to you.
 SCP-001-A1: THANK YOU. I AM IN YOUR DEBT.
 ARAM: Just paying back our side of the bargain.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-The following unfinished email draft was recovered from SCiPnet email servers. It had not been sent, and was last modified several weeks before the conclusion of events in Amoni-Ram.
+«END LOG» ▷CLOSE◁ The following unfinished email draft was recovered from SCiPnet email servers. It had not been sent, and was last modified several weeks before the conclusion of events in Amoni-Ram.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED EMAIL - OCTOBER 1984
-
-
-To: ten.pics|2819589mihsah.j#ten.pics|2819589mihsah.j
+▷CLOSE◁ ATTACHED EMAIL - OCTOBER 1984 To: ten.pics|2819589mihsah.j#ten.pics|2819589mihsah.j
 From: ten.pics|995421muabssun.h#ten.pics|995421muabssun.h
-Subject: Personnel Concern
-
-
-Hello Jamil,
+Subject: Personnel Concern Hello Jamil,
 I have some concerns about a staffing decision on Project CMP-189598, 'the Amoni-Ram Initiative'. As Project Co-Lead, I retain executive control over almost all personnel decisions, but my concern today lies with my co-lead, Doctor Robert Silas Aram.
 Dr. Aram is a once-in-a-lifetime mind, but recent events regarding the project have left me questioning his suitability for a leadership position in stressful, isolated research environs. I worry he has let his emotions compromise the integrity of the project. In various cases he:
 
@@ -1459,21 +969,11 @@ engaged in an argument with our Overseer contact.
 referring to a sapient, semi-humanoid anomaly by name.
 spending long periods of time alone with this anomaly.
 
-on one occasion, lying to this anomaly and reacting angrily when confronted.
-
-
-spending long periods of time alone with experimental anomalous technology, attempting to deconstruct it.
+on one occasion, lying to this anomaly and reacting angrily when confronted. spending long periods of time alone with experimental anomalous technology, attempting to deconstruct it.
 focusing research in strange directions averse to the goals of the project (on several occasions he asked me to attempt to use an experimental mechanical combat suit, and has recently been trying to ascertain the location of apocryphal, massive walking war platforms.)
 demanding an additional level of dedication and respect from employees to the project research and himself, respectively.
 
-Cumulatively, these actions lead me to believe Doctor Aram's worthiness for co-lead should be rec
-
-
-On the same day the email was drafted, the following audio file was recorded from a hidden recording device in Doctor Nussbaum's offices. The file was similarly not recovered until a routine database sweep months later. Due to the relatively small size of the device, Foundation standard voice-matching identification technology is unavailable.
-
-
-
-ATTACHED TRANSCRIPT - OCTOBER 1984
+Cumulatively, these actions lead me to believe Doctor Aram's worthiness for co-lead should be rec On the same day the email was drafted, the following audio file was recorded from a hidden recording device in Doctor Nussbaum's offices. The file was similarly not recovered until a routine database sweep months later. Due to the relatively small size of the device, Foundation standard voice-matching identification technology is unavailable. ATTACHED TRANSCRIPT - OCTOBER 1984
 
 «BEGIN LOG»
 
@@ -1547,14 +1047,7 @@ ARAM: Good girl. You played the role quite well. But you felt it watching us too
 NUSSBAUM: … I felt… something.
 ARAM: There are bigger things at stake now. And you will obey me.
 
-«END LOG»
-
-
-
-ATTACHED TRANSCRIPT - OCTOBER 1984
-
-
-INTERVIEWERs: Doctor Robert Aram
+«END LOG» ATTACHED TRANSCRIPT - OCTOBER 1984 INTERVIEWERs: Doctor Robert Aram
 SUBJECT: SCP-001-A1
 «BEGIN LOG»
 
@@ -1619,24 +1112,11 @@ SCP-001-A1: HOW?
 ARAM: What are you prepared to give up?
 SCP-001-A1: [Slight pause.] EVERYTHING.
 
-«END LOG»
-
-
-▷CLOSE◁
-
-
-On September 19th, 1984, shortly after the one-year anniversary of the official beginning of the Amoni-Ram Initiative, another update meeting was scheduled with O5-11 following a general decrease in quantity of technology and archaeological reports being transmitted from ARF-01 and ARF-02 to Protected Site-07 on a biweekly basis.
+«END LOG» ▷CLOSE◁ On September 19th, 1984, shortly after the one-year anniversary of the official beginning of the Amoni-Ram Initiative, another update meeting was scheduled with O5-11 following a general decrease in quantity of technology and archaeological reports being transmitted from ARF-01 and ARF-02 to Protected Site-07 on a biweekly basis.
 
 ▶OPEN ADDENDUM◀
 
-▷CLOSE◁
-
-
-
-ATTACHED TRANSCRIPT - SEPTEMBER 1984
-
-
-«BEGIN LOG»
+▷CLOSE◁ ATTACHED TRANSCRIPT - SEPTEMBER 1984 «BEGIN LOG»
 
 [O5-11 is seated in Doctor ARAM's office complex in ARF-01. The windows look out over the courtyard with the statue of Emperor Bumaro.]
 ARAM: Hello, Overseer. Sorry for the delay - just sorting out some repairs in the undercity.
@@ -1701,117 +1181,12 @@ ARAM: Do you seriously think I have any interest in destroying the Foundation? I
 ARAM: Get out of my city.
 [NUSSBAUM steps behind O5-11, grasps him by the waist and takes off, shooting into the air on her wings.]
 
-«END LOG»
+«END LOG» ▷CLOSE◁ O5-11 was deposited outside SCP-001, 0.6km from his air escort, and quickly evacuated to the nearby Site-34. An Overwatch Command emergency session was called to address the events in Amoni-Ram, and voted on whether to scramble several task forces in the region and use military force to regain control over SCP-001. ATTACHED DOCUMENT - SEPTEMBER 1984
 
-
-▷CLOSE◁
-
-
-O5-11 was deposited outside SCP-001, 0.6km from his air escort, and quickly evacuated to the nearby Site-34. An Overwatch Command emergency session was called to address the events in Amoni-Ram, and voted on whether to scramble several task forces in the region and use military force to regain control over SCP-001.
-
-
-ATTACHED DOCUMENT - SEPTEMBER 1984
-
-COUNCIL VOTE SUMMARY:
-
-
-YEA
+COUNCIL VOTE SUMMARY: YEA
 ABSTAIN
-NAY
-
-
-O5-01
-
-
-
-
-O5-02
-
-
-
-
-O5-03
-
-
-
-
-O5-04
-
-
-
-
-O5-05
-
-
-
-
-O5-06
-
-
-
-
-
-
-O5-07
-
-
-
-O5-08
-
-
-
-O5-09
-
-
-
-
-
-O5-10
-
-
-
-O5-11
-
-
-
-
-
-O5-12
-
-
-
-O5-13
-
-
-
-
- 
-
-
-ADDITIONAL VOTE
-
-
-Administrator
-YEA
-
-
- 
-
-
-STATUS
-
-
-APPROVED
-
-
-
-Temporary Task Force Alpha-6 was scrambled at Site-39 over the following 9 hours, consisting of Mobile Task Forces Epsilon-11 (""Nine-Tailed Fox""), Nu-7 (""Hammer Down""), and Zeta-9 (""Mole Rats""). An advance invasion plan was drawn and executed on 0367 local time.
-
-
-ATTACHED TRANSCRIPT - SEPTEMBER 1984
-
-
-Alpha-6 communications to Site-39 command marked normally. Internal Alpha-6 radio chatter italicized. Intercepted external radio chatter bolded.
+NAY O5-01 O5-02 O5-03 O5-04 O5-05 O5-06 O5-07 O5-08 O5-09 O5-10 O5-11 O5-12 O5-13 ADDITIONAL VOTE Administrator
+YEA STATUS APPROVED Temporary Task Force Alpha-6 was scrambled at Site-39 over the following 9 hours, consisting of Mobile Task Forces Epsilon-11 (""Nine-Tailed Fox""), Nu-7 (""Hammer Down""), and Zeta-9 (""Mole Rats""). An advance invasion plan was drawn and executed on 0367 local time. ATTACHED TRANSCRIPT - SEPTEMBER 1984 Alpha-6 communications to Site-39 command marked normally. Internal Alpha-6 radio chatter italicized. Intercepted external radio chatter bolded.
 
 «BEGIN LOG»
 
@@ -1929,130 +1304,62 @@ Following this, a massive power surge fried the electronics of awaiting aircraft
 The failure of the Amoni-Ram Initiative, the betrayal of Doctors Aram and Nussbaum, and the loss of SCP-001 with its countless amounts of Foundation knowledge, equipment, personnel, and paratechnology, have elevated Global Threat Level to Keneq-4 (considerable potential to disrupt the general population). Foundation policy regarding digital and paratechnological implants and equipment has been frozen pending further review by Overwatch Command.
 'The Church of the Broken God' has been designated GoI-004. All efforts are to be made to locate Robert Aram/Bumaro and Hedvig Nussbaum and bring them into Foundation custody.
 Laboratory samples of Daevite, Nälkan, and Mekhanite biological weapons used in the Siege of Amoni-Ram have produced viable specimens. They have been provided provisional SCP designations: SCP-697, SCP-610, and SCP-217, respectively.
-Project FORERUNNER TRIAD has been organized to address the consequences of the Amoni-Ram Initiative, and report directly to Overwatch Command. Ascertaining the locations of the Nälka city of Black Adytum, the Daevic Covenant cities of Mamjul and Korar, and the identity & nature of the entity known as 'the Abominate' have all been elevated to Global Priority Level Alpha.
-
-
-
-
-PREVIOUS
-« GOLD PRELUDE »
-
-
-REDTAPE
-
-
-NEXT
-« INTERREGNUM I »
-
-
-
-
-
-Footnotes
+Project FORERUNNER TRIAD has been organized to address the consequences of the Amoni-Ram Initiative, and report directly to Overwatch Command. Ascertaining the locations of the Nälka city of Black Adytum, the Daevic Covenant cities of Mamjul and Korar, and the identity & nature of the entity known as 'the Abominate' have all been elevated to Global Priority Level Alpha. PREVIOUS
+« GOLD PRELUDE » REDTAPE NEXT
+« INTERREGNUM I » Footnotes
 1. Specializing in the investigation, exploration, and containment of underground or enclosed areas exhibiting anomalous phenomena.
-2. The Indian subcontinent extends much farther into the Indian Ocean, there is a land bridge between China and Japanese archipelago, and there are 7 inland seas of varying size.
-
-
-
-
-‡ Licensing / Citation
+2. The Indian subcontinent extends much farther into the Indian Ocean, there is a land bridge between China and Japanese archipelago, and there are 7 inland seas of varying size. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""ROUNDERHOUSE's Gold Proposal"" by Rounderhouse, from the SCP Wiki. Source: https://scpwiki.com/rounderhouse-gold-proposal. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""ROUNDERHOUSE's Gold Proposal"" by Rounderhouse, from the SCP Wiki. Source: https://scpwiki.com/rounderhouse-gold-proposal. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: alhambra.png
 Name: Granada. Galeria que conduce à la Sala de Embajadores (Alhambra)
 Author: Laurent, J.
 License: Public Domain
-Source Link: Library of Congress
-
-
-Filename: AmapiRam.png
+Source Link: Library of Congress Filename: AmapiRam.png
 Name: Map of Amoni-Ram
 Author: HarryBlank
 License: CC BY SA 3.0
-Source Link: N/A
-
-
-Filename: amoniram.png
+Source Link: N/A Filename: amoniram.png
 Name: Amoni-Ram (Establishing Shot)
 Author: stephlynch
 License: CC BY SA 3.0
-Source Link: N/A
-
-
-Filename: aram.png
+Source Link: N/A Filename: aram.png
 Name: Friends selling walnuts.jpg
 Author: Nagarjun
 License: CC BY 2.0
-Source Link: Flickr
-
-
-Filename: blackwood.jpg
+Source Link: Flickr Filename: blackwood.jpg
 Name: Aplysia fasciata - Mottled sea hare (Sea slug), γυμνοσάλιαγκας θαλάσσης.jpg
 Author: Dimitris Siskopoulos
 License: CC BY SA 2.0
-Source Link: Flickr
-
-
-Filename: crab.png
+Source Link: Flickr Filename: crab.png
 Name: Limulus polyphemus (Atlantic horseshoe crab) (Sanibel Island, Florida, USA)
 Author: Composite image edited by Rounderhouse, base image by James St. John
 License: CC BY 2.0
-Source Link: Flickr
-
-
-Filename: nussbaum.png
+Source Link: Flickr Filename: nussbaum.png
 Name: Code Camping
 Author: Breyten Ernsting
 License: CC BY 2.0
-Source Link: CCSearch
-
-
-Filename: throneroom.jpg
+Source Link: CCSearch Filename: throneroom.jpg
 Name: 20180115 Topkapi 3002 (28382490659).jpg
 Author: Ray Swi-hymn
 License: CC BY SA 2.0
-Source Link: Wikimedia
-
-
-Filename: sonar.gif
+Source Link: Wikimedia Filename: sonar.gif
 Name: Amoni-Ram (Sonar Shot)
 Author: stephlynch
 License: CC BY SA 3.0
-Source Link: N/A
-
-
-Filename: undercity1.jpg
+Source Link: N/A Filename: undercity1.jpg
 Name: N/A
 Author: The Great Hippo
 License: CC BY SA 3.0
-Source Link: Twitter
-
-
-Filename: undercity2.jpg
+Source Link: Twitter Filename: undercity2.jpg
 Name: N/A
 Author: The Great Hippo
 License: CC BY SA 3.0
-Source Link: Twitter
-
-
-Filename: undercity3.jpg
+Source Link: Twitter Filename: undercity3.jpg
 Name: N/A
 Author: The Great Hippo
 License: CC BY SA 3.0
-Source Link: Twitter
-
-
-
-
-
-",511,2021-11-04T16:59:00,Rounderhouse,https://scp-wiki.wikidot.com/rounderhouse-gold-proposal,"001-proposal, _cc, _licensebox, biological, blackwood, broken-god, city, daevite, extradimensional, grand-karcist-ion, historical, legate-trunnion, mechanical, pending, robert-bumaro, robotic, saint-hedwig, sapient, sarkic, scp, teleportation, uncontained, weapon","rounderhouse-s-author-page, component:info-ayers, scp-1867, scp-697, scp-610, scp-217, lord-blackwood-in-amon-iram, redtape, interregnum-blackstar, component:license-box, licensing-guide"
+Source Link: Twitter ",511,2021-11-04T16:59:00,Rounderhouse,https://scp-wiki.wikidot.com/rounderhouse-gold-proposal,"001-proposal, _cc, _licensebox, biological, blackwood, broken-god, city, daevite, extradimensional, grand-karcist-ion, historical, legate-trunnion, mechanical, pending, robert-bumaro, robotic, saint-hedwig, sapient, sarkic, scp, teleportation, uncontained, weapon","rounderhouse-s-author-page, component:info-ayers, scp-1867, scp-697, scp-610, scp-217, lord-blackwood-in-amon-iram, redtape, interregnum-blackstar, component:license-box, licensing-guide"

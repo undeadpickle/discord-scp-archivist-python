@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-9081f64b-0365-4749-a99c-6b199036a5c9,SCP-895,"Item #: SCP-895
+881c585b-91b7-4884-921e-c66669ba2941,SCP-895,"Item #: SCP-895
 Object Class: Euclid
 Special Containment Procedures: SCP-895 is sealed, closed and stored in an isolated underground containment cell at a depth of approximately 100 meters. No cameras, microphones, or other surveillance equipment may be brought within the 10 meter ""Red Zone"" radius of SCP-895 without express permission from at least two (2) Level 3 personnel.
 Any on-site personnel exhibiting unusual behavior or signs of psychological trauma are to be screened immediately, and removed from the site or terminated as the situation warrants.
@@ -26,21 +26,11 @@ Addendum 895-01: Audio excerpt from the SCP-895 Recovery Log (██/█/██)
 03:51L - T1Lead: Command, do you copy?!
 03:52L - T1Lead: Shit, we're bugging out. Close that thing!
 
-Addendum 895-02: Following Incident [DATA EXPUNGED] and the loss of 3 personnel, the Red Zone of SCP-895 has been extended from 5 meters to 10 meters, and security personnel shifts have been reduced to 4 hours as a precaution.
-
-
-‡ Licensing / Citation
+Addendum 895-02: Following Incident [DATA EXPUNGED] and the loss of 3 personnel, the Red Zone of SCP-895 has been extended from 5 meters to 10 meters, and security personnel shifts have been reduced to 4 hours as a precaution. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-895"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-895. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-895"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-895. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: silo-new.png, silo-fuzz-new.png, silo-b1-new.png, silo-b2-new.png, silo-b3-new.png, silo-b4-new.png, silo-b5-new.png, silo-b6-new.png
 Author: stephlynch
@@ -51,10 +41,4 @@ Derivative of:
 Name: Blender 2.83
 Author: Ian Hubert
 License: CC BY-SA 3.0
-Source Link: Blender Cloud
-
-
-
-
-
-",1988,2010-09-08T22:16:00,Aelanna,https://scp-wiki.wikidot.com/scp-895,"_cc, _licensebox, artifact, cognitohazard, euclid, hallucination, photographic, scp, visual","scp-894, scp-896, component:license-box, licensing-guide"
+Source Link: Blender Cloud ",1988,2010-09-08T22:16:00,Aelanna,https://scp-wiki.wikidot.com/scp-895,"_cc, _licensebox, artifact, cognitohazard, euclid, hallucination, photographic, scp, visual","scp-894, scp-896, component:license-box, licensing-guide"

@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-a264a384-7fcb-4ad1-85c8-01613c6054d6,SCP-119,"Item #: SCP-119
+b1a2ccdd-6b8e-4f21-b8b0-f9f7bba10113,SCP-119,"Item #: SCP-119
 Object Class: Euclid
 Special Containment Procedures: SCP-119 is to remain open and unplugged at all times except during testing. The door to the room in which SCP-119 resides is to be locked for all periods except during experimentation, with the entry codes given only to authorized research and security personnel. An industrial-grade disinfectant will be available nearby at all times, and the inside of SCP-119 is to be heavily disinfected before any testing. The contents of SCP-119 are to be monitored through the viewing window on SCP-119 at all times during testing, and will be stopped immediately should the contents become hostile or otherwise damaging to SCP-119.
 Description: SCP-119 is a Panasonic [REDACTED] Microwave Oven. It was initially discovered by an agent, who had bought it from a liquidation sale of the assets from ████ Valley Vineyards. It is believed that ████ Valley Vineyards was using the anomalous properties of SCP-119 to rapidly age its products and create expensive vintages. Records show ████ Valley Vineyards making under-the-table sales of vintages dated as far back as 19██, many years before the company's inception in 2005. These sales are what led to the lawsuits accusing the company of falsifying product information and other forms of fraud, which eventually caused ████ Valley Vineyards to declare bankruptcy. SCP-119 appears to be a standard model of microwave in all respects except that the magnetron unit does not produce microwave radiation. Instead, the magnetron emits a previously unknown type of radiation that accelerates time.
@@ -9,23 +9,8 @@ SCP-119 can be dismantled, and replacement parts can be substituted for every co
 Although SCP-119, like all standard microwave models, will normally only function when the door is closed, during deconstruction it was determined that disabling the closing mechanism allows the device to work while open. Subsequent testing determined that the radiation emitted from SCP-119 has a fallout pattern very similar to the microwave radiation it replaced. However, further experiments operating SCP-119 while open now require the approval of a Clearance Level 4 personnel.
 Addendum: After subsequent testing, it has been determined that the accelerated time experienced within SCP-119 is not accelerated from the perspective of those being affected, instead causing the occupants to perceive that they are simply staying inside of the microwave for the adjusted duration. Should living creatures be exposed to SCP-119 for extended durations, they could quite quickly die of starvation, as they will require as much sleep and food as they would outside of SCP-119. Therefore, further experimentation with living beings now requires the approval of a Clearance Level 4 personnel.
 Furthermore, due to the possibility of micro-organisms undergoing accelerated evolution within SCP-119, industrial-grade disinfectant has now been added to the containment procedure for SCP-119.
-Test Log for SCP-119
-
-
-‡ Licensing / Citation
+Test Log for SCP-119 ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-119"" by elrosth, from the SCP Wiki. Source: https://scpwiki.com/scp-119. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",416,2010-05-24T22:23:00,elrosth,https://scp-wiki.wikidot.com/scp-119,"_licensebox, appliance, electrical, euclid, radioactive, scp, temporal","test-log-for-scp-119, scp-118, scp-120, component:license-box, licensing-guide"
+Cite this page as: ""SCP-119"" by elrosth, from the SCP Wiki. Source: https://scpwiki.com/scp-119. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",416,2010-05-24T22:23:00,elrosth,https://scp-wiki.wikidot.com/scp-119,"_licensebox, appliance, electrical, euclid, radioactive, scp, temporal","test-log-for-scp-119, scp-118, scp-120, component:license-box, licensing-guide"

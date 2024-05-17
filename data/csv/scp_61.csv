@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-c9d1bafe-d56c-40e6-a5c6-57c1b778aa1f,SCP-061,"Item #: SCP-061
+fb6af9da-3052-461e-8095-9247b5f6107c,SCP-061,"Item #: SCP-061
 Object Class: Safe
 Special Containment Procedures: The source code for SCP-061 is to be kept on a standard archival-quality read-only data compact disc (CD-ROM); four copies of the CD-ROM with the source code are to be stored in separate maximum-security inanimate-object lockers. Except for purposes of approved experimentation, SCP-061 is not to be loaded, compiled, or run. Research proposals for SCP-061 require written approval from site command. Only one copy of the CD-ROM containing the source code for SCP-061 may be used at a time; the CD-ROM is to be returned to storage immediately after having been used to load the source code for SCP-061 to a device.
 SCP-061 must never be loaded, compiled, or run on any device which has a connection to the Internet, either directly or via another device. SCP-061 must never be loaded, compiled, or run on any device which is physically capable of wireless connectivity, regardless of whether that connectivity is in use.
@@ -15,50 +15,17 @@ Addendum-01: All subjects are placed under auditory control, issued a coded audi
 Subject— 4402F
 
 Command: [Sleep]
-Response: Subject curled up into a fetal position on the floor and her brain began emitting alpha waves associated with sleep. Her eyes remained wide open in the typical ""blank/empty"" expression associated with controlled subjects, but her eyes twitched rapidly in ways associated with REM sleep.
-
-
-
-
-Subject— 4427M
+Response: Subject curled up into a fetal position on the floor and her brain began emitting alpha waves associated with sleep. Her eyes remained wide open in the typical ""blank/empty"" expression associated with controlled subjects, but her eyes twitched rapidly in ways associated with REM sleep. Subject— 4427M
 
 Command: [Run on treadmill]
-Response: Subject mounted treadmill and then proceeded to run. Subject did not turn on the treadmill resulting in the subject impacting the control platform. Subject repeated this until the [Stop] command was issued. Note: more detailed commands are advised for task oriented commands.
-
-
-
-
-Subject— 4427M
+Response: Subject mounted treadmill and then proceeded to run. Subject did not turn on the treadmill resulting in the subject impacting the control platform. Subject repeated this until the [Stop] command was issued. Note: more detailed commands are advised for task oriented commands. Subject— 4427M
 
 Command: [Turn treadmill on; Run on treadmill]
-Response: Subject turned on treadmill to the maximum speed, mounted and attempted to run before being ejected off the conveyor belt. Subject repeatedly attempted to turn on the treadmill to a random speed and run on it with various outcomes. Note: more detailed commands are advised for task oriented commands.
-
-
-
-
-Subject— 4427M
+Response: Subject turned on treadmill to the maximum speed, mounted and attempted to run before being ejected off the conveyor belt. Subject repeatedly attempted to turn on the treadmill to a random speed and run on it with various outcomes. Note: more detailed commands are advised for task oriented commands. Subject— 4427M
 
 Command: [Turn on treadmill to jogging speed; Jog on treadmill]
-Response: Subject successfully jogged on treadmill until [Stop] command was issued, which resulted in subject being ejected off the conveyor belt. Note: Subjects should be in a safe neutral position before [Stop] commands are issued.
-
-
-
-
-
-‡ Licensing / Citation
+Response: Subject successfully jogged on treadmill until [Stop] command was issued, which resulted in subject being ejected off the conveyor belt. Note: Subjects should be in a safe neutral position before [Stop] commands are issued. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-061"" by FritzWillie, from the SCP Wiki. Source: https://scpwiki.com/scp-061. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",319,2008-07-26T03:51:00,far2,https://scp-wiki.wikidot.com/scp-061,"_licensebox, auditory, compulsion, foundation-made, mind-affecting, safe, scp","scp-5050, scp-4833, scp-2140, scp-4445, scp-060, scp-062, component:license-box, licensing-guide"
+Cite this page as: ""SCP-061"" by FritzWillie, from the SCP Wiki. Source: https://scpwiki.com/scp-061. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",319,2008-07-26T03:51:00,far2,https://scp-wiki.wikidot.com/scp-061,"_licensebox, auditory, compulsion, foundation-made, mind-affecting, safe, scp","scp-5050, scp-4833, scp-2140, scp-4445, scp-060, scp-062, component:license-box, licensing-guide"

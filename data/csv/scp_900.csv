@@ -1,298 +1,28 @@
 id,title,content,rating,created_at,creator,url,tags,references
-e2f47127-91f2-4571-9742-cbc8c56a14c2,SCP-900,"
+5ffaa7d7-680f-434a-941b-312149d51c0c,SCP-900," + Show component code
 
+- Hide component code :root { --sidebar-width-on-desktop: calc(var(--base-font-size) * (266 / 15)); --body-width-on-desktop: 45.75rem; } @media only screen and (min-width: 56.25rem) { #content-wrap { display: flex; position: initial; flex-direction: row; flex-grow: 2; width: calc(100vw - (100vw - 100%)); max-width: inherit; height: auto; min-height: calc(100vh - var(--final-header-height-on-desktop, 10.125rem)); margin: 0 var(--sidebar-width-on-desktop, 13.6rem) 0 calc(var(--sidebar-width-on-desktop, 13.6rem) * -1 / 2); } #main-content { position: initial; width: var(--body-width-on-desktop, 45.75rem); max-width: var(--body-width-on-desktop, 45.75rem); max-height: 100%; margin: 0 auto; padding: 2rem 1rem; } #page-content { max-width: min(90vw, var(--body-width-on-desktop, 45.75rem)); } #side-bar { position: -webkit-sticky; position: sticky; top: 0; left: 0; grid-area: side-bar; width: var(--sidebar-width-on-desktop, 13.6rem) !important; min-width: var(--sidebar-width-on-desktop, 13.6rem) !important; max-height: 100vh; padding-right: 2.5rem; padding-left: 0.5rem; overflow-y: scroll; transition: translate 300ms cubic-bezier(0.4, 0.0, 0.2, 1), background-color 300ms cubic-bezier(0.4, 0.0, 0.2, 1), padding 300ms linear, margin 300ms linear; border: none; border-color: rgba(var(--swatch-tertiary-color, 170, 170, 170), 0.4); background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 0); translate: calc(var(--sidebar-width-on-desktop, 13.5rem) * -1 - 1rem); direction: rtl; scrollbar-width: thin; -ms-scroll-chaining: none; overscroll-behavior: contain; scrollbar-color: rgba(var(--swatch-primary-darker), 0.1) /* Thumb */ rgba(var(--swatch-tertiary-color), 0.05); /* Track */ } #side-bar::-webkit-scrollbar-track { background-color: rgba(var(--swatch-secondary-color, 244, 244, 244), 0.8); } #side-bar::-webkit-scrollbar, #side-bar::-webkit-scrollbar-thumb, #side-bar::-webkit-scrollbar-corner { width: 0.5rem; border-right-width: calc(100vw + 100vh); border-right-style: inset; border-color: inherit; background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 0); } #side-bar:is(:hover, :active, :focus-within) { margin-right: 2.25rem; padding-right: 0.25rem; overflow-x: hidden; overflow-y: auto; border-color: rgba(var(--swatch-primary-darker), 1); background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 1); translate: calc(var(--sidebar-width-on-desktop, 1rem) - var(--sidebar-width-on-desktop, 0)); scrollbar-color: rgba(170, 170, 170, 1)  /* Thumb */ rgba(252, 252, 252, 1); /* Track */ scrollbar-color: rgb(var(--swatch-primary-darker, 170, 170, 170), 1) /* Thumb */ rgb(var(--swatch-menubg-color, 252, 252, 252), 1);  /* Track */ } #main-content::after { content: "" ""; display: flex; position: fixed; top: 0; left: 1rem; align-items: center; justify-content: center; width: 1rem; height: 100%; max-height: 100%; transition: left 300ms cubic-bezier(0.4, 0.0, 0.2, 1), background-position 300ms cubic-bezier(0.4, 0.0, 0.2, 1), opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1); background: url(""https://scp-wiki.wdfiles.com/local--files/component%3Acollapsible-sidebar/sidebar-tab.svg""); background-attachment: fixed; background-repeat: no-repeat; background-position: center left 1rem; background-size: 1rem 12.875rem; pointer-events: none; } #side-bar:is(:hover, :active, :focus-within) + #main-content::after { left: calc(var(--sidebar-width-on-desktop, 14.5rem) * -1); width: 0rem; transition: left 300ms cubic-bezier(0.4, 0.0, 0.2, 1), background-position 300ms cubic-bezier(0.4, 0.0, 0.2, 1), opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1); opacity: 0; background-position: center left calc(var(--sidebar-width-on-desktop, 14.5rem) * -1); font-size: 0em; } #main-content::before { content: "" ""; position: absolute; z-index: 9; top: var(--final-header-height-on-desktop, 0); left: 0; width: var(--sidebar-width-on-desktop, 14.5rem); height: calc(100% - var(--final-header-height-on-desktop, 0.688rem) - 2.313rem); margin-bottom: calc(var(--final-header-height-on-desktop, -2.313rem) * -1 - 2.313rem); transition: translate 300ms cubic-bezier(0.4, 0.0, 0.2, 1), opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1); opacity: 0.5; background-color: rgb(var(--swatch-alternate-color, 0, 0, 0)); pointer-events: none; translate: calc(var(--sidebar-width-on-desktop, 14.5rem) * -1 + 1rem); } #side-bar:is(:hover, :active, :focus-within) + #main-content::before { translate: 0; opacity: 0; } #side-bar .side-block { margin-top: 1em; padding-left: 0.25em; border-right-width: 0rem; border-left-width: 0rem; border-radius: 0; background-color: rgb(0, 0, 0, 0); direction: ltr; } #side-bar .scpnet-interwiki-wrapper { direction: ltr; } /* Print Friendly Formatting by Estrella */ body.print-body { --sidebar-width-on-desktop: 0; } body.print-body #main-content::before, body.print-body #main-content::after { display: none; } } Item#: 900
 
-
-
-
-+ Show component code
-
-- Hide component code
-
-
-
-:root {
-        --sidebar-width-on-desktop: calc(var(--base-font-size) * (266 / 15));
-        --body-width-on-desktop: 45.75rem;
-    }
-    @media only screen and (min-width: 56.25rem) {
-        #content-wrap {
-            display: flex;
-            position: initial;
-            flex-direction: row;
-            flex-grow: 2;
-            width: calc(100vw - (100vw - 100%));
-            max-width: inherit;
-            height: auto;
-            min-height: calc(100vh - var(--final-header-height-on-desktop, 10.125rem));
-            margin: 0 var(--sidebar-width-on-desktop, 13.6rem) 0 calc(var(--sidebar-width-on-desktop, 13.6rem) * -1 / 2);
-        }
- 
-        #main-content {
-            position: initial;
-            width: var(--body-width-on-desktop, 45.75rem);
-            max-width: var(--body-width-on-desktop, 45.75rem);
-            max-height: 100%;
-            margin: 0 auto;
-            padding: 2rem 1rem;
-        }
- 
-        #page-content {
-            max-width: min(90vw, var(--body-width-on-desktop, 45.75rem));
-        }
- 
-        #side-bar {
-            position: -webkit-sticky;
-            position: sticky;
-            top: 0;
-            left: 0;
-            grid-area: side-bar;
-            width: var(--sidebar-width-on-desktop, 13.6rem) !important;
-            min-width: var(--sidebar-width-on-desktop, 13.6rem) !important;
-            max-height: 100vh;
-            padding-right: 2.5rem;
-            padding-left: 0.5rem;
-            overflow-y: scroll;
-            transition:
-                translate 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                background-color 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                padding 300ms linear,
-                margin 300ms linear;
-            border: none;
-            border-color: rgba(var(--swatch-tertiary-color, 170, 170, 170), 0.4);
-            background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 0);
-            translate: calc(var(--sidebar-width-on-desktop, 13.5rem) * -1 - 1rem);
-            direction: rtl;
-            scrollbar-width: thin;
-            -ms-scroll-chaining: none;
-                overscroll-behavior: contain;
-            scrollbar-color: 
-                rgba(var(--swatch-primary-darker), 0.1) /* Thumb */
-                rgba(var(--swatch-tertiary-color), 0.05); /* Track */
-        }
- 
-        #side-bar::-webkit-scrollbar-track {
-            background-color: rgba(var(--swatch-secondary-color, 244, 244, 244), 0.8);
-        }
- 
-        #side-bar::-webkit-scrollbar,
-        #side-bar::-webkit-scrollbar-thumb,
-        #side-bar::-webkit-scrollbar-corner {
-            width: 0.5rem;
-            border-right-width: calc(100vw + 100vh);
-            border-right-style: inset;
-            border-color: inherit;
-            background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 0);
-        }
- 
-        #side-bar:is(:hover, :active, :focus-within) {
-            margin-right: 2.25rem;
-            padding-right: 0.25rem;
-            overflow-x: hidden;
-            overflow-y: auto;
-            border-color: rgba(var(--swatch-primary-darker), 1);
-            background-color: rgba(var(--sidebar-bg-color, 255, 255, 255), 1);
-            translate: calc(var(--sidebar-width-on-desktop, 1rem) - var(--sidebar-width-on-desktop, 0));
-            scrollbar-color: 
-                rgba(170, 170, 170, 1)  /* Thumb */
-                rgba(252, 252, 252, 1); /* Track */
-            scrollbar-color: 
-                rgb(var(--swatch-primary-darker, 170, 170, 170), 1) /* Thumb */
-                rgb(var(--swatch-menubg-color, 252, 252, 252), 1);  /* Track */
-        }
- 
-        #main-content::after {
-            content: "" "";
-            display: flex;
-            position: fixed;
-            top: 0;
-            left: 1rem;
-            align-items: center;
-            justify-content: center;
-            width: 1rem;
-            height: 100%;
-            max-height: 100%;
-            transition:
-                left 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                background-position 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1);
-            background: url(""https://scp-wiki.wdfiles.com/local--files/component%3Acollapsible-sidebar/sidebar-tab.svg"");
-            background-attachment: fixed;
-            background-repeat: no-repeat;
-            background-position: center left 1rem;
-            background-size: 1rem 12.875rem;
-            pointer-events: none;
-        }
- 
-        #side-bar:is(:hover, :active, :focus-within) + #main-content::after {
-            left: calc(var(--sidebar-width-on-desktop, 14.5rem) * -1);
-            width: 0rem;
-            transition:
-                left 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                background-position 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1);
-            opacity: 0;
-            background-position: center left calc(var(--sidebar-width-on-desktop, 14.5rem) * -1);
-            font-size: 0em;
-        }
- 
-        #main-content::before {
-            content: "" "";
-            position: absolute;
-            z-index: 9;
-            top: var(--final-header-height-on-desktop, 0);
-            left: 0;
-            width: var(--sidebar-width-on-desktop, 14.5rem);
-            height: calc(100% - var(--final-header-height-on-desktop, 0.688rem) - 2.313rem);
-            margin-bottom: calc(var(--final-header-height-on-desktop, -2.313rem) * -1 - 2.313rem);
-            transition:
-                translate 300ms cubic-bezier(0.4, 0.0, 0.2, 1),
-                opacity 300ms cubic-bezier(0.4, 0.0, 0.2, 1);
-            opacity: 0.5;
-            background-color: rgb(var(--swatch-alternate-color, 0, 0, 0));
-            pointer-events: none;
-            translate: calc(var(--sidebar-width-on-desktop, 14.5rem) * -1 + 1rem);
-        }
- 
-        #side-bar:is(:hover, :active, :focus-within) + #main-content::before {
-            translate: 0;
-            opacity: 0;
-        }
- 
-        #side-bar .side-block {
-            margin-top: 1em;
-            padding-left: 0.25em;
-            border-right-width: 0rem;
-            border-left-width: 0rem;
-            border-radius: 0;
-            background-color: rgb(0, 0, 0, 0);
-            direction: ltr;
-        }
- 
-        #side-bar .scpnet-interwiki-wrapper {
-            direction: ltr;
-        }
- 
-        /* Print Friendly Formatting by Estrella */
-        body.print-body { 
-            --sidebar-width-on-desktop: 0; 
-        } 
-        body.print-body #main-content::before,
-        body.print-body #main-content::after { 
-            display: none; 
-        }
-    }
-
-
-
-
-
-
-
-
-Item#: 900
-
-Level3
-
-
-
-
-
-
-Containment Class:
-euclid
-
-
-Secondary Class:
-none
-
-
-
-Disruption Class:
-vlam
-
-
-Risk Class:
-danger
-
-
-
-link to memo
-
-
-
-
-
-
-
-
-Assigned Site
+Level3 Containment Class:
+euclid Secondary Class:
+none Disruption Class:
+vlam Risk Class:
+danger link to memo Assigned Site
 Site Director
 Research Head
-Assigned Task Force
-
-
-Site-121
+Assigned Task Force Site-121
 Dr. Charles Liddell Pending
 Senior Researcher Catherine Kipp Pending
-MTF Γ-87 (""Analog Freaks"")
-
-
-
-
-
-Site-78 (Photograph taken on 06/21/08)
-
-
-Special Containment Procedures: Site-78 Site-121 has been constructed 10 kilometers from SCP-900 in order to maintain reliable observation at all times.
+MTF Γ-87 (""Analog Freaks"") Site-78 (Photograph taken on 06/21/08) Special Containment Procedures: Site-78 Site-121 has been constructed 10 kilometers from SCP-900 in order to maintain reliable observation at all times.
 The waters of SCP-900 are off limits to all unauthorized individuals.
 Due to the nature of SCP-900, SCP-900-1 has been allowed free roam on the island located at the epicenter of SCP-900. Interaction with SCP-900-1 outside of official interviews are discouraged.
 No electronic devices are to be brought within SCP-900, except for the sake of testing. Personnel on the island may communicate with Site-78 Site-121 through the use of a heliograph1 located on it. Construction or demolition within SCP-900 is not to be attempted under any circumstances.
 Description: SCP-900 is a partially submerged city located within the Pacific Ocean, approximately 300 kilometers east of Helen Reef. The area of SCP-900 is estimated to be roughly 17,000 km2. SCP-900 is estimated to have been constructed between 1135 and 1285 BCE and destroyed between 360 and 215 BCE. Surviving architecture within SCP-900 does not match any known civilizations at the time.
-An island measuring approximately 5 km2 is located at the center of SCP-900. SCP-900-1, a female humanoid, is the sole resident of SCP-900. SCP-900-1 speaks exclusively in a previously undiscovered language, which has been referred to by SCP-900-1 as ""Burbak"". Working with the Department of Anomalous Communications and Relations has allowed for conversation between SCP-900-1 and Site-78 Site-121. See Addendum 3 for more details.
-
-
-A submerged structure located 125 meters off the shore of SCP-900. Architectural evidence suggests that the structure was constructed roughly ~1,500 years after the fall of SCP-900.
-
-
-Any individual who attempts to harm SCP-900-1 or a structure on this island will suffer immediate cardiac incineration. Saltwater will manifest in the lungs of any individual who attempts to create a structure on SCP-900. Reasons for these events are currently unknown.
+An island measuring approximately 5 km2 is located at the center of SCP-900. SCP-900-1, a female humanoid, is the sole resident of SCP-900. SCP-900-1 speaks exclusively in a previously undiscovered language, which has been referred to by SCP-900-1 as ""Burbak"". Working with the Department of Anomalous Communications and Relations has allowed for conversation between SCP-900-1 and Site-78 Site-121. See Addendum 3 for more details. A submerged structure located 125 meters off the shore of SCP-900. Architectural evidence suggests that the structure was constructed roughly ~1,500 years after the fall of SCP-900. Any individual who attempts to harm SCP-900-1 or a structure on this island will suffer immediate cardiac incineration. Saltwater will manifest in the lungs of any individual who attempts to create a structure on SCP-900. Reasons for these events are currently unknown.
 The boundaries of SCP-900 are marked by a disruption of electronic equipment, including but not limited to loss of function, shutdown, distortion or amplification of display or audio devices, et cetera. Occasionally, the distortion of electronic devices will produce an image, word, or sentence. See Addendum 1 for more details. The frequency of such disruptions increases the closer said equipment is brought to the center of SCP-900. All electronic objects brought onto the island will cease functionality. Analysis of the equipment after failure has found evidence of saltwater spontaneously appearing within the circuitry.
 Addendum 1: A partial list of recordings created through the anomalous effects on electronics can be found below. A full list is available upon request from the SCP-900 research head.
 
-[What appears to be music, played by a drum, with a person singing.]
-
-
-Invader.
-
-
-[DISTORTED] Flee/Run/Retreat
-
-
-Murderer.
-
-
-[A crowd of people talking, no individual words can be made out.]
-
-
-Do not [discuss/interfere] with the traitor.
-
-
-[Heavily distorted, as if underwater.] Not yours.
-
-
-[UNTRANSLATABLE]2
-
-
-[Drowning/Death].
-
-
-Why?
-
-
-Gather Keep Protect [Army/Kingdom]. Blasphemy.
-
-
-Addendum 2:
+[What appears to be music, played by a drum, with a person singing.] Invader. [DISTORTED] Flee/Run/Retreat Murderer. [A crowd of people talking, no individual words can be made out.] Do not [discuss/interfere] with the traitor. [Heavily distorted, as if underwater.] Not yours. [UNTRANSLATABLE]2 [Drowning/Death]. Why? Gather Keep Protect [Army/Kingdom]. Blasphemy. Addendum 2:
 
 Foreword: The following transcript details a video report made by Agent Tenor of MTF Γ-87 (""Analog Freaks""). Of note, this report details the first expedition onto the island within SCP-900, and the first known contact with SCP-900-1.
 
@@ -315,10 +45,7 @@ Agent Tenor: We kept trying to keep Penny alive, but it was no use. Whenever we'
 [Agent Tenor opens his eyes and stares directly into the camera.]
 Agent Tenor: She watched us while we got onto the boats, and kept staring at us as we sailed back to base. I don't know who she is, but I don't trust her, and neither should any of you. This island… this city isn't safe for us. We weren't meant to be here. After this log, I'm gonna make sure we never come back.
 
-Afterword: Agent Tenor would later submit a request to cancel all future expeditions into SCP-900. After 24 hours of deliberation, this request was denied.
-
-
-Addendum 3: On 3/17/08 SCP-900-1 was interviewed on its involvement within SCP-900 and its role within its society. A transcript of this interview, penned in Burbak and later translated by Researcher Darnley, has been included below.
+Afterword: Agent Tenor would later submit a request to cancel all future expeditions into SCP-900. After 24 hours of deliberation, this request was denied. Addendum 3: On 3/17/08 SCP-900-1 was interviewed on its involvement within SCP-900 and its role within its society. A transcript of this interview, penned in Burbak and later translated by Researcher Darnley, has been included below.
 
 Dr. Kipp: Hello. You have chosen to speak with us?
 SCP-900-1: It is necessary. You were not frightened away when you came. May I ask your [name/title]?
@@ -351,10 +78,7 @@ SCP-900-1: [Drowning/Death].
 Dr. Kipp: Is there anything else you can tell me about them?
 SCP-900-1: I can tell you what I told them. Leave this place. Now.
 
-Closing Statement: Following their final statement SCP-900-1 refused to continue speaking with Dr. Kipp, forcing the interview to terminate.
-
-
-Addendum 4: On 4/05/08, SCP-900-1 was interviewed within Site-78 by the Research Head, Dr. Catherine Kipp. SCP-900-1 was questioned about SCP-900. The following is a list of questions asked by Dr. Kipp and their answers, written by SCP-900-1. Translations and annotations were written by Researcher Darnley.
+Closing Statement: Following their final statement SCP-900-1 refused to continue speaking with Dr. Kipp, forcing the interview to terminate. Addendum 4: On 4/05/08, SCP-900-1 was interviewed within Site-78 by the Research Head, Dr. Catherine Kipp. SCP-900-1 was questioned about SCP-900. The following is a list of questions asked by Dr. Kipp and their answers, written by SCP-900-1. Translations and annotations were written by Researcher Darnley.
 
 Dr. Kipp: Why are you choosing to speak to us now? You refused to last time.
 SCP-900-1: I hoped you would leave.
@@ -374,10 +98,7 @@ SCP-900-1: I am.
 Dr. Kipp: Why do you want us to leave?
 SCP-900-1: This is a place for those who need it. Many have come before you. None remain.
 Dr. Kipp: And what happened to them?
-SCP-900-1: The sun warned them. The sea claimed them.
-
-
-Addendum 5: Incident S78-03
+SCP-900-1: The sun warned them. The sea claimed them. Addendum 5: Incident S78-03
 
 Date: 07/25/08
 Location: Site-78
@@ -391,10 +112,7 @@ Timeframe: 10:03-14:42
 10:22: All contact with Site-78 is lost.
 14:42: Foundation Search and Rescue forces arrive at Site-78's location. The site is not present. After 48 hours of searching, all personnel stationed within Site-78 are considered lost.
 
-Afterword: After Incident S78-03, SCP-900-1 has refused to speak to Foundation Personnel. Out of caution, Site-121 has been constructed as a replacement site approximately five kilometers further away from SCP-900.
-
-
-Addendum 6:
+Afterword: After Incident S78-03, SCP-900-1 has refused to speak to Foundation Personnel. Out of caution, Site-121 has been constructed as a replacement site approximately five kilometers further away from SCP-900. Addendum 6:
 
 Foreword: After arriving at SCP-900, Foundation Search and Rescue forces determined that the anomalous effects of SCP-900 had significantly lessened, allowing for the usage of video and audio recording equipment. During this brief window, a video of approximately 50 seconds was recorded on the island within SCP-900. The equipment used to record this video was failing, with a broken microphone and severe corruption at certain points, but the following transcript details what could be salvaged.
 
@@ -411,46 +129,22 @@ Foreword: After arriving at SCP-900, Foundation Search and Rescue forces determi
 [For approximately one frame, a figure is visible within this light.]
 [Corruption.]
 
-Afterword: No explanation to this footage has been discovered. No corrupted signals have formed a comprehensible message after Incident S78-03.
-
-
-Annotations
+Afterword: No explanation to this footage has been discovered. No corrupted signals have formed a comprehensible message after Incident S78-03. Annotations
 1. A large mirror used for communication by refracting sunlight to a further distance.
 2. Refers to a concept inherent in the religion of SCP-900 as the ""Naktumbken"", or a person's ascendance to the realm of Matharoi (the sun God) after death.
 3. Due to Matharoi also being the literal word for ""the sun"", it will be referred to as ""the sun"" for the rest of the document.
-4. Similar to Matharoi, Lautkem represented the sea in the culture of SCP-900. The two deities were both revered by different religious groups, with Lautkem's followers mainly living near the then-beaches of SCP-900. For the sake of simplicity, referred to as ""the sea"" for the rest of this document.
-
-
-
-
-‡ Licensing / Citation
+4. Similar to Matharoi, Lautkem represented the sea in the culture of SCP-900. The two deities were both revered by different religious groups, with Lautkem's followers mainly living near the then-beaches of SCP-900. For the sake of simplicity, referred to as ""the sea"" for the rest of this document. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-900"" by DrGooday and LizardWizard, from the SCP Wiki. Source: https://scpwiki.com/scp-900. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-900"" by DrGooday and LizardWizard, from the SCP Wiki. Source: https://scpwiki.com/scp-900. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: 900_Underwater.jpg
 Name: Shipreck
 Author: slava
 License: CC BY 2.0
-Source Link: Flickr
-
-
-Filename: Site78.jpeg
+Source Link: Flickr Filename: Site78.jpeg
 Name: North Sea oil platform
 Author: Stan Shebs
 License: CC BY-SA 3.0
-Source Link: https://commons.wikimedia.org/wiki/File:North_Sea_oil_platform.jpg
-
-
-
-
-
-",81,2022-01-08T22:50:00,LizardWizard,https://scp-wiki.wikidot.com/scp-900,"_cc, _licensebox, city, co-authored, euclid, historical, humanoid, inscription, rewrite, scp, transmission","classification-committee-memo, scp-1000, scp-899, scp-901, component:license-box, licensing-guide"
+Source Link: https://commons.wikimedia.org/wiki/File:North_Sea_oil_platform.jpg ",81,2022-01-08T22:50:00,LizardWizard,https://scp-wiki.wikidot.com/scp-900,"_cc, _licensebox, city, co-authored, euclid, historical, humanoid, inscription, rewrite, scp, transmission","classification-committee-memo, scp-1000, scp-899, scp-901, component:license-box, licensing-guide"

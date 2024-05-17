@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-42df042b-120c-44bd-88b3-9de2a2e034d7,SCP-822,"Item #: SCP-822
+9aae1da5-1053-4365-a9a4-6c4418d11de7,SCP-822,"Item #: SCP-822
 Object Class: Euclid
 Special Containment Procedures: Specimens of SCP-822 are contained in an isolation chamber at Biological Containment Site-103. Personnel may not approach within 5 meters of the chamber at any time; watering and soil conditioning are to be done via automated systems and any maintenance work must be done remotely with robotic assistance.
 Description: SCP-822 is a species of cactus similar in appearance to Lophophora williamsii (Peyote) but with significant differences as the plant reaches maturity within a period of approximately thirty (30) days. As SCP-822 nears maturity, a large gas sac forms within the center of the plant as it reaches its typical maximum dimensions of approximately 10cm in height and 25cm in diameter. This sac is filled with volatile gasses including ████████, ████, and several substances unique to SCP-822. At the same time, the skin of SCP-822 hardens until it reaches a point not unlike sheet metal and seeds begin to form just under the skin. Once the plant is fully mature, it flowers and begins extruding a pheromone that serves to attract mammals of sufficient mass to trigger its anomalous property.
@@ -32,23 +32,8 @@ Subject: D-10021
 Procedure: Specimen of SCP-822 placed against wall of isolation chamber designed to completely absorb all sound, vibration, and temperature fluctuation. Subject instructed to move towards SCP-822 while separated by wall of isolation chamber.
 Results:
 SCP-822 detonates when Subject approaches within 3 meters of specimen. Minimal damage to isolation chamber, no harm to Subject.
-""Apparently SCP-822 is capable of detecting living creatures within its trigger radius, despite not being able to ""see"" the target, detect its sounds, or feel any shifts in temperature. More experimentation needs to be done to determine how it does this."" - Dr. █████████
-
-
-‡ Licensing / Citation
+""Apparently SCP-822 is capable of detecting living creatures within its trigger radius, despite not being able to ""see"" the target, detect its sounds, or feel any shifts in temperature. More experimentation needs to be done to determine how it does this."" - Dr. █████████ ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-822"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-822. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",169,2009-06-22T16:48:00,Aelanna,https://scp-wiki.wikidot.com/scp-822,"_licensebox, alive, chemical, euclid, plant, scp, species, toxic","scp-821, scp-823, component:license-box, licensing-guide"
+Cite this page as: ""SCP-822"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-822. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",169,2009-06-22T16:48:00,Aelanna,https://scp-wiki.wikidot.com/scp-822,"_licensebox, alive, chemical, euclid, plant, scp, species, toxic","scp-821, scp-823, component:license-box, licensing-guide"

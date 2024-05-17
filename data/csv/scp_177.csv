@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-72644b0a-0f34-4a68-b1fe-b44e5abcb860,SCP-177,"Item #: SCP-177
+1320dca3-599c-406e-ac95-dda8856dec2b,SCP-177,"Item #: SCP-177
 Object Class: Safe
 Special Containment Procedures: Due to the safe level of the object, SCP-177 is to be contained in Dr. Calib's room, to be moved only at his discretion, or at that of a Level 4 Administrator. SCP-177 is to be kept in a Level-4 storage locker. During use of SCP-177, standard rules of chess must be adhered to; any test subject attempting to cheat or deviate from these rules is to be escorted from the room.
 Description: SCP-177 is an eight by eight square standard chess board measuring 40 cm by 40 cm. On the board are 16 pawns, two Kings, two Queens, four Bishops, four Knights, and four rooks, totaling 16 black and 16 white pieces. All items are carved out of elephant ivory. The white pieces are moveable, and can even be removed from the board with minimal force; the black pieces, however, cannot be removed from the board, or moved by any outside force; forces in excess of 3 kilo-newtons have been applied to the black pieces, only resulting in damaged equipment.
@@ -36,23 +36,8 @@ Results of Game: SCP-177 won in 25 moves.
 Test #: 975
 White Player: ""Andersenn"", a chess computer developed by Dr. Calib with the express purpose of beating SCP-177. Computer was built to be able to deviate from rules of chess and ""cheat"" if necessary. White pieces manipulated by robotic arm.
 Results of Game: Game progressed normally until turn 63, when Andersenn attempted to move the white queen in an L-shape similar to a knight in order to achieve check. Following this, SCP-177 was ""thrown"" at Andersenn by an unseen force at over ██ km/h, resulting in the destruction of several vital circuits in the computer.
-New protocol. No cheating. Do I even need to say what would happen to a human if they cheated against this thing?! -Dr. Calib
-
-
-‡ Licensing / Citation
+New protocol. No cheating. Do I even need to say what would happen to a human if they cheated against this thing?! -Dr. Calib ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-177"" by Unknown author, rewritten by Ihp, from the SCP Wiki. Source: https://scpwiki.com/scp-177. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",309,2008-07-26T21:58:00,Kain Pathos Crow,https://scp-wiki.wikidot.com/scp-177,"_licensebox, autonomous, game, rewrite, safe, scp, toy","scp-176, scp-178, component:license-box, licensing-guide"
+Cite this page as: ""SCP-177"" by Unknown author, rewritten by Ihp, from the SCP Wiki. Source: https://scpwiki.com/scp-177. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",309,2008-07-26T21:58:00,Kain Pathos Crow,https://scp-wiki.wikidot.com/scp-177,"_licensebox, autonomous, game, rewrite, safe, scp, toy","scp-176, scp-178, component:license-box, licensing-guide"

@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-b35f93ad-0eb9-4726-b2d5-e1bdd709650e,SCP-393,"Item #: SCP-393
+53ff20a6-d629-4cdd-bdfa-686a5420654d,SCP-393,"Item #: SCP-393
 Object Class: Euclid
 Special Containment Procedures: SCP-393 is to be kept in the possession of a designated D-class subject, hereby referred to as D-393, at Site-██. The vitals of D-393 are to be monitored at all times to prevent SCP-393 from 'linking' to important SCP personnel in the event of D-393's death. A secondary D-class subject will remain on stand-by for emergency reclamations of SCP-393 if D-393 should die.
 Description: SCP-393 is an ordinary 9 cm x 14 cm blue day planner with a year embroidered into its cover that always matches the current year. The information on the back of the day planner reveals it to be a product of █████ ███████ publishing. SCP-393 has the ability to 'link' to a nearby subject via unknown means. Once linked, the day planner will appear in the hands of its owner whenever it is not being watched. Additionally, any event written in the past dates of the day planner are instantly recalled by the subject as if they experienced it themselves. Events written in a future date of SCP-393 will elicit no change until the date of the event has passed, at which time the subject will recall the event. If the subject currently linked with SCP-393 dies, SCP-393 will choose a new owner within ten minutes of the previous owner's demise, based on proximity. There appears to be no maximal distance for this ability (for additional details, see testing log).
@@ -33,23 +33,8 @@ Guards tranquilize Subject 393-1 and take the body to his holding cell
 <End Log>
 
 Closing Statement: Subject 393-1 terminated after refusing to work, and attacking any staff who entered his cell.
-SCP-393 has a heavy effect on the memory of the subject, but subject's memories fall apart under questioning. - Dr ██████
-
-
-‡ Licensing / Citation
+SCP-393 has a heavy effect on the memory of the subject, but subject's memories fall apart under questioning. - Dr ██████ ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-393"" by Enocher, from the SCP Wiki. Source: https://scpwiki.com/scp-393. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",69,2010-10-01T00:55:00,Enocher,https://scp-wiki.wikidot.com/scp-393,"_licensebox, document, euclid, memory-affecting, mind-affecting, scp, telepathic, teleportation","experiment-log-393, scp-392, scp-394, component:license-box, licensing-guide"
+Cite this page as: ""SCP-393"" by Enocher, from the SCP Wiki. Source: https://scpwiki.com/scp-393. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",69,2010-10-01T00:55:00,Enocher,https://scp-wiki.wikidot.com/scp-393,"_licensebox, document, euclid, memory-affecting, mind-affecting, scp, telepathic, teleportation","experiment-log-393, scp-392, scp-394, component:license-box, licensing-guide"

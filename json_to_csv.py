@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime
 import uuid
+import re
 
 # Load the processed JSON files from the directory
 json_dir = "./data/processed_json/"
@@ -47,6 +48,9 @@ for filename in os.listdir(json_dir):
 
         # Generate a unique identifier
         unique_id = str(uuid.uuid4())
+
+        # Remove whitespace or line breaks greater than 2 from the content
+        content = re.sub(r"\s{3,}", " ", content)
 
         # Extract the SCP number from the title and remove preceding zeros
         scp_number = title.split("-")[-1].lstrip("0") if "-" in title else ""

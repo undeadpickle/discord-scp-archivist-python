@@ -1,54 +1,12 @@
 id,title,content,rating,created_at,creator,url,tags,references
-5d683777-2470-430c-ab3e-9bc3c8f50288,SCP-520,"
-Photosynthetic
+b44d07b2-b70e-42c9-9063-85138eff9fb7,SCP-520,"
+Photosynthetic SCP-520 - Knife Switch by Photosynthetic More by this author Item#: 520
 
-
-SCP-520 - Knife Switch by Photosynthetic
-
-
-More by this author
-
-
-
-
-
-
-
-
-Item#: 520
-
-Level2
-
-
-
-
-
-
-Containment Class:
-safe
-
-
-Secondary Class:
-none
-
-
-
-Disruption Class:
-keneq
-
-
-Risk Class:
-notice
-
-
-
-link to memo
-
-
-
-
-
-Special Containment Procedures: SCP-520-1 and -2 are to be stored in an inanimate-item containment locker with standard positive-action defenses. Each object's handle is to remain perpendicular to its base. The handles and contacts must be secured with sturdy clamps made of insulating material.
+Level2 Containment Class:
+safe Secondary Class:
+none Disruption Class:
+keneq Risk Class:
+notice link to memo Special Containment Procedures: SCP-520-1 and -2 are to be stored in an inanimate-item containment locker with standard positive-action defenses. Each object's handle is to remain perpendicular to its base. The handles and contacts must be secured with sturdy clamps made of insulating material.
 PoI-520-A and PoI-520-B are to remain in Foundation custody; as long as they do so voluntarily, they are to be accommodated comfortably without communications access. All electrical devices in each PoI's suite should be checked weekly for damage or modification. Should PoI-520-A and PoI-520-B agree to meet, they are permitted one hour of face-to-face or videoconference time per week.
 Tests of SCP-520-2 should be conducted using the smallest possible active-zone setting. Both SCP-520-1 and SCP-520-2 must only be allowed to affect Foundation assets slated for disposal. Testing is currently suspended. See Incident 520-16.
 Description: SCP-520-1 and SCP-520-2 are large quadruple knife switches constructed from wood, ceramic, and copper. A single unlabeled dial is mounted in SCP-520-2's base and a 48-character LED display is connected across its input contacts with insulated alligator clips.
@@ -77,23 +35,8 @@ Incident 520-16:
 On 05/14/2016, researchers conducting routine experiments activated SCP-520-2 eleven times. The first ten activations affected Foundation-owned fluorescent lamps without incident; the tenth activation also changed the selection class to ""BOEING 747 AILERON ACTUATOR"". Since no aircraft were present in the effect radius, researchers took the opportunity to test SCP-520-2's function in the absence of suitable targets.
 When the switch was activated for the eleventh time, however, researchers noted only slight stiffness in the handle. Later examination showed that the force applied to move SCP-520-2's handle was first diverted to adjust its effect-radius selection dial and enlarge the active zone.
 Simultaneously, Qantas flight [REDACTED] was lost near Perth with all 532 passengers and crew. Foundation assets embedded with crash investigators successfully retrieved the airplane's relevant hydraulic flight control systems and confirmed all four aileron actuators to have been disabled by SCP-520.
-All testing with SCP-520 has been suspended pending development of an alternate method of changing the object's selection class.
-
-
-‡ Licensing / Citation
+All testing with SCP-520 has been suspended pending development of an alternate method of changing the object's selection class. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-520"" by Photosynthetic, from the SCP Wiki. Source: https://scpwiki.com/scp-520. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",41,2017-06-07T03:41:00,Photosynthetic,https://scp-wiki.wikidot.com/scp-520,"_licensebox, electrical, electronic, safe, scp, telekinetic","scp-519, scp-521, component:license-box, licensing-guide"
+Cite this page as: ""SCP-520"" by Photosynthetic, from the SCP Wiki. Source: https://scpwiki.com/scp-520. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",41,2017-06-07T03:41:00,Photosynthetic,https://scp-wiki.wikidot.com/scp-520,"_licensebox, electrical, electronic, safe, scp, telekinetic","scp-519, scp-521, component:license-box, licensing-guide"

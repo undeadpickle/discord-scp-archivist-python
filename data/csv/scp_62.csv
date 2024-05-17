@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-5aa29e12-8494-4f43-82c3-98395ad47c83,SCP-062,"Item #: SCP-062
+3c2a1562-91d0-48ee-ab83-74260fdb5a28,SCP-062,"Item #: SCP-062
 Object Class: Euclid
 Special Containment Procedures: SCP-062 is stored in a dedicated containment cell at Site ██ under clean room conditions. Any experimentation on SCP-062 must receive prior permission from at least two (2) Level 3 Personnel, and must only be performed with independent power sources. SCP-062 must never be attached to an external network, and all data extracted from SCP-062 is to be stored on external nonvolatile media until analyzed.
 Description: SCP-062 appears to be an unbranded personal desktop computer housed in an aluminum case of indeterminate manufacture. SCP-062 is unusually heavy at approximately 24kg, and lacks manufacturing or branding labels of any kind. The words ""infomation is freedom [sic]"" were found scratched into the casing near the back, apparently with a key or similar object.
@@ -19,23 +19,8 @@ Description: SCP-062 appeared to be running [REDACTED] in French. Contained data
 Date: █/█/██
 Description: SCP-062 appeared to be running Apple OS X in what appears to be Akkadian cuneiform script. Contained data appears to be composed mainly of religious text and descriptions of ritual and ceremonial procedures.
 Date: ██/█/██
-Description: [REDACTED]. Investigation is ongoing as to how the virus managed to compromise 3 workstations and one file server before SCP-062 was forcibly shut down. All affected workstations have been isolated.
-
-
-‡ Licensing / Citation
+Description: [REDACTED]. Investigation is ongoing as to how the virus managed to compromise 3 workstations and one file server before SCP-062 was forcibly shut down. All affected workstations have been isolated. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-062"" by Unknown author, rewritten by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-062. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",239,2008-07-26T03:55:00,far2,https://scp-wiki.wikidot.com/scp-062,"_licensebox, computer, electronic, euclid, extradimensional, knowledge, language, rewrite, scp","scp-061, scp-063, component:license-box, licensing-guide"
+Cite this page as: ""SCP-062"" by Unknown author, rewritten by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-062. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",239,2008-07-26T03:55:00,far2,https://scp-wiki.wikidot.com/scp-062,"_licensebox, computer, electronic, euclid, extradimensional, knowledge, language, rewrite, scp","scp-061, scp-063, component:license-box, licensing-guide"

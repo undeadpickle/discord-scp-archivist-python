@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-cef79d92-395e-4452-993a-3fe430231924,SCP-199,"Item #: SCP-199
+c5cad51c-95d2-44cb-b71c-868ba52d5dc8,SCP-199,"Item #: SCP-199
 Object Class: Plant
 Containment Class: Euclid
 Special Containment Procedures: A garden of SCP-199 has been built at Site-19 for research and containment. The garden is kept in a ventilated containment unit with artificial light suitable for plant growth and an automatic watering system. The ceiling is covered with an electrified grate capable of destroying instances of SCP-199-2. The entire chamber is to be surrounded with a Faraday cage to prevent emission of SCP-199-3.
@@ -19,421 +19,107 @@ Analysis of SCP-199-3:
 From 09/12/2017 to 09/19/2017, large-scale analysis of SCP-199-3 was conducted by the Foundation. Large Containment Cell #45 at Site-9 was temporarily converted into a simulated urban area. Five instances of SCP-199 were moved to the area for testing.
 The following is a transcript of SCP-199-3 transmissions, as well as notes in italics.
 
-""This is Staffman Foxtail, launch successful, entering watching mode."" (Transcript of SCP-199-3 after launch of SCP-199-2. Name and rank vary per instance.)
-
-
-""Targets found, beginning following mode."" (Transcript of SCP-199-3 after floating above simulated civilians.)
-
-
-""Targets preforming clumping, engaging.""
-""Targets entering phase, engaging."" (Transcript of SCP-199-3 after floating above a gathering of simulated civilians.)
-
-
-""Engaging in Armageddon."" (Transcript of SCP-199-3 after floating above a gathering for two minutes.)
-""Armageddon failed, disengaging."" (Transcript of SCP-199-3 after floating above a gathering for five minutes. It is unknown what would occur if ""Armageddon"" was successful.)
-
-
-""Evasive drift initiated, course moved.""
-""Obstacle encountered, moving from course."" (Transcript of SCP-199-3 while avoiding buildings.)
-
-
-""Single target engaged in protectionless, retreating."" (Transcript of SCP-199-3 after floating above a member of D-class personnel disguised as a New York citizen on a balcony.)
+""This is Staffman Foxtail, launch successful, entering watching mode."" (Transcript of SCP-199-3 after launch of SCP-199-2. Name and rank vary per instance.) ""Targets found, beginning following mode."" (Transcript of SCP-199-3 after floating above simulated civilians.) ""Targets preforming clumping, engaging.""
+""Targets entering phase, engaging."" (Transcript of SCP-199-3 after floating above a gathering of simulated civilians.) ""Engaging in Armageddon."" (Transcript of SCP-199-3 after floating above a gathering for two minutes.)
+""Armageddon failed, disengaging."" (Transcript of SCP-199-3 after floating above a gathering for five minutes. It is unknown what would occur if ""Armageddon"" was successful.) ""Evasive drift initiated, course moved.""
+""Obstacle encountered, moving from course."" (Transcript of SCP-199-3 while avoiding buildings.) ""Single target engaged in protectionless, retreating."" (Transcript of SCP-199-3 after floating above a member of D-class personnel disguised as a New York citizen on a balcony.)
 ""Single target engaged in that of protection, standing by."" (Transcript of SCP-199-3 after floating above a member of D-class personnel disguised as a New York citizen on a balcony, while the balcony had flowers.)
 ""Non-target found without that of protection, colored blue."" (Transcript of SCP-199-3 after floating above a balcony with flowers without a civilian. Color changed depending on type of flower.)
-""Standing position recovered, entering malign phase."" (After this was recorded, SCP-199-2 instances actively avoided balconies.)
-
-
-""[Unintelligible] — the Paragon — [Unintelligible]"" (Emitted by a contained instance of SCP-199-2 while floating above Site-19.)
-
-
-""Payload ready for deployment soon, standing by."" (SCP-199-3 as SCP-199-2 became close to explosion.)
+""Standing position recovered, entering malign phase."" (After this was recorded, SCP-199-2 instances actively avoided balconies.) ""[Unintelligible] — the Paragon — [Unintelligible]"" (Emitted by a contained instance of SCP-199-2 while floating above Site-19.) ""Payload ready for deployment soon, standing by."" (SCP-199-3 as SCP-199-2 became close to explosion.)
 ""Sorry, it looks like we have mayday here, please avoid future infertility."" (SCP-199-3 before explosion, when SCP-199-2 was empty.)
-""We have a complete deployment ready, pleasure to serve you, sir."" (SCP-199-3 before explosion, when SCP-199-2 had spores.)
+""We have a complete deployment ready, pleasure to serve you, sir."" (SCP-199-3 before explosion, when SCP-199-2 had spores.) ""If you could tell them I loved them—"" (One instance of SCP-199-2 emitted this while idle, and appeared to be cut off mid-sentence. Context unknown.)
 
-
-""If you could tell them I loved them—"" (One instance of SCP-199-2 emitted this while idle, and appeared to be cut off mid-sentence. Context unknown.)
-
-Many variations and idle phrases cut out of this document. Please consult Testing Log 199-#023 for an unabridged log.
-
-
-
-Addendum: On 09/21/2018, residents of Istanbul, Turkey reported a collective ""cloud"" of over 50 instances of SCP-199-2. Before a task force could respond to this, all instances simultaneously burst. Instead of seeds, SCP-199-2 released an acidic slime that caused severe damage to a road intersection and created three casualties. An ongoing disinformation campaign was released crediting the source of SCP-199-2 to be a bio-terrorist attack.
+Many variations and idle phrases cut out of this document. Please consult Testing Log 199-#023 for an unabridged log. Addendum: On 09/21/2018, residents of Istanbul, Turkey reported a collective ""cloud"" of over 50 instances of SCP-199-2. Before a task force could respond to this, all instances simultaneously burst. Instead of seeds, SCP-199-2 released an acidic slime that caused severe damage to a road intersection and created three casualties. An ongoing disinformation campaign was released crediting the source of SCP-199-2 to be a bio-terrorist attack.
 The source of this phenomena was identified to be a patch of SCP-199 on the outskirts of Istanbul. The task force attempted to use fire to destroy these plants; however, SCP-199 reacted with the fire and exploded into acidic green slime, injuring five Foundation agents. Following destruction of the patch, analysis of the soil revealed that SCP-199 had been planted there four weeks earlier.
 This new variant of SCP-199 has been tentatively designated SCP-199-B. SCP-199-B has also been reported in Mumbai, Lagos, and Mexico City.
-Near the patch found in Lagos, a partially biodegraded plastic seed packet was recovered buried underground. The front of the packet had a symbol resembling an eye with a red iris with a green substance covering a third of the eye. The back of the packet had a symbol strongly resembling the Foundation’s shield logo, but with the arrows pointing away from the shield and three vertical bars covering the shield’s inner circle.
- 
-
-
-
-More by notgull
-
-More by notgull
-
-
-
-
-
-SCPs
-
-
-
-notgull's Proposal
-Rating: 564
-
-
-SCP-3733
-Rating: 363
-
-
-SCP-3095
-Rating: 346
-
-
-SCP-4804
-Rating: 274
-
-
-SCP-4800
-Rating: 274
-
-
-SCP-2785
-Rating: 261
-
-
-SCP-4348
-Rating: 249
-
-
-SCP-4048
-Rating: 200
-
-
-SCP-4688
-Rating: 192
-
-
-SCP-3362
-Rating: 184
-
-
-SCP-579-J
-Rating: 180
-
-
-SCP-5800
-Rating: 174
-
-
-SCP-4785
-Rating: 172
-
-
-SCP-3339
-Rating: 164
-
-
-SCP-4248
-Rating: 160
-
-
-SCP-3747
-Rating: 160
-
-
-SCP-4948
-Rating: 153
-
-
-SCP-3296
-Rating: 122
-
-
-SCP-4800-J
-Rating: 117
-
-
-SCP-199
-Rating: 116
-
-
-SCP-4799
-Rating: 116
-
-
-SCP-7234
-Rating: 107
-
-
-SCP-3485
-Rating: 106
-
-
-SCP-5981
-Rating: 104
-
-
-SCP-4808
-Rating: 100
-
-
-SCP-3833
-Rating: 92
-
-
-SCP-3748
-Rating: 90
-
-
-SCP-4148
-Rating: 84
-
-
-SCP-5025
-Rating: 78
-
-
-SCP-5054
-Rating: 78
-
-
-SCP-093-J
-Rating: 72
-
-
-SCP-1037
-Rating: 71
-
-
-SCP-5680
-Rating: 62
-
-
-SCP-1684
-Rating: 61
-
-
-SCP-4872
-Rating: 61
-
-
-SCP-3248
-Rating: 58
-
-
-SCP-6904
-Rating: 56
-
-
-SCP-5483
-Rating: 37
-
-
-SCP-6785
-Rating: 33
-
-
-SCP-4397
-Rating: 31
-
-
-
-
-Tales
-
-
-
-The Little Robot that Could
-Rating: 324
-
-
-Join the Flock
-Rating: 162
-
-
-The Siege of Site-19
-Rating: 152
-
-
-Tales of the Automaton: The Big Birdocalypse
-Rating: 139
-
-
-Footage Recovered From a Private Server
-Rating: 105
-
-
-Avian Anthology I
-Rating: 74
-
-
-Moose on the Loose
-Rating: 66
-
-
-My Empire of Birds
-Rating: 64
-
-
-Document recovered from a Parallel Universe
-Rating: 58
-
-
-Joey Fucknuts Steals The Declaration of Independence
-Rating: 56
-
-
-Katz and Dogs
-Rating: 54
-
-
-Your Guard
-Rating: 48
-
-
-Vacation Opportunity
-Rating: 43
-
-
-The Scent of a Toaster
-Rating: 34
-
-
-Burn, Baby, Burn
-Rating: 29
-
-
-Chasing Suns
-Rating: 26
-
-
-The Shape of Water is Humanoid
-Rating: 23
-
-
-Wind in the Sails
-Rating: 22
-
-
-Three Feet Under I
-Rating: 22
-
-
-Dead Reckoning
-Rating: 21
-
-
-Three Feet Under II
-Rating: 21
-
-
-Three Feet Under III
-Rating: 19
-
-
-Forgotten Shrine
-Rating: 17
-
-
-Into the Beetle Black Yonder
-Rating: 16
-
-
-Down Through
-Rating: 15
-
-
-Hyperfine
-Rating: 12
-
-
-Don't Knock on Strange Doors
-Rating: 10
-
-
-
-
-Other
-
-
-
-Researcher Calvin's Personnel File
-Rating: 91
-
-
-Incident Report ████/████
-Rating: 79
-
-
-""Sphere"" Incursion Log
-Rating: 50
-
-
-Initial Incursion Log
-Rating: 48
-
-
-""Cube"" Incursion Log #1
-Rating: 41
-
-
-""Cube"" Incursion Log #2
-Rating: 41
-
-
-SCP-093-J Blue Test
-Rating: 40
-
-
-SCP-093-J Recovered Documents
-Rating: 40
-
-
-SCP-093-J Purple Test
-Rating: 34
-
-
-SCP-093-J Green Test
-Rating: 33
-
-
-Exploration Log 4480-1
-Rating: 20
-
-
-
-
-
-See my Author Page for more information. If you like reading my stuff, consider checking out my YouTube Channel for SCP-inspired animations, among other things.
-
-
-
-
-
-
-
-
-‡ Licensing / Citation
+Near the patch found in Lagos, a partially biodegraded plastic seed packet was recovered buried underground. The front of the packet had a symbol resembling an eye with a red iris with a green substance covering a third of the eye. The back of the packet had a symbol strongly resembling the Foundation’s shield logo, but with the arrows pointing away from the shield and three vertical bars covering the shield’s inner circle. More by notgull
+
+More by notgull SCPs notgull's Proposal
+Rating: 564 SCP-3733
+Rating: 363 SCP-3095
+Rating: 346 SCP-4804
+Rating: 274 SCP-4800
+Rating: 274 SCP-2785
+Rating: 261 SCP-4348
+Rating: 249 SCP-4048
+Rating: 200 SCP-4688
+Rating: 192 SCP-3362
+Rating: 184 SCP-579-J
+Rating: 180 SCP-5800
+Rating: 174 SCP-4785
+Rating: 172 SCP-3339
+Rating: 164 SCP-4248
+Rating: 160 SCP-3747
+Rating: 160 SCP-4948
+Rating: 153 SCP-3296
+Rating: 122 SCP-4800-J
+Rating: 117 SCP-199
+Rating: 116 SCP-4799
+Rating: 116 SCP-7234
+Rating: 107 SCP-3485
+Rating: 106 SCP-5981
+Rating: 104 SCP-4808
+Rating: 100 SCP-3833
+Rating: 92 SCP-3748
+Rating: 90 SCP-4148
+Rating: 84 SCP-5025
+Rating: 78 SCP-5054
+Rating: 78 SCP-093-J
+Rating: 72 SCP-1037
+Rating: 71 SCP-5680
+Rating: 62 SCP-1684
+Rating: 61 SCP-4872
+Rating: 61 SCP-3248
+Rating: 58 SCP-6904
+Rating: 56 SCP-5483
+Rating: 37 SCP-6785
+Rating: 33 SCP-4397
+Rating: 31 Tales The Little Robot that Could
+Rating: 324 Join the Flock
+Rating: 162 The Siege of Site-19
+Rating: 152 Tales of the Automaton: The Big Birdocalypse
+Rating: 139 Footage Recovered From a Private Server
+Rating: 105 Avian Anthology I
+Rating: 74 Moose on the Loose
+Rating: 66 My Empire of Birds
+Rating: 64 Document recovered from a Parallel Universe
+Rating: 58 Joey Fucknuts Steals The Declaration of Independence
+Rating: 56 Katz and Dogs
+Rating: 54 Your Guard
+Rating: 48 Vacation Opportunity
+Rating: 43 The Scent of a Toaster
+Rating: 34 Burn, Baby, Burn
+Rating: 29 Chasing Suns
+Rating: 26 The Shape of Water is Humanoid
+Rating: 23 Wind in the Sails
+Rating: 22 Three Feet Under I
+Rating: 22 Dead Reckoning
+Rating: 21 Three Feet Under II
+Rating: 21 Three Feet Under III
+Rating: 19 Forgotten Shrine
+Rating: 17 Into the Beetle Black Yonder
+Rating: 16 Down Through
+Rating: 15 Hyperfine
+Rating: 12 Don't Knock on Strange Doors
+Rating: 10 Other Researcher Calvin's Personnel File
+Rating: 91 Incident Report ████/████
+Rating: 79 ""Sphere"" Incursion Log
+Rating: 50 Initial Incursion Log
+Rating: 48 ""Cube"" Incursion Log #1
+Rating: 41 ""Cube"" Incursion Log #2
+Rating: 41 SCP-093-J Blue Test
+Rating: 40 SCP-093-J Recovered Documents
+Rating: 40 SCP-093-J Purple Test
+Rating: 34 SCP-093-J Green Test
+Rating: 33 Exploration Log 4480-1
+Rating: 20 See my Author Page for more information. If you like reading my stuff, consider checking out my YouTube Channel for SCP-inspired animations, among other things. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-199"" by Photosynthetic and MisterFlames, rewritten by notgull, from the SCP Wiki. Source: https://scpwiki.com/scp-199. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-199"" by Photosynthetic and MisterFlames, rewritten by notgull, from the SCP Wiki. Source: https://scpwiki.com/scp-199. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: fern.jpg
 Name: Crepidomanes minutum utiwagoke01.jpg
 Author: keisotyo
 License: CC BY-SA 3.0
-Source Link: Wikimedia
-
-
-
-
-
-",116,2018-09-23T15:00:00,notgull,https://scp-wiki.wikidot.com/scp-199,"_cc, _licensebox, airborne, alive, biohazard, euclid, plant, rewrite, scp, species, transmission","scp-4799, not-a-seagull-proposal, scp-3733, scp-3095, scp-4804, scp-4800, scp-2785, scp-4348, scp-4048, scp-4688, scp-3362, scp-579-j, scp-5800, scp-4785, scp-3339, scp-4248, scp-3747, scp-4948, scp-3296, scp-4800-j, scp-7234, scp-3485, scp-5981, scp-4808, scp-3833, scp-3748, scp-4148, scp-5025, scp-5054, scp-093-j, scp-1037, scp-5680, scp-1684, scp-4872, scp-3248, scp-6904, scp-5483, scp-6785, scp-4397, the-little-robot-that-could, join-the-flock, the-siege-of-site-19, tales-of-the-automaton-the-big-birdocalypse, footage-recovered-from-a-private-server, avian-anthology-i, moose-on-the-loose, my-empire-of-birds, document-recovered-from-a-parallel-universe, joey-fucknuts-steals-the-declaration-of-independence, katz-and-dogs, your-guard, vacation-opportunity, the-scent-of-a-toaster, disco-inferno, chasing-suns, the-shape-of-water-is-humanoid, wind-in-the-sails, three-feet-under-i, dead-reckoning, three-feet-under-ii, three-feet-under-iii, forgotten-shrine, into-the-beetle-black-yonder, down-through, hyperfine, dont-knock-on-strange-doors, notgull, scp-4785-incident-report, scp-4785-exploration-4, scp-4785-exploration-1, scp-4785-exploration-2, scp-4785-exploration-3, scp-093-j-blue-test, scp-093-j-recovered-documents, scp-093-j-purple-test, scp-093-j-green-test, 4480-expl-log, scp-198, scp-200, component:license-box, licensing-guide"
+Source Link: Wikimedia ",116,2018-09-23T15:00:00,notgull,https://scp-wiki.wikidot.com/scp-199,"_cc, _licensebox, airborne, alive, biohazard, euclid, plant, rewrite, scp, species, transmission","scp-4799, not-a-seagull-proposal, scp-3733, scp-3095, scp-4804, scp-4800, scp-2785, scp-4348, scp-4048, scp-4688, scp-3362, scp-579-j, scp-5800, scp-4785, scp-3339, scp-4248, scp-3747, scp-4948, scp-3296, scp-4800-j, scp-7234, scp-3485, scp-5981, scp-4808, scp-3833, scp-3748, scp-4148, scp-5025, scp-5054, scp-093-j, scp-1037, scp-5680, scp-1684, scp-4872, scp-3248, scp-6904, scp-5483, scp-6785, scp-4397, the-little-robot-that-could, join-the-flock, the-siege-of-site-19, tales-of-the-automaton-the-big-birdocalypse, footage-recovered-from-a-private-server, avian-anthology-i, moose-on-the-loose, my-empire-of-birds, document-recovered-from-a-parallel-universe, joey-fucknuts-steals-the-declaration-of-independence, katz-and-dogs, your-guard, vacation-opportunity, the-scent-of-a-toaster, disco-inferno, chasing-suns, the-shape-of-water-is-humanoid, wind-in-the-sails, three-feet-under-i, dead-reckoning, three-feet-under-ii, three-feet-under-iii, forgotten-shrine, into-the-beetle-black-yonder, down-through, hyperfine, dont-knock-on-strange-doors, notgull, scp-4785-incident-report, scp-4785-exploration-4, scp-4785-exploration-1, scp-4785-exploration-2, scp-4785-exploration-3, scp-093-j-blue-test, scp-093-j-recovered-documents, scp-093-j-purple-test, scp-093-j-green-test, 4480-expl-log, scp-198, scp-200, component:license-box, licensing-guide"

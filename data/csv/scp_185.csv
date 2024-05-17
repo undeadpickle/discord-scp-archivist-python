@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-950080e4-315d-47f3-91b2-9fdc7ae96a0c,SCP-185,"Item #: SCP-185
+f8a5a7b7-03f5-4de9-99a2-932b4ea3c9b0,SCP-185,"Item #: SCP-185
 Object Class: Safe (Euclid class considered after incident 185-1. See document 185-1 for details.)
 Special Containment Procedures: SCP-185 is to be kept in a soundproof room with noise-filtering microphones for monitoring purposes. Standard guard procedures are to be used for this object. Ear protection must be worn by all occupants in the chamber, excluding test subjects.
 Description: SCP-185 appears to be a Russian R-105M radio used during the Cold War, except that it has a crudely-added keypad and LCD screen. The object can receive most radio transmissions, including encrypted signals. Attempts to determine how it can break even the strongest of encryptions have so far been fruitless. SCP-185 has a very long range, surpassing even modern radio equipment. It functions as a normal radio until input is added via the keypad. It seems that if a year is entered into the keypad, the radio will receive transmissions from the specified era (depending on if messages were being broadcast on the set frequency). This function was discovered when, upon entering the random number of 1939, Neville Chamberlain was heard declaring war on Germany. The possibility of experimenting with dates and times has been noted and is being researched. The possibility of entering future dates is being discussed; it has yet to be decided whether the benefits outweigh the risk of causing a time paradox. On the inside, the radio appears to be unaltered, and the keypad is contained in a box affixed to the side of the radio. Researchers cannot access the keypad due to the box being made from a metal that is yet to be identified. It cannot be cut and there are no determinable ways to disassemble it.
@@ -9,29 +9,13 @@ During a test, the year was set to -13.73 billion, during the time the universe 
 Dr.████████
 Any personnel caught using the object to listen to music on duty will be disciplined.
 Object Request:
-Mobile Task Force Delta-5 is requesting to use SCP-185 to aid their mission of tracking down objects before our rivals. Task Force believes Iranians have important information and wish to intercept their transmissions. Request accepted.
-
-
-‡ Licensing / Citation
+Mobile Task Force Delta-5 is requesting to use SCP-185 to aid their mission of tracking down objects before our rivals. Task Force believes Iranians have important information and wish to intercept their transmissions. Request accepted. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-185"" by Dilzo, from the SCP Wiki. Source: https://scpwiki.com/scp-185. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-185"" by Dilzo, from the SCP Wiki. Source: https://scpwiki.com/scp-185. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: 105mb2yy9.jpg
 Author: Army Radio Sales Co
 License: CC BY-SA 3.0
-Source Link: Link
-
-
-
-
-
-",154,2008-08-01T11:56:00,Dilzo,https://scp-wiki.wikidot.com/scp-185,"_cc, _licensebox, acoustic, electronic, indestructible, safe, scp, temporal, transmission","scp-184, scp-186, component:license-box, licensing-guide"
+Source Link: Link ",154,2008-08-01T11:56:00,Dilzo,https://scp-wiki.wikidot.com/scp-185,"_cc, _licensebox, acoustic, electronic, indestructible, safe, scp, temporal, transmission","scp-184, scp-186, component:license-box, licensing-guide"

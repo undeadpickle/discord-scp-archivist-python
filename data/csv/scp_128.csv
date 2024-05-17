@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-a6ae0228-5b3b-4eb3-8f72-6bd81a7c45d0,SCP-128,"Item #: SCP-128
+ab0c2af2-a8ad-4daf-bb6c-7a3332ac5af6,SCP-128,"Item #: SCP-128
 Object Class: Euclid
 Special Containment Procedures: SCP-128 is to be held in a windowless containment chamber with blast-proof doors and walls and a ventilation system that maintains Class 100 cleanroom conditions inside. The interior of the containment chamber is to be monitored remotely by cameras welded in place with protective grating. The speakers and laser monitoring system must be similarly welded into place and protected with grating. The entry to SCP-128's containment chamber must include an antechamber with a second locked door that cannot be viewed from the chamber door.
 Personnel entering the test chamber for any reason must wear ballistic armor and must not bring any loose item inside the chamber. All required equipment must be rigidly mounted to the armor. Interference with the laser monitoring system or the central wheel is forbidden unless required for maintenance.
@@ -10,11 +10,7 @@ ARCHIVED CONTAINMENT PROCEDURES - FOR LOG PURPOSES ONLY
 FOLLOW ABOVE PROCEDURES - DO NOT ATTEMPT BELOW
 
 SCP-128 is to be kept in a chamber measuring at least 10 m x 10 m x 5 m with walls and door armored in 5 cm steel plate. All personnel who enter the containment room must wear full suits of heavy body armor, including ballistic plates. All loose objects of mass greater than 5 kg are strictly prohibited. Clothing and related items are generally considered safe, as the entity appears to be incapable of distinguishing these from their wearers. Writing utensils, loose change, and other trinkets present considerable hazards to personnel and should therefore be used sparingly never enter the containment chamber.
-All items are to be cleared from room via suction before any personnel will be permitted to enter. Once personnel have exited, SCP-128 is to be given small objects, both to study its behavior and to alleviate boredom (if applicable). In the event of escape, the surrounding area will be evacuated and locked down, possibly followed by attempts to herd SCP-128 back into its enclosure. Past experience suggests that the latter is unnecessary, as the entity has shown no apparent desire to vacate the premises and will eventually return of its own accord.
-
-
-
-Description: SCP-128 is an immaterial source of kinetic energy which can be conferred upon any nonliving solid material within line of sight of the source. The source itself is motile, with a tendency to remain along the walls or at the central wheel of the containment chamber. The line of sight is blocked by any opaque material, including lead, steel, or even single sheets of paper, but not transparent materials such as ballistic glass. Opaque radiolucent materials will contain SCP-128's range of effect, suggesting that transmission of energy occurs at visible light wavelengths, but darkness does not prevent transmission of kinetic energy.
+All items are to be cleared from room via suction before any personnel will be permitted to enter. Once personnel have exited, SCP-128 is to be given small objects, both to study its behavior and to alleviate boredom (if applicable). In the event of escape, the surrounding area will be evacuated and locked down, possibly followed by attempts to herd SCP-128 back into its enclosure. Past experience suggests that the latter is unnecessary, as the entity has shown no apparent desire to vacate the premises and will eventually return of its own accord. Description: SCP-128 is an immaterial source of kinetic energy which can be conferred upon any nonliving solid material within line of sight of the source. The source itself is motile, with a tendency to remain along the walls or at the central wheel of the containment chamber. The line of sight is blocked by any opaque material, including lead, steel, or even single sheets of paper, but not transparent materials such as ballistic glass. Opaque radiolucent materials will contain SCP-128's range of effect, suggesting that transmission of energy occurs at visible light wavelengths, but darkness does not prevent transmission of kinetic energy.
 Any loose nonliving materials within line of sight of SCP-128 are at risk of anomalous propulsion to hazardous velocities. Items under 100 g in mass have been observed to accelerate to velocities of up to 900 m/s in a period of 0.1 second, similar in force to machine gun fire. Analysis of the mass and velocity of every object undergoing acceleration indicates that the system of affected objects contains a constant linear momentum of 2,500 kg m/s, anomalously unconstrained by direction. It is therefore advisable to have many heavier items available to the object instead of fewer, lighter items.
 Despite SCP-128's invisible, immaterial form, it has been determined that the entity cannot be compressed into a space under a 2 cm radius sphere. Such compression with opaque materials, however, is not advised, as dust particles within the space will be excited, generating extreme heat, potentially rupturing the compression container explosively.
 SCP-128 arbitrarily chooses which items to accelerate, with a slight statistical preference for new objects over older ones. Despite the existence of some form of acceleration choosing, tests do not indicate an active sentience directing the choice, with one exception. The object does not accelerate ""living"" material, with its own parameters regarding what is considered ""living."" People or robots moving of their own accord are not accelerated, nor is any part that is rigidly attached. Dead or unconscious people and animals are also not accelerated. Unmoving but conscious test subjects report a light ""tugging"" in the presence of SCP-128, which immediately stops at the first sign of movement or animal-like characteristics. Plants and fungi, alive or dead, are similarly not accelerated. Unpowered robots, however, are susceptible to acceleration.
@@ -64,15 +60,7 @@ Principal Researcher: Dr. Cordelia Argent
 Subject: SCP-128
 Despite what the recovery log would say, this is not a poltergeist. Poltergeists are an obsolete term, anyway. This is not a spirit or a consciousness as we might think of the term. It can't pass through walls or the like. This is a source of kinetic energy. I've updated the description to show this. It's hard to say what, precisely, it is, but it appears to be best thought of as a hole through which a constant momentum enters this universe. How this is accomplished is still the subject of further tests.
 In addition, the hamster did not have direct control over the phenomenon. If the hamster had conscious control, then the phenomenon would have ceased with its termination. Instead, if we continue the analogy of this being a hole, then the hamster was a valve covering the hole, which could be opened or closed to allow in more or less momentum. This ""valve"" appears to have been ""stuck open.""
-So all the talk about us having the ghost of a telekinetic hamster in containment should stop. It's inaccurate.
-
-
-          scratch notes only - please delete - Dr. C. Argent
-
-          scratch notes only - please delete - Dr. C. Argent
-
-
-CArgent: Hi Rod, are you there?
+So all the talk about us having the ghost of a telekinetic hamster in containment should stop. It's inaccurate. scratch notes only - please delete - Dr. C. Argent scratch notes only - please delete - Dr. C. Argent CArgent: Hi Rod, are you there?
 RodArg: Hi Cordie, yes I am. Congrats on your promotion! How are things?
 CArgent: Okay. But I've been put in charge of 128, and its containment is stressing me out!
 RodArg: What's that? Can you send me the file?
@@ -87,27 +75,8 @@ RodArg: You need a constant linear momentum without center-of-mass vector positi
 CArgent: Yes.
 RodArg: It's a hamster. Give it a wheel.
 CArgent: It's not a ham- …That's why you're the biologist and I'm the physicist. Thank you.
-RodArg: You're still the smart one with the promotion, sis. You're welcome.
-
-
-
-
-
-
-‡ Licensing / Citation
+RodArg: You're still the smart one with the promotion, sis. You're welcome. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-128"" by HK-016, rewritten by WrongJohnSilver, from the SCP Wiki. Source: https://scpwiki.com/scp-128. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",313,2015-07-07T00:44:00,WrongJohnSilver,https://scp-wiki.wikidot.com/scp-128,"_licensebox, amorphous, ectoentropic, euclid, rewrite, scp, telekinetic","scp-2460, scp-3966, scp-2289, scp-127, scp-129, component:license-box, licensing-guide"
+Cite this page as: ""SCP-128"" by HK-016, rewritten by WrongJohnSilver, from the SCP Wiki. Source: https://scpwiki.com/scp-128. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",313,2015-07-07T00:44:00,WrongJohnSilver,https://scp-wiki.wikidot.com/scp-128,"_licensebox, amorphous, ectoentropic, euclid, rewrite, scp, telekinetic","scp-2460, scp-3966, scp-2289, scp-127, scp-129, component:license-box, licensing-guide"

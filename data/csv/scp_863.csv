@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-2128b9f2-2db1-4065-87eb-6b578f461e12,SCP-863,"Item #: SCP-863
+eee4c461-1fda-475f-b33a-fe8abc7e5573,SCP-863,"Item #: SCP-863
 Object Class: Safe
 Special Containment Procedures: SCP-863-1 is to be contained in a 2m x 2m enclosure and provided with nutrition as detailed in Nutritional Chart 863-1-1. Due to its low risk of breaching containment, SCP-863-1 is to be kept under guard by one (1) member of security. In the event of limb loss, SCP-863-1 is to be provided with a replacement from a similarly proportioned crab.
 SCP-863-2 is to be contained in a 6m x 6m enclosure and provided with nutrition as detailed in Nutritional Chart 863-2-1. SCP-863-2 is to be kept under guard by two (2) members of security. In the event of limb loss, SCP-863-2 is to be provided with a suitable replacement.
@@ -11,27 +11,13 @@ Specimens of SCP-863 are highly territorial and larger specimens can cause sever
 
 Specimen Log
 
-Close
-
-
-SCP-863-1
+Close SCP-863-1
 Right Arm: Pincer from Carpilius convexus.
 Left Arm: Pincer from Ranina ranina.
-Legs: Four (4) legs from Ciliopagurus, two (2) from Ranina ranina.
-
-
-SCP-863-2
+Legs: Four (4) legs from Ciliopagurus, two (2) from Ranina ranina. SCP-863-2
 Right Arm: (Awaiting replacement)
 Left Arm: Human hand taken from a cadaver.
-Legs: Two (2) hooves from a mountain goat, three (3) legs from a dog and one (1) arm from a bear.
-
-
-SCP-863-3
+Legs: Two (2) hooves from a mountain goat, three (3) legs from a dog and one (1) arm from a bear. SCP-863-3
 Right Arm: A human cadaver.
 Left Arm: █████ ██████ (Life-signs normal.) (See Containment Breach 863-3-1.)
-Legs: Six legs taken from human cadavers.
-
-
-
-
-",115,2011-10-11T21:15:00,Tanhony,https://scp-wiki.wikidot.com/scp-863,"_cc, animal, crustacean, extremity, safe, scp, self-repairing, species","scp-862, scp-864"
+Legs: Six legs taken from human cadavers. ",115,2011-10-11T21:15:00,Tanhony,https://scp-wiki.wikidot.com/scp-863,"_cc, animal, crustacean, extremity, safe, scp, self-repairing, species","scp-862, scp-864"

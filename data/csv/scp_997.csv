@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-22d69c66-e199-4954-960c-fc286504bcce,SCP-997,"Item #: SCP-997
+4cdbae83-7cfd-4e7d-896b-83dd421040e6,SCP-997,"Item #: SCP-997
 Object Class: Safe
 Special Containment Procedures: SCP-997 is to be stored in a standard containment locker while not in use. During testing procedures involving SCP-997, it is recommended that the object be left unplugged while not actively being tested. SCP-997 is to be tested only in a chamber that functions as a Faraday cage.
 Description: SCP-997 is a device superficially resembling a lamp, but without a bulb and with a twisting wire structure in place of a shade, believed to function as an antenna. It is made primarily of metal, and was somewhat corroded when contained, though this does not appear to have affected its functionality. Imaging of the internal workings suggests sophisticated electronics of unknown purpose. There is a switch near the top that controls whether or not the device is active. SCP-997 is powered by a standard NEMA 5 power outlet, and so has been fitted with an adapter for Site 19 testing chamber wall outlets. While disconnected from power or turned off, SCP-997 exhibits no anomalous properties.
@@ -23,23 +23,8 @@ Subject: D-class personnel D-436, D-class personnel D-15810
 Researcher: Dr. Redman
 Procedure: D-436, who shows signs of severe misanthropy, was placed in a test chamber containing an activated SCP-997. D-15810 was fitted with an earpiece to relay instructions and sent into the chamber. D-436 did not report seeing anyone else in the chamber with him. D-15810 instructed to trip D-436, and does so successfully. D-436 asked why he stumbled, and blames poor shoes. When questioned on this, he becomes defensive, insisting that ""These things happen, okay?"". D-15810 instructed to kick D-436, who reports pain, but expresses confusion as to its source. D-15810 then instructed to command D-436 to take off his shirt. D-436 complies, complaining to researchers that it is too hot in the testing chamber, and evidently believing it to be his own idea. Subjects removed from chamber and SCP-997 deactivated.
 
-Level 4 clearance or higher required to view further testing logs.
-
-
-‡ Licensing / Citation
+Level 4 clearance or higher required to view further testing logs. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-997"" by Anaxagoras, from the SCP Wiki. Source: https://scpwiki.com/scp-997. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",180,2011-07-21T19:08:00,Anaxagoras,https://scp-wiki.wikidot.com/scp-997,"_licensebox, artifact, electronic, mind-affecting, safe, scp, sensory","scp-996, scp-998, component:license-box, licensing-guide"
+Cite this page as: ""SCP-997"" by Anaxagoras, from the SCP Wiki. Source: https://scpwiki.com/scp-997. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",180,2011-07-21T19:08:00,Anaxagoras,https://scp-wiki.wikidot.com/scp-997,"_licensebox, artifact, electronic, mind-affecting, safe, scp, sensory","scp-996, scp-998, component:license-box, licensing-guide"

@@ -1,15 +1,11 @@
 id,title,content,rating,created_at,creator,url,tags,references
-db19a0ca-30b9-481a-a018-4dc9f8635634,SCP-466,"Item #: SCP-466
+72ec0835-2d07-4542-919d-bd44d742b017,SCP-466,"Item #: SCP-466
 Object Class: Euclid
 Special Containment Procedures: SCP-466 is locked in a 5 meter by 5 meter by 5 meter room. SCP-466 is to be fed five times a day through a one-way slot in the steel door, with low-iron meals of mass below 0.1 kg. The key to the door is accessible only to Level 3 or higher personnel.
 Description: It is unknown if SCP-466 is a separate pathogen affecting a human host, or the human host itself. Current theory suggests the former. For clarity, the host individual will be referred to as SCP-466-2 and the possible infective agent as SCP-466-1.
 SCP-466-2 is a [REDACTED]. SCP-466-2 exhibits anomalous vascular hypertrophy, particularly along the skin. This includes very broad arteries and veins not part of normal human anatomy. The continually-increasing mass of blood vessels is gradually displacing and eroding SCP-466-2's muscles and organs. SCP-466-2 is estimated to have approximately █ liters of blood.
 The excess vessels will sometimes rearrange under the skin, which is extremely painful. If the host or hypothesized pathogen is threatened, the excess vessels will physically tear the skin and extend up to █ meters outward. These defense vessels will constrict threats until neutralized. If cut, they hemorrhage as expected, and will be replaced by more vessels from deeper inside SCP-466-2's body.
-As demonstrated by the rearrangements, SCP-466-1 displays some degree of control over the mobile vessels when inside the body. This control is utilized when SCP-466-2 consumes food: if SCP-466-2 does not consume the entire meal, SCP-466-1 will use the collective strength of the mobile vessels and force-feed SCP-466-2. This is advantageous for SCP-466-1; it appears that nutrients go primarily to expansion of the mobile vessels.
-
-
-
-INCIDENT REPORT FORM
+As demonstrated by the rearrangements, SCP-466-1 displays some degree of control over the mobile vessels when inside the body. This control is utilized when SCP-466-2 consumes food: if SCP-466-2 does not consume the entire meal, SCP-466-1 will use the collective strength of the mobile vessels and force-feed SCP-466-2. This is advantageous for SCP-466-1; it appears that nutrients go primarily to expansion of the mobile vessels. INCIDENT REPORT FORM
 
 Incident Date: 08/02/2014
 Incident Time: 13:25
@@ -34,15 +30,9 @@ Containment Breached (Y/N): N
 Details: SCP-466 and patient had begun to show abnormal behavior as extremities, excluding the head, began suffering from avascular necrosis over a 48 hour period. Afterwards, SCP-466 was observed to go into a state of acute cardiac arrest. Level-3 authorization was granted for a rapid response medical team to assist in the revival of the patient while observing the standard protocols of extrinsic biological hazards. SCP-466 and patient were pronounced dead after thirty minutes of continuous resuscitation. SCP-466 and patient were left in the containment cell for another 48 hours of observation with no activity reported.
 Level-3 authorization was then given to perform an autopsy on the deceased body. Upon opening the chest cavity, it was observed by medical staff that all arteries and veins had retracted from the external limbs and were clustered around the heart. Though the body was in a normal state of expected decay, the cardiovascular system seemed to show no signs of decomposition. During the autopsy, SCP-466 and the patient became active again and killed the two closest medical staff, Doctors Girard and Sharma.
 SCP-466 was observed appropriating the circulatory systems from the deceased into itself while also attempting to sever the head of the patient with a surgical bone saw. The patient's head was seen [REDACTED], which prompted Dr. Briggs to attempt a rescue of the patient from SCP-466. Dr. Briggs was subsequently killed; however, the distraction was timely enough to allow security teams to arrive on scene before the decapitation could take place. SCP-466 was eventually contained and the patient secured. Three medical and security staff were treated with minor injuries, two fractures and three lacerations. One security officer had to be surgically treated for a punctured lung and heart.
-Action Items: Review procedures regarding SCP-466. Current procedures may not apply.
+Action Items: Review procedures regarding SCP-466. Current procedures may not apply. Interview-466-12 [LEVEL-3 ACCESS REQUIRED]
 
-
-Interview-466-12 [LEVEL-3 ACCESS REQUIRED]
-
-[ACCESS GRANTED]
-
-
-POST-INCIDENT INTERVIEWINT-466-12
+[ACCESS GRANTED] POST-INCIDENT INTERVIEWINT-466-12
 
 Interview Date: 08/04/2014
 Interview Time: 06:48
@@ -96,18 +86,9 @@ Dr. Itzkowitz: Very well. We're done then?
 Agent Foster: Yes.
 (Dr. Itzkowitz leaves the room and closes the door.)
 Agent Foster: For the record, I don't believe there was negligence involved here… the procedures were unfortunately outdated. I'll see about interviewing the patient if possible.
-(click)
+(click) Interview-466-14 [LEVEL-3 ACCESS REQUIRED]
 
-
-
-
-
-Interview-466-14 [LEVEL-3 ACCESS REQUIRED]
-
-[ACCESS GRANTED]
-
-
-POST-INCIDENT INTERVIEWINT-466-14
+[ACCESS GRANTED] POST-INCIDENT INTERVIEWINT-466-14
 
 Interview Date: 08/04/2014
 Interview Time: 14:48
@@ -154,18 +135,7 @@ Agent Foster: Stop shooting, get out of the cell!
 (alarm is triggered as both men leave and lock the cell door)
 Medical Technician: Hurry, get the IV back in before it wakes up! (running footsteps) Fuck, we can't keep increasing dosage like this, it's resisting it.
 Agent Foster: (panting) End of the interview.
-(click)
-
-
-
-
-
-
-
-NOTE: The following document has been authorized for immediate use. Additional details and/or procedures may follow before finalization is completed.
-
-
-Item #: SCP-466
+(click) NOTE: The following document has been authorized for immediate use. Additional details and/or procedures may follow before finalization is completed. Item #: SCP-466
 Object Class: Euclid (pending possible reclassification after formal review)
 Special Containment Procedures: SCP-466 is to be sealed in Containment Cell-73 in E-Block at Research Site-45. E-Block is to remain separated from the main installation for the entirety of SCP-466's captivity. Containment Cell-73 is to have a 30cm thick acrylic observational window installed and the door welded shut from the outside.
 SCP-466's primary containment component, or its ""head,"" and the primary heart connected to the brain stem, are to be locked together in a perforated stainless steel lock box at all times.1 The ""head"" is to be considered a vital component of containment. Efforts must be made to ensure that SCP-466 does not put it in jeopardy and it remains connected at all times.
@@ -178,129 +148,75 @@ Due phenotypical similarities to SCP-1429-005, genetic material was compared bet
 
 Analysis Results of SCP-466 Blood Sample
 
-[ACCESS GRANTED]
-
-
-Patient: SCP-466
+[ACCESS GRANTED] Patient: SCP-466
 Species: Human (Comparability)
 Date: 08-Aug-2014 12:01
-Sample ID: 466-Kappa-90
-
-
-
-TEST
+Sample ID: 466-Kappa-90 TEST
 RESULTS
 UNIT
 FLAG
 HEALTHY RANGE
-CLINICAL RANGE
-
-
-BUN
+CLINICAL RANGE BUN
 7
 mg/dL
 █
 13 - 18
-5 - 26
-
-
-Creatine
+5 - 26 Creatine
 0.5
 mg/dL
 █
 -
-0.5 - 1.1
-
-
-TOT Protein
+0.5 - 1.1 TOT Protein
 11.1
 g/dL
 █
 7.11 - 7.61
-6.00 - 8.50
-
-
-Albumin
+6.00 - 8.50 Albumin
 4.9
 g/dL
 █
 4.1 - 4.5
-3.6 - 4.8
-
-
-Globulin
+3.6 - 4.8 Globulin
 2.8
 g/dL
 █
 2.81 - 3.51
-1.50 - 4.50
-
-
-TOT Bilirubin
+1.50 - 4.50 TOT Bilirubin
 0.8
 mg/dL
 █
 0.3 - 0.9
-0.0 - 1.2
-
-
-SGOT (AST)
+0.0 - 1.2 SGOT (AST)
 26
 IU/L
 █
 15 - 26
-6 - 40
-
-
-SGPT (ALT)
+6 - 40 SGPT (ALT)
 25
 IU/L
 █
 15 - 26
-6 - 40
-
-
-Sodium, Serum
+6 - 40 Sodium, Serum
 139
 mmol/L
 █
 -
-135 - 145
-
-
-Potassium, Serum
+135 - 145 Potassium, Serum
 4.1
 mmol/L
 █
 -
-3.5 - 5.2
-
-
-Chloride, Serum
+3.5 - 5.2 Chloride, Serum
 104
 mmol/L
 █
 -
-97 - 108
-
-
-Calcium, Serum
+97 - 108 Calcium, Serum
 12.2
 mmol/L
 █
 -
-8.5 - 10.6
-
-
-
-
-
-
-
-
-
-
-MemorandumM-466-72
+8.5 - 10.6 MemorandumM-466-72
 Sent: 08/12/2014 21:36
 To: Dr. Frederick Carlyle, Superintendent of Research Site-45
 From: Ethics Committee Review Board Secretary
@@ -314,14 +230,7 @@ It is unfortunate that there is no ideal solution in separating both, and that t
 5. That staff who are tasked with handling SCP-466 be screened for specific moral objections that may conflict with containment protocols.
 With these measures in place, the ethics committee review board grants a conditional approval to the following procedures and that they may be enacted immediately as such. If you have further questions or concerns, please contact us.
 Sincerely,
-Ethics Committee Review Board Secretary
-
-
-
-
-
-
-Footnotes
+Ethics Committee Review Board Secretary Footnotes
 1. The purpose of placing them together in a lock box is to ensure that collateral is held against SCP-466 as to persuade it to not damage the ""head"".
 
 ",320,2014-08-17T15:46:00,LurkD,https://scp-wiki.wikidot.com/scp-466,"_cc, biological, ethics-committee, euclid, mobile, rewrite, scp, self-repairing","secure-facility-dossier-research-site-45, scp-1429, scp-465, scp-467"

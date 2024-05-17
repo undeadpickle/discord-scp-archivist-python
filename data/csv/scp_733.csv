@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-9be010bd-c615-4a27-ac29-2e410c84fee6,SCP-733,"Item #: SCP-733
+7ecd5978-8e1c-41dd-9964-b392ea705ab8,SCP-733,"Item #: SCP-733
 Object Class: Safe
 Special Containment Procedures: SCP-733-01 is stored in a secure locker at Site-██. Experimentation with SCP-733-01 may only be performed with prior permission from at least two (2) Level 4 personnel, and any testing performed must be done with direct supervision from at least one (1) Level 3 personnel. As of ██/█/██, all testing with SCP-733-01 has been suspended due to Incident 733-03.
 SCP-733-02 is currently stored in a secure, humidity-controlled document locker at Site-██. Direct access to SCP-733-02 may only be performed with prior permission from at least two (2) Level 3 personnel, but access to transcripts and scans of SCP-733-02's contents is available via standard network access to anyone with at least Level 2 clearance.
@@ -8,10 +8,7 @@ When discovered, SCP-733-01 was pressed between the pages of SCP-733-02, a hand-
 SCP-733 was discovered in an antique store in the city of [REDACTED] by Foundation researcher Dr. █████ ████████. Upon noting the anomalous details documented within, Dr. █████████ brought the objects into Foundation custody, where it has since been contained.
 The following inscription is also visible on the front of SCP-733-02:
 
-Diary
-
-
-Addendum 733-01: Record of Notable Images and Text in SCP-733-02
+Diary Addendum 733-01: Record of Notable Images and Text in SCP-733-02
 Subject: Photograph #3, Text Fragment #11
 Page(s): 2
 Description: A photograph of a blanket spread out on a grassy hill, with a picnic basket on top. Depressions in the blanket are consistent with that of a person sitting on the blanket, but no one is visible. ""The first time I saw you, you were like the rising sun, banishing the chill of loneliness with your radiant beauty."" - Subject A

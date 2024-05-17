@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-f682bb61-c827-48b1-9daa-7d6d31e5145a,SCP-680,"Item #: SCP-680
+8a43feb6-92a5-4a48-8c7e-7b46937f6230,SCP-680,"Item #: SCP-680
 Object Class: Safe
 Special Containment Procedures: Because of its usefulness as a possible diagnostic tool, SCP-680 is to be kept at Containment Site-76 in Storage Locker 76-███. Additionally, to prevent accidental activation (and subsequent waiting periods) of SCP-680, the SCP must remain at least 10 meters away from all but mechanically static machinery. Use of SCP-680 on a subject must be approved by Level-3 Personnel.
 Description: SCP-680-1 is a slate sculpture in the form of a human skull missing its mandible, with a mass of approximately 7.5 kg. The sculpture itself does not appear to be hollow, as all orifices have been filled with a presently-unknown black substance that rates 9.6 on the Mohs Scale of Mineral Hardness. Beyond its improbably high durability, the skull itself appears to have no particularly unusual properties. Resting on top of SCP-680-1, however, is SCP-680-2.
@@ -19,23 +19,8 @@ Notes about specific make of the object studied match surprisingly precisely wit
 “Unusual” notes made by SCP-680-1’s eye socket are much less precise than the rest of the SCP’s notes, and usually take on a conciliatory nature. Many times, especially with studied SCPs, the messages will be generally what has been studied, but will also give general comments that often lead to a better overall understanding of other SCPs’ behavior. As such, however, much of its empirical data is either frustratingly vague or presented in a riddle.
 Dr. Mentha has shaped a theory that this SCP’s “general notes” do not actually come from the SCP “studying” the material at hand, but instead performs a quick survey of previously conducted research and paraphrases it. No explanation for how it obtains this information, however, has been discovered, and Dr. Mentha is reminded that he must be more explicit in said theories so that they can at least be verifiable.
 Addendum 680-1: SCP-680 must be presented directly to the object to be studied. A reproduction of the object, at best, will give information on the model or display of the object in question. Similarly, holding SCP-680 to a mirror, unless said mirror has sufficiently SCP-quality characteristics, will yield no information from SCP-680.
-Addendum 680-2: SCP-680 appears only to activate when presented with sufficiently mechanical objects. Biological objects elicit no response from the SCP, and if a mechanical object has biological components, SCP-680 will completely ignore those qualities. Here, “mechanical” is used to describe objects with at least ███ moving parts within its structure.
-
-
-‡ Licensing / Citation
+Addendum 680-2: SCP-680 appears only to activate when presented with sufficiently mechanical objects. Biological objects elicit no response from the SCP, and if a mechanical object has biological components, SCP-680 will completely ignore those qualities. Here, “mechanical” is used to describe objects with at least ███ moving parts within its structure. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-680"" by Dr Mentha, from the SCP Wiki. Source: https://scpwiki.com/scp-680. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",58,2009-04-12T09:37:00,Dr Mentha,https://scp-wiki.wikidot.com/scp-680,"_licensebox, autonomous, safe, scp, skeletal, thermal, transmission","scp-679, scp-681, component:license-box, licensing-guide"
+Cite this page as: ""SCP-680"" by Dr Mentha, from the SCP Wiki. Source: https://scpwiki.com/scp-680. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",58,2009-04-12T09:37:00,Dr Mentha,https://scp-wiki.wikidot.com/scp-680,"_licensebox, autonomous, safe, scp, skeletal, thermal, transmission","scp-679, scp-681, component:license-box, licensing-guide"

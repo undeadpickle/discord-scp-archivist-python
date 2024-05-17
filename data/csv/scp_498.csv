@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-7a9a25e1-d42e-4b4f-990a-7d474b6dd5fb,SCP-498,"Item #: SCP-498
+38ae52ea-d5cc-4a40-81fe-1d79182c6570,SCP-498,"Item #: SCP-498
 Object Class: Safe
 Special Containment Procedures: SCP-498 is to be contained within a sound-proof bunker beneath Site ██, with a minimum of two attending Foundation Security Officers, properly equipped with noise-canceling headphones in addition to standard-issue equipment. The bunker is to be sound-proofed to noise-cancel a minimum of 95% of outgoing sound waves.
 A fully automated mechanical arm is to be used to reset SCP-498. Secondary Containment Procedure: In the event of failure, two D-Class personnel are to be locked inside with an appropriate amount of rations. They are to be informed fully of its effects and to alternate shifts sleeping and resetting SCP-498 until the failure is repaired. Security footage sans audio of the chamber is to be monitored at all times. Following Incident I498-B, in the event of failure an on-site Foundation Security Officer is to be sent in to manually reset until such a time automated safety procedures can be reinstated.
@@ -27,24 +27,8 @@ Note: D-4113 was convicted of murdering his CO and several fellow soldiers durin
 11:01:56 pm, camera fails due to acoustic stress.
 11:25:58 pm, due to an unrelated simultaneous breach at Site ██, containment teams arrived nearly 25 minutes after the alarm was activated. Upon arriving at the scene, it was discovered that D-4112 had at some point crawled himself to SCP-498 and activated the snooze reset. He was found repeatedly depressing the button, despite suffering from burst eardrums and internal bleeding.
 After Action Report
-New containment protocol initiated. Both Security Officers ███████ Wilson and ██████ Thomas were diagnosed with eardrum rupture, resulting in deafness. Officer Wilson treated for severe internal bleeding. Both re-assigned. D-4112 was treated for severe internal bleeding, commended for preventing a potentially catastrophic containment breach, and successfully terminated at the end of the month.
-
-
-
-‡ Licensing / Citation
+New containment protocol initiated. Both Security Officers ███████ Wilson and ██████ Thomas were diagnosed with eardrum rupture, resulting in deafness. Officer Wilson treated for severe internal bleeding. Both re-assigned. D-4112 was treated for severe internal bleeding, commended for preventing a potentially catastrophic containment breach, and successfully terminated at the end of the month. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-498"" by evictedSaint, from the SCP Wiki. Source: https://scpwiki.com/scp-498. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",240,2011-01-28T04:08:00,evictedSaint,https://scp-wiki.wikidot.com/scp-498,"_licensebox, acoustic, appliance, electronic, mind-affecting, safe, scp","scp-497, scp-499, component:license-box, licensing-guide"
+Cite this page as: ""SCP-498"" by evictedSaint, from the SCP Wiki. Source: https://scpwiki.com/scp-498. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",240,2011-01-28T04:08:00,evictedSaint,https://scp-wiki.wikidot.com/scp-498,"_licensebox, acoustic, appliance, electronic, mind-affecting, safe, scp","scp-497, scp-499, component:license-box, licensing-guide"

@@ -1,26 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-1a2fe589-fe10-4360-a699-453cd42c85dc,SCP-359,"
-
-
- 
-
-
-SCP-359
-
-
-Byㅤ TopDownUnder
-
-
-Published on 29 Sep 2021 01:14
-
-
-
-
-
-
-
-
-What this is
+2f6a4591-6b51-4940-bc12-36006df169f5,SCP-359," SCP-359 Byㅤ TopDownUnder Published on 29 Sep 2021 01:14 What this is
 A bunch of miscellaneous CSS 'improvements' that I, Croquembouche, use on a bunch of pages because I think it makes them easier to deal with.
 The changes this component makes are bunch of really trivial modifications to ease the writing experience and to make documenting components/themes a bit easier (which I do a lot). It doesn't change anything about the page visually for the reader — the changes are for the writer.
 I wouldn't expect translations of articles that use this component to also use this component, unless the translator likes it and would want to use it anyway.
@@ -42,114 +21,43 @@ Magnus Web Format — DrMagnus
 Flopstyle CSS — Lt Flops
 Blankstyle CSS — HarryBlank
 Placestyle CSS — Placeholder McD
-Jakstyle — JakdragonX
-
-
-CSS changes
+Jakstyle — JakdragonX CSS changes
 Reasonably-sized footnotes
-Stops footnotes from being a million miles wide, so that you can actually read them.
-
-
-.hovertip { max-width: 400px; }
+Stops footnotes from being a million miles wide, so that you can actually read them. .hovertip { max-width: 400px; }
 
 Monospace edit/code
-Makes the edit textbox monospace, and also changes all monospace text to Fira Code, the obviously superior monospace font.
-
-
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
- 
-:root { --mono-font: ""Fira Code"", Cousine, monospace; }
+Makes the edit textbox monospace, and also changes all monospace text to Fira Code, the obviously superior monospace font. @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap'); :root { --mono-font: ""Fira Code"", Cousine, monospace; }
 #edit-page-textarea, .code pre, .code p, .code, tt, .page-source { font-family: var(--mono-font); }
 .code pre * { white-space: pre; }
 .code *, .pre * { font-feature-settings: unset; }
 
 Teletype backgrounds
-Adds a light grey background to <tt> elements ({{text}}), so code snippets stand out more.
-
-
-tt {
-  background-color: var(--swatch-something-bhl-idk-will-fix-later, #f4f4f4);
-  font-size: 85%;
-  padding: 0.2em 0.4em;
-  margin: 0;
-  border-radius: 6px;
+Adds a light grey background to <tt> elements ({{text}}), so code snippets stand out more. tt { background-color: var(--swatch-something-bhl-idk-will-fix-later, #f4f4f4); font-size: 85%; padding: 0.2em 0.4em; margin: 0; border-radius: 6px;
 }
 
 No more bigfaces
-Stops big pictures from appearing when you hover over someone's avatar image, because they're stupid and really annoying and you can just click on them if you want to see the big version.
-
-
-.avatar-hover { display: none !important; }
+Stops big pictures from appearing when you hover over someone's avatar image, because they're stupid and really annoying and you can just click on them if you want to see the big version. .avatar-hover { display: none !important; }
 
 Breaky breaky
-Any text inside a div with class nobreak has line-wrapping happen between every letter.
-
-
-.nobreak { word-break: break-all; }
+Any text inside a div with class nobreak has line-wrapping happen between every letter. .nobreak { word-break: break-all; }
 
 Code colours
 Add my terminal's code colours as variables. Maybe I'll change this to a more common terminal theme like Monokai or something at some point, but for now it's just my personal theme, which is derived from Tomorrow Night Eighties.
 Also, adding the .terminal class to a fake code block as [[div class=""code terminal""]] gives it a sort of pseudo-terminal look with a dark background. Doesn't work with [[code]], because Wikidot inserts a bunch of syntax highlighting that you can't change yourself without a bunch of CSS. Use it for non-[[code]] code snippets only.
-Quick tool to colourise a 'standard' Wikidot component usage example with the above vars: link
-
-
-:root {
-  --c-bg: #393939;
-  --c-syntax: #e0e0e0;
-  --c-comment: #999999;
-  --c-error: #f2777a;
-  --c-value: #f99157;
-  --c-symbol: #ffcc66;
-  --c-string: #99cc99;
-  --c-operator: #66cccc;
-  --c-builtin: #70a7df;
-  --c-keyword: #cc99cc;
-}
- 
-.terminal, .terminal > .code {
-  color: var(--c-syntax);
-  background: var(--c-bg);
-  border: 0.4rem solid var(--c-comment);
-  border-radius: 1rem;
-}
-
-
-Debug mode
+Quick tool to colourise a 'standard' Wikidot component usage example with the above vars: link :root { --c-bg: #393939; --c-syntax: #e0e0e0; --c-comment: #999999; --c-error: #f2777a; --c-value: #f99157; --c-symbol: #ffcc66; --c-string: #99cc99; --c-operator: #66cccc; --c-builtin: #70a7df; --c-keyword: #cc99cc;
+} .terminal, .terminal > .code { color: var(--c-syntax); background: var(--c-bg); border: 0.4rem solid var(--c-comment); border-radius: 1rem;
+} Debug mode
 Draw lines around anything inside .debug-mode. The colour of the lines is red but defers to CSS variable --debug-colour.
 You can also add div.debug-info.over and div.debug-info.under inside an element to annotate the debug boxes — though you'll need to make sure to leave enough vertical space that the annotation doesn't overlap the thing above or below it.
 
-…like this!
-
-
-
-
-
-.debug-mode, .debug-mode *, .debug-mode *::before, .debug-mode *::after {
-  outline: 1px solid var(--debug-colour, red);
-  position: relative;
+…like this! .debug-mode, .debug-mode *, .debug-mode *::before, .debug-mode *::after { outline: 1px solid var(--debug-colour, red); position: relative;
 }
-.debug-info {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  font-family: 'Fira Code', monospace;
-  font-size: 1rem;
-  white-space: nowrap;
+.debug-info { position: absolute; left: 50%; transform: translateX(-50%); font-family: 'Fira Code', monospace; font-size: 1rem; white-space: nowrap;
 }
 .debug-info.over { top: -2.5rem; }
 .debug-info.under { bottom: -2.5rem; }
-.debug-info p { margin: 0; }
-
-
-
-
-
-by TopDownUnder
-20
-
-
-
-SCP-359 at rest.
+.debug-info p { margin: 0; } by TopDownUnder
+20 SCP-359 at rest.
 
 ITEM #: SCP-359
 OBJECT CLASS: Euclid
@@ -160,15 +68,7 @@ DESCRIPTION: SCP-359 is a metal sculpture resembling a Buteo jamaicensis (Red-ta
 SCP-359-A refers to a subterranean structure, which can be accessed via a hole located near SCP-359's perch. While the Foundation has reached the hole leading to SCP-359-A, it has yet to be breached. SCP-359 actively defends the entrance from any potential trespassers, which is the only circumstance in which it becomes active during daylight. It is unknown whether SCP-359 can detect the desire to enter SCP-359-A or simply attacks anything that gets close to it. Readings with a ground-penetrating radar (GPR) indicate a large hollow space, with masses of hephaesium detected within.
 ADDENDUM 359.1: DISCOVERY
 SCP-359 came to the Foundation's attention in January of 2009 after a string of disappearances were reported along State Route 33 in Ohio. Agents embedded in the Lancaster Police Department took notice and sent a team to investigate. The team uncovered both the desecrated corpses of the missing persons and the dried blood of the deceased on SCP-359's talons and beak. After the case was transferred to the Foundation by the state government, further investigations uncovered no records of SCP-359's construction, despite its relatively modern design. The first known mention of it was in 2006, when the property it is located on was donated to the city of Lancaster.
-ADDENDUM 359.2: HEPHASIUM DOSSIER
-
-
-
-Prepared by the Department of Metallurgical Studies
-
-
-
-Originally discovered and named by a Greek research team in the 1960s, hephaesium is an alloy composed of iron, beryllium bronze, and several unknown elements. Hephaesium is most commonly used in structures that are meant to be animate, such as SCP-359, SCP-070, and SCP-1451. While it's not the most common form of animation, it is most popular amongst those incapable of thaumaturgy or ontokinesis.
+ADDENDUM 359.2: HEPHASIUM DOSSIER Prepared by the Department of Metallurgical Studies Originally discovered and named by a Greek research team in the 1960s, hephaesium is an alloy composed of iron, beryllium bronze, and several unknown elements. Hephaesium is most commonly used in structures that are meant to be animate, such as SCP-359, SCP-070, and SCP-1451. While it's not the most common form of animation, it is most popular amongst those incapable of thaumaturgy or ontokinesis.
 Named after the Hellenic god of the forge, Hephaestus, hephaesium is most commonly found in Ancient Greek ruins and artefacts. It was spread around the ancient world through trade and the conquests of Alexander the Great and, later, the Roman Empire. Traces of hephaesium have been found in Chinese shishi statues and Indian sculptures of Buddha and Hindi figures. Despite its widespread nature, production was limited to Greece. Due to this enforced secrecy, the method by which to produce hephaesium has since been lost to time, with the last known usage of it being in the Bernward Doors and Column constructed circa 1000 A.D for the St. Michael's Church in Hildesheim, Germany. There have been mentions of hephasium stashes throughout the Baltic States but, much like the means of production, knowledge on their location has been lost.
 Objects animated via hephaesium aren't permanently animate, however. Over time, due to a chemical reaction with O2 in the atmosphere, hephaesium rusts and eventually becomes inert. This process can be sped up if objects in an O2-free environment are suddenly introduced to the gas. The rusting of hephaesium is usually characterized by the object becoming more sluggish and unresponsive to stimuli before eventually becoming fully inert.
 Hephaesium is also subject to a second anomalous property, one seemingly implemented to protect against reverse engineering. If at any point after it has animated the alloy is removed, sampled, or otherwise detached from the main mass, it suddenly undergoes lunafaction.Alchemical term for the making of silver., rendering its anomalous properties null. As such, the exact composition of hephaesium is unknown.
@@ -185,13 +85,7 @@ Reconnaissance Team: Pi-27
 Subject: RTF Pi-27 was deployed to investigate the area immediately above the subterranean structure for a possible entrance. If no entrance was discovered, a site was to be chosen to begin drilling.
 
 Squad Lead: PI-1
-Squad Members: PI-2, PI-3
-
-
-[BEGIN LOG]
-
-
-PI-1: Comms check.
+Squad Members: PI-2, PI-3 [BEGIN LOG] PI-1: Comms check.
 PI-2: Sounding good.
 PI-3: What's the point of comms? All we're doing is lugging this equipment over there in case we can't find a hole leading down there. It's not like we're gonna get separated or whatever.
 PI-1: It's standard for all operations, even something small like this.
@@ -229,23 +123,14 @@ PI-1: I don't know, Three. I don't know. We just need to get out of here. I can 
 PI-3: Fuc-!
 [SCP-359 can be heard turning around for PI-3 as ze trip on an exposed tree root, landing on the bodycam. The resulting damage severs the connection.]
 
-[END LOG]
-
-
-Following the end of this log, PI-3 was later found on the nearby State Route, bloodied and bruised. PI-1 and PI-2 have both been declared deceased, which was confirmed when their corpses were found in similar conditions to those of SCP-359's prey.
+[END LOG] Following the end of this log, PI-3 was later found on the nearby State Route, bloodied and bruised. PI-1 and PI-2 have both been declared deceased, which was confirmed when their corpses were found in similar conditions to those of SCP-359's prey.
 ADDENDUM 359.4: FORMATION OF GAMMA-27 AND AWD INVOLVEMENT
 After the events of the Reconnaissance Log in Addendum 359.3, multiple, more heavily-armed, missions were sent to attempt to get past SCP-359 and gain access to SCP-359-A, all of which similarly ended in failure..Combined, all four missions have resulted in 6 dead and 10 wounded, as well as approximately $450,000 in broken equipment. It was decided by a Joint Committee of the Department of Metallurgical Studies, Department of Geology, and SCP-359's research team that greater measures had to be taken. As such, Provisional Site-359 was established, made up of detachments from the Departments of Geology, Metallurgical Studies, and Anomalous Weapons Development. Armed Mobile Task Force Gamma-27 (""Breaking and Entering"") was also formed and stationed at Site-359. To quote the MTF Dossier;
 
-Armed Mobile Task Force Gamma-27 consists of individuals gathered from failed missions to access SCP-359-A, as well as supplements from Nu-7 and other combat-oriented Task Forces. The sole purpose of Gamma-27 is the termination of SCP-359 and obtaining access to SCP-359-A. To accomplish this task, Gamma-27 regularly conducts missions to observe the behaviour of SCP-359 and its attack patterns. Data obtained from these missions are sent to the Departments of Anomalous Weapons Development and Metallurgical Studies to obtain a more in-depth understanding of SCP-359 and possible methods of termination.
-
-
-SCP-359 Dossier
+Armed Mobile Task Force Gamma-27 consists of individuals gathered from failed missions to access SCP-359-A, as well as supplements from Nu-7 and other combat-oriented Task Forces. The sole purpose of Gamma-27 is the termination of SCP-359 and obtaining access to SCP-359-A. To accomplish this task, Gamma-27 regularly conducts missions to observe the behaviour of SCP-359 and its attack patterns. Data obtained from these missions are sent to the Departments of Anomalous Weapons Development and Metallurgical Studies to obtain a more in-depth understanding of SCP-359 and possible methods of termination. SCP-359 Dossier
 
 Department of Anomalous Weapons Development Design Packet
-Compiled by Engineer Ezra Everest for G-27
-
-
-Description of Target: Entity is a large metallic sculpture (wingspan of 4m, estimated to be 9m in height, unknown weight) resembling a red-tailed hawk. Entity is made up of hephaesium, an alloy consisting of iron, Bbronze, and other unknown elements. Entity is only active A) during the night, or B) in defence of SCP-359-A. Entity is highly prejudicial in its defence of SCP-359-A, having been seen attacking any and all sources of movement.
+Compiled by Engineer Ezra Everest for G-27 Description of Target: Entity is a large metallic sculpture (wingspan of 4m, estimated to be 9m in height, unknown weight) resembling a red-tailed hawk. Entity is made up of hephaesium, an alloy consisting of iron, Bbronze, and other unknown elements. Entity is only active A) during the night, or B) in defence of SCP-359-A. Entity is highly prejudicial in its defence of SCP-359-A, having been seen attacking any and all sources of movement.
 Potential Exploitable Weaknesses:
 
 [UNUSABLE] - Entity is at least partially constructed from hephaesium, which has a melting point of 1,274°C. A paraweapon capable of causing the air around the entity to reach this temperature could be a viable option to terminate SCP-359. Reason: the potential damage to the surrounding environment and the subterranean structure is considered unacceptable.
@@ -265,10 +150,7 @@ AWD will supply the bombs and rocket. I'm sure you'll be able to provide a thaum
 And, I'm gonna be real with you, this is our last option. If you want to get rid of this bird, then you better hope this works. You and I both know we can't do anything more than this. We're far too close to population centres to use anything more anomalous than this. Command would never approve of it.
 Status of Weapon-359-9: COMPONENTS GATHERED, DEPLOYED.
 
-Addendum 359.5: DESTRUCTION OF SCP-359 AND ACCESS TO SCP-359-A
- 
-
-2017 Gamma-27 Log
+Addendum 359.5: DESTRUCTION OF SCP-359 AND ACCESS TO SCP-359-A 2017 Gamma-27 Log
 
 Date: 23/01/2017
 Mobile Task Force: AMTF Gamma-27
@@ -276,13 +158,7 @@ Subject: AMTF Gamma-27 was deployed to attempt to neutralize SCP-359 with Weapon
 Additional Note: The log was recovered from G-1's bodycam. Zir vest was found at the entrance to SCP-359-A by a team sent to investigate. The team was sent after Gamma-27 failed to respond to any communications from Site-359. G-1 has yet to be located and has been officially declared as having gone AWOL.
 
 Squad Lead: G-1
-Squad Members: G-10, G-23, G-28
-
-
-[BEGIN LOG]
-
-
-G-1: Comms check, everyone.
+Squad Members: G-10, G-23, G-28 [BEGIN LOG] G-1: Comms check, everyone.
 G-23: Clear.
 G-10: Clear.
 G-28: Loud and clear.
@@ -364,69 +240,36 @@ G-1: Did I…
 G-1: [Silence]
 [G-1 covers and turns off the bodycam.]
 
-[END LOG]
-
-
-Analysis of the sculptures within SCP-359-A revealed that they were all constructed purely from hephaesium, with the eyes having been made from silver. The current leading theory amongst SCP-359's research team is that SCP-359-A was home to an ecosystem consisting of animals constructed from hephaesium, and that the sudden exposure to outside air, and thus oxygen, resulted in the constructs near-instantly becoming rusted. Analysis of the plants within SCP-359-A revealed all of them to have been genetically modified. They were incapable of undergoing photosynthesis, but still capable of intaking carbon dioxide.
+[END LOG] Analysis of the sculptures within SCP-359-A revealed that they were all constructed purely from hephaesium, with the eyes having been made from silver. The current leading theory amongst SCP-359's research team is that SCP-359-A was home to an ecosystem consisting of animals constructed from hephaesium, and that the sudden exposure to outside air, and thus oxygen, resulted in the constructs near-instantly becoming rusted. Analysis of the plants within SCP-359-A revealed all of them to have been genetically modified. They were incapable of undergoing photosynthesis, but still capable of intaking carbon dioxide.
 
 Two hephaesium constructs located within SCP-359-A.
 
 As the hephaesium had already been used to animate these sculptures, it is unharvestable by the Foundation. Despite this, the constructs were moved out of SCP-359-A and shipped to Area-34.
 The remains of the deceased Gamma-27 members were recovered and received a proper funeral. The remains of SCP-359 were collected and shipped to Area-34 for storage. Site-359 is currently in the process of being decommissioned and its assets relocated to other Foundation facilities. SCP-359-A and the tunnel leading to it have been resealed, with a basic security perimeter established around it.
-Reclassification of SCP-359 and SCP-359-A to Decommissioned is pending.
-
-
-
-‡ Licensing / Citation
+Reclassification of SCP-359 and SCP-359-A to Decommissioned is pending. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-359"" by TopDownUnder, from the SCP Wiki. Source: https://scpwiki.com/scp-359. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-359"" by TopDownUnder, from the SCP Wiki. Source: https://scpwiki.com/scp-359. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: lovers.jpg
 Name: ""Metal Hawks""
 Author: ahisgett
 License: CC BY 2.0
-Source Link: Flickr
-
-
-Filename: goose.jpg
+Source Link: Flickr Filename: goose.jpg
 Name: Living and Metal animals
 Author: kewl
 License: CC BY 2.0
-Source Link: Flickr
-
-
-Filename: perch.jpg
+Source Link: Flickr Filename: perch.jpg
 Name: ""Metal bird sculptures""
 Author: swallowedtail
 License: CC0 1.0
-Source Link: Flickr
-
-
-Filename: hole.jpg
+Source Link: Flickr Filename: hole.jpg
 Name: Chuchelský háj, jáma (01).jpg
 Author: ŠJů
 License: CC BY-SA 4.0
-Source Link: Wikimedia Commons
-
-
-Filename: metallurgicaldept.jpg
+Source Link: Wikimedia Commons Filename: metallurgicaldept.jpg
 Name: N/A
 Author: EstrellaYoshte
 License: CC BY-SA 3.0
-Source Link: desk-of-junior-designer-s-yvonne
-
-
-
-
-
-
-",101,2021-09-29T01:14:00,TopDownUnder,https://scp-wiki.wikidot.com/scp-359,"_cc, _licensebox, airborne, animal, autonomous, bird, euclid, nocturnal, predatory, rewrite, scp, sculpture, structure, subterranean","component:rso, theme:magnus-web-format, theme:flopstyle, theme:blankstyle, theme:placestyle, theme:jakstyle, top, scp-070, scp-1451, scp-358, scp-360, component:license-box, licensing-guide, desk-of-junior-designer-s-yvonne"
+Source Link: desk-of-junior-designer-s-yvonne ",101,2021-09-29T01:14:00,TopDownUnder,https://scp-wiki.wikidot.com/scp-359,"_cc, _licensebox, airborne, animal, autonomous, bird, euclid, nocturnal, predatory, rewrite, scp, sculpture, structure, subterranean","component:rso, theme:magnus-web-format, theme:flopstyle, theme:blankstyle, theme:placestyle, theme:jakstyle, top, scp-070, scp-1451, scp-358, scp-360, component:license-box, licensing-guide, desk-of-junior-designer-s-yvonne"

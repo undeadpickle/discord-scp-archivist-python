@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-d2d62570-b236-4b31-a157-22c64a6e6294,SCP-772,"Item #: SCP-772
+cda5ac11-fa20-4410-8838-60bd3fdc9531,SCP-772,"Item #: SCP-772
 Object Class: Euclid
 Special Containment Procedures: All SCP-772 specimens are to be contained in their 18 m x 18 m x 9 m enclosure, which is contained within a 20 m x 20 m x 10 m hermetically sealed chamber located at Sector-07. A maximum capacity of fifteen (15) specimens per this enclosure is advised, as exceeding this number could result in heightened levels of SCP-772 aggression. This chamber is fitted with a pneumatic fluoridated aluminum dispenser that may be activated remotely if an emergency euthanisation of SCP-772 is necessary, resulting in the suffocation and incineration of all SCP-772 specimens. This emergency euthanisation mechanism and all related equipment must undergo routine maintenance checks to ensure adequate performance. The interval between maintenance checks is not to exceed seven (7) days. SCP-772 eggs are to be stored in a well-lit freezer at a temperature no higher than -10º C (14º F). Surplus/unwanted eggs are to be incinerated immediately and the resulting debris must be examined for any signs of life. If signs of life are present a second round of incineration is authorised. The same procedure should be applied to all expired/unneeded subjects who are, or could possibly be, SCP-772 hosts.
 NOTE: Personnel intending to use SCP-772 for purposes not qualifying as research-oriented must obtain O5 authorisation. – Dr. Woodside
@@ -67,31 +67,10 @@ Wasn’t murdered, cut himself open. Me too.
 
 Addendum 772-01: After conducting numerous tests on SCP-772's larval stage, we have concluded the following:
 
-Larvae are sensitive to bright light and temperatures lower than 21º C (70º F). When confronted with either for a prolonged period of time, the organism retreats into a state of deep hibernation and near-death. It is able to live for months at a time in this manner, possibly indefinitely, until conditions once again prove favourable for its development.
-
-
-Larvae saliva contains a digestive enzyme which aids in the decomposition and consumption of host tissue.
-
-
-Larvae respond positively to host stress hormone, exhibiting increased energy levels, accelerated consumption rate, and expedited growth.
+Larvae are sensitive to bright light and temperatures lower than 21º C (70º F). When confronted with either for a prolonged period of time, the organism retreats into a state of deep hibernation and near-death. It is able to live for months at a time in this manner, possibly indefinitely, until conditions once again prove favourable for its development. Larvae saliva contains a digestive enzyme which aids in the decomposition and consumption of host tissue. Larvae respond positively to host stress hormone, exhibiting increased energy levels, accelerated consumption rate, and expedited growth.
 
 Addendum 772-02: After conducting numerous tests on SCP-772's adult stage, we have concluded the following:
 
-When given the choice between a live cow and a human corpse, SCP-772 deposits its eggs in the live cow 100% of the time. Whether the larvae require living tissue to survive or the choice is merely preferential on the part of the mother is not yet known.
-
-
-When given the choice between a live cow and a live human, SCP-772 deposits its eggs in the live human 84% of the time, tapping its antennae vigorously against both subjects' skin before making a decision.
-
-
-SCP-772 will do the same when confronted with several human subjects, sometimes performing its ""tapping ritual"" up to five times on each individual. The criteria for which subject SCP-772 selects are not yet known, but there seems to be a correlation between its preference and [CLEARANCE LEVEL 3/772 REQUIRED]. Further research is planned. NOTE: Spheksophobic D-class personnel may prove instrumental in SCP-772 data collection. – Dr. Woodside
-
-
-SCP-772 appears to be carnivorous, and in resource-deficient environments, cannibalistic. Males will attack and kill small mammals (e.g., rabbits, cats) but mainly scavenge whatever remains they can find, including larger prey items killed by females. SCP-772 males can be seen ""swarming"" to the location of a female's kill, and she may tolerate their presence (in limited numbers). When a critical threshold has been reached, she will attack the males until they retreat, sometimes killing and eating individuals too slow to escape. Consult Document 772-11W for more information and hypotheses concerning SCP-772 intraspecies interaction.
-
-
-Both sexes are highly resilient to firearms, incendiary devices, and insecticides. Asphyxiation by oxygen-deficient air has proven uniformly successful.
-
-
-Microscopic analysis has revealed that the exoskeleton is not primarily chitin, as with other insects, but a complex matrix of chitin, hydroxyapatite, and a fullerene hitherto undocumented. Further research is planned.
+When given the choice between a live cow and a human corpse, SCP-772 deposits its eggs in the live cow 100% of the time. Whether the larvae require living tissue to survive or the choice is merely preferential on the part of the mother is not yet known. When given the choice between a live cow and a live human, SCP-772 deposits its eggs in the live human 84% of the time, tapping its antennae vigorously against both subjects' skin before making a decision. SCP-772 will do the same when confronted with several human subjects, sometimes performing its ""tapping ritual"" up to five times on each individual. The criteria for which subject SCP-772 selects are not yet known, but there seems to be a correlation between its preference and [CLEARANCE LEVEL 3/772 REQUIRED]. Further research is planned. NOTE: Spheksophobic D-class personnel may prove instrumental in SCP-772 data collection. – Dr. Woodside SCP-772 appears to be carnivorous, and in resource-deficient environments, cannibalistic. Males will attack and kill small mammals (e.g., rabbits, cats) but mainly scavenge whatever remains they can find, including larger prey items killed by females. SCP-772 males can be seen ""swarming"" to the location of a female's kill, and she may tolerate their presence (in limited numbers). When a critical threshold has been reached, she will attack the males until they retreat, sometimes killing and eating individuals too slow to escape. Consult Document 772-11W for more information and hypotheses concerning SCP-772 intraspecies interaction. Both sexes are highly resilient to firearms, incendiary devices, and insecticides. Asphyxiation by oxygen-deficient air has proven uniformly successful. Microscopic analysis has revealed that the exoskeleton is not primarily chitin, as with other insects, but a complex matrix of chitin, hydroxyapatite, and a fullerene hitherto undocumented. Further research is planned.
 
 ",202,2011-06-19T13:51:00,Phelan Velvel,https://scp-wiki.wikidot.com/scp-772,"_cc, airborne, alive, euclid, insect, parasitic, scp, species","scp-771, scp-773"

@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-998a2512-f9e9-4b12-8772-b2ef45f87c5b,SCP-579,"Item #: SCP-579
+cef07a78-923c-478c-b391-e59582e093e8,SCP-579,"Item #: SCP-579
 Object Class: Keter
 Special Containment Procedures: SCP-579 is currently in Site-62C, a compound located approximately 80 km from Site-██, the main site. Knowledge of the existence of this site has been deemed unnecessary for all non-essential personnel who are not involved in SCP-579's containment. Site consists of building housing SCP-579 and living quarters for containment staff. SCP-579 is encased in a 30 m x 30 m x 30 m unit made of [DATA EXPUNGED], in which SCP-579 is kept in permanent suspension through use of electromagnets. Site-██ is equipped with hardline to High Command through which all reports and notifications are to be made. Staff consists of two teams (each composed of 17 Level 1 Personnel, three level 2 Personnel, and one Level 4 Personnel) which are rotated bi-weekly.
 All instruments are to be checked each half-hour to ensure their continued function. Changes in any measured attribute are to be immediately reported to High Command. Any instrument or electronic device registering more than 0.2% from its median range of function or displaying any errors or lapses in functioning will result in automatic execution of Action 10-Israfil. Routine reports to High Command are to be made hourly. If a report is not received within seven minutes of its scheduled time, Action 10-Israfil-A is to be executed.
@@ -58,23 +58,8 @@ Event 39: High Command issues lockdown on Site-██. [DATA EXPUNGED]
 Event 40: Agent ███-█ formulates current containment plan. [DATA EXPUNGED]
 Event 41: Site-62C is constructed. [DATA EXPUNGED]
 Event 42: SCP-579 is moved to Site-██ [DATA EXPUNGED]
-Event 43: High Command seals all data not needed for containment of SCP-579. Termination of agents to prevent data leakage regarding SCP-579 is deemed unnecessary, as only 7 such agents remain. Said agents are retained as advisors should future events concerning SCP-579 occur. [DATA EXPUNGED]
-
-
-‡ Licensing / Citation
+Event 43: High Command seals all data not needed for containment of SCP-579. Termination of agents to prevent data leakage regarding SCP-579 is deemed unnecessary, as only 7 such agents remain. Said agents are retained as advisors should future events concerning SCP-579 occur. [DATA EXPUNGED] ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-579"" by scroton, rewritten by Sophia Light, from the SCP Wiki. Source: https://scpwiki.com/scp-579. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",351,2008-07-26T14:17:00,far2,https://scp-wiki.wikidot.com/scp-579,"_licensebox, infohazard, keter, rewrite, scp","scp-004, scp-578, scp-580, component:license-box, licensing-guide"
+Cite this page as: ""SCP-579"" by scroton, rewritten by Sophia Light, from the SCP Wiki. Source: https://scpwiki.com/scp-579. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",351,2008-07-26T14:17:00,far2,https://scp-wiki.wikidot.com/scp-579,"_licensebox, infohazard, keter, rewrite, scp","scp-004, scp-578, scp-580, component:license-box, licensing-guide"

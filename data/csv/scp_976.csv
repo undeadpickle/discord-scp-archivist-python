@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-a7dd9f21-9f32-42bc-8f12-178580cd5a4d,SCP-976,"Item #: SCP-976
+51040f99-87f8-4890-ab5b-7a41cd47481d,SCP-976,"Item #: SCP-976
 Object Class: Safe
 Special Containment Procedures: SCP-976 is attached to an isolated research computer at Site-█. All data from SCP-976 must be archived for analysis from automated backups made every 24 hours. Research on data extracted from SCP-976 requires level 2 clearance.
 SCP-976 must not be installed in any terminal with a live connection to the Site-█ intranet or to any outside internet connection. Direct access to SCP-976 for purposes other than maintenance requires prior approval from at least two level 3 personnel.
@@ -18,23 +18,8 @@ A record of assets and SCP objects stored at Site-██, which does not exist.
 All data recovered from SCP-976 matches standard Foundation data formats, but otherwise do not seem to correspond to data found in Foundation archives. It is currently theorized that SCP-976 may be a 'window' into a Foundation archive from an alternate timeline or existence.
 Analysis into data recovered from SCP-976 is ongoing.
 Addendum 976-1:
-On ██/██/200█, Dr. ███████ and Dr. █████ were killed while accessing data on SCP-976 that appears to have contained a memetic kill agent similar to [DATA EXPUNGED]. Increased security has been requested for SCP-976 data, and automated data analysis must be used before opening unknown files.
-
-
-‡ Licensing / Citation
+On ██/██/200█, Dr. ███████ and Dr. █████ were killed while accessing data on SCP-976 that appears to have contained a memetic kill agent similar to [DATA EXPUNGED]. Increased security has been requested for SCP-976 data, and automated data analysis must be used before opening unknown files. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-976"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-976. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",123,2009-08-11T15:39:00,Aelanna,https://scp-wiki.wikidot.com/scp-976,"_licensebox, computer, extradimensional, knowledge, media, safe, scp","scp-975, scp-977, component:license-box, licensing-guide"
+Cite this page as: ""SCP-976"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-976. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",123,2009-08-11T15:39:00,Aelanna,https://scp-wiki.wikidot.com/scp-976,"_licensebox, computer, extradimensional, knowledge, media, safe, scp","scp-975, scp-977, component:license-box, licensing-guide"

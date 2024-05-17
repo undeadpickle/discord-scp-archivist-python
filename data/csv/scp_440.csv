@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-0c3bcce2-21cd-4cf6-badd-fd69ed181f88,SCP-440,"Item #: SCP-440
+42b2a745-6bfc-4ff6-894f-7b1d9974853f,SCP-440,"Item #: SCP-440
 Object Class: Euclid
 Special Containment Procedures: As of 6/19/████, the majority of SCP-440 in existence is located in Site-██'s Large-Scale Wilderness Observation Dome (LSWOD). Standard LSWOD security protocols apply, and all observers and items placed inside the Dome are to be completely sanitized of SCP-440. The bottle in which SCP-440 was first discovered (hereafter referred to as SCP-440-Prime), is currently located in a security cabinet on Site-██.
 Description: SCP-440 is a sample of fine-grain sand (sand grain of approximately 90 micrometers) that is chemically identical to typical silica-based sand. Its only difference is that it functions as if it were in a microgravity environment, regardless of the gravitational forces acting upon it. SCP-440 was found in a small glass bottle with no label on it, filled with a viscous fluid that, presumably, weighs down SCP-440 and prevents the grains from touching.
@@ -18,28 +18,9 @@ Experiment Log
 Additional Data:
 SCP-440 Exploratory Log A - 6/7/████
 SCP-440 Exploratory Log B - 9/10/████
-A Detailed Examination Of The SCP-440 Ecology by Dr. Z███ J██████ — FILE CURRENTLY PROCESSING
-
-
-Footnotes
-1. Sands with a particle size of >1mm do not gain this ability.
-
-
-
-‡ Licensing / Citation
+A Detailed Examination Of The SCP-440 Ecology by Dr. Z███ J██████ — FILE CURRENTLY PROCESSING Footnotes
+1. Sands with a particle size of >1mm do not gain this ability. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-440"" by MisterBibs, from the SCP Wiki. Source: https://scpwiki.com/scp-440. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",221,2010-05-03T04:20:00,MisterBibs,https://scp-wiki.wikidot.com/scp-440,"_licensebox, euclid, geological, scp, self-replicating","scp-440-exploratory-log-a, scp-440-exploratory-log-b, scp-439, scp-441, component:license-box, licensing-guide"
+Cite this page as: ""SCP-440"" by MisterBibs, from the SCP Wiki. Source: https://scpwiki.com/scp-440. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",221,2010-05-03T04:20:00,MisterBibs,https://scp-wiki.wikidot.com/scp-440,"_licensebox, euclid, geological, scp, self-replicating","scp-440-exploratory-log-a, scp-440-exploratory-log-b, scp-439, scp-441, component:license-box, licensing-guide"

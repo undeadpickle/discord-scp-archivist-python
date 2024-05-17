@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-cf5679bf-bcef-4bcc-8253-7a735048e097,SCP-631,"Item #: SCP-631
+804dcfc9-85df-4901-9cef-0c928f010e7e,SCP-631,"Item #: SCP-631
 Object Class: Keter
 Special Containment Procedures: Extermination procedures for SCP-631 are to remain in effect until further notice. Information regarding civilian disappearances in SCP-631's environment (urban and suburban areas of the United States) is to be monitored, with particular regards to the areas outlined in Document-631-T. Disappearances related or believed to be related to SCP-631 are to be filtered (standard media blackout procedures apply). Said incidents are to be investigated promptly, and should an instance of SCP-631 be identified, it must be terminated immediately. In the event that no SCP-631 are in Foundation custody, the instance must be captured instead. Agents involved in SCP-631 recovery or termination must be supplied with thermal imaging equipment.
 Mobile Task Forces Nu-11 and Omicron-17 are to be regularly deployed to the areas outlined in Document-631-T. The airspace of these areas is to be thoroughly examined via thermal imaging for SCP-631 instances.
@@ -12,10 +12,7 @@ Observation of SCP-631's behavior have revealed that they do not eat during dayl
 Addendum [631-001]: Investigation and Findings
 SCP-631 has been traced to a Dr. Alan Forsythe, and, subsequently, to a facility owned by said individual in ███ ████ ████, ██. The investigation of this site determined that it had been abandoned in 20██, and no personnel were discovered therein. What follows are excerpts of documents recovered from the site.
 
-Rudimentary biological systems are functional. Circulatory, respiratory, reproductive, gastrointestinal…still working on some hiccups with neurological and endocrine. The subjects have stopped dying from their own venom, which is always a plus. Through some pheromone manipulation, we've tailored them to instinctively hunt Homo sapiens successfully, but we've hit a very troublesome snag. We can get them to hunt the proper prey, but can't control how and when they do so. Obviously this is a problem because we can't have them flying around killing people in broad daylight.
-
-
-Electrolocation is working miracles. We can direct them to subjects in a NREM or REM cerebral state, and some careful tinkering with pheromone activity also predisposes them toward isolated targets. This should keep them restricted to the right prey, with a roughly 4% margin of error (we can't be entirely sure who doesn't sleep outside at night). The project is nearly ready for field testing, but there is still one crucial flaw we need to address. [DATA EXPUNGED] solar camouflage is functioning correctly, but we're having significant difficulty controlling their predatory behavior. Due to necessary metabolic alterations, the adults have no urge to feed. In testing, certain methods can be used to force such a response, but that is impossible in the field.
+Rudimentary biological systems are functional. Circulatory, respiratory, reproductive, gastrointestinal…still working on some hiccups with neurological and endocrine. The subjects have stopped dying from their own venom, which is always a plus. Through some pheromone manipulation, we've tailored them to instinctively hunt Homo sapiens successfully, but we've hit a very troublesome snag. We can get them to hunt the proper prey, but can't control how and when they do so. Obviously this is a problem because we can't have them flying around killing people in broad daylight. Electrolocation is working miracles. We can direct them to subjects in a NREM or REM cerebral state, and some careful tinkering with pheromone activity also predisposes them toward isolated targets. This should keep them restricted to the right prey, with a roughly 4% margin of error (we can't be entirely sure who doesn't sleep outside at night). The project is nearly ready for field testing, but there is still one crucial flaw we need to address. [DATA EXPUNGED] solar camouflage is functioning correctly, but we're having significant difficulty controlling their predatory behavior. Due to necessary metabolic alterations, the adults have no urge to feed. In testing, certain methods can be used to force such a response, but that is impossible in the field.
 
 The following is handwritten and scrawled on a roughly cut piece of paper:
 
@@ -27,23 +24,8 @@ Your offer is accepted. The payment will be transferred upon completion of the p
 Those miserable reprobates are going to destroy any chance of my reelection if the situation is not handled swiftly. I don't care what you have to do to take care of it, do it.
 ████ ████████
 
-Fingerprints on the letter are consistent with Dr. Forsythe and ███████ ""████"" ████████.
-
-
-‡ Licensing / Citation
+Fingerprints on the letter are consistent with Dr. Forsythe and ███████ ""████"" ████████. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-631"" by Anborough, from the SCP Wiki. Source: https://scpwiki.com/scp-631. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",120,2013-12-09T08:39:00,Anborough,https://scp-wiki.wikidot.com/scp-631,"_licensebox, airborne, alive, crustacean, keter, light, parasitic, predatory, scp, species, visual","scp-630, scp-632, component:license-box, licensing-guide"
+Cite this page as: ""SCP-631"" by Anborough, from the SCP Wiki. Source: https://scpwiki.com/scp-631. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",120,2013-12-09T08:39:00,Anborough,https://scp-wiki.wikidot.com/scp-631,"_licensebox, airborne, alive, crustacean, keter, light, parasitic, predatory, scp, species, visual","scp-630, scp-632, component:license-box, licensing-guide"

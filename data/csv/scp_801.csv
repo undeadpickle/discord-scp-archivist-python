@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-cd6c21e1-98c2-493f-b5d3-80db112e0a15,SCP-801,"Item #: SCP-801
+98a00b34-dff2-44af-a590-94d67a9e8100,SCP-801,"Item #: SCP-801
 Object Class: Euclid
 Special Containment Procedures: All iterations of SCP-801 are to be kept in a metal locker on Foundation grounds. Access to SCP-801 for testing purposes is granted to any personnel Level 2 and above. All articles of SCP-801 should be dry-cleaned after testing. No further containment procedures aside from standard security are required.
 Description: SCP-801 is a collection of seven articles of fur clothing, found inside a hunting lodge in the Adirondack mountains. Attempts to trace the owner of the lodge were unsuccessful; though locals insisted that they had seen lights and heard gunshots in the area until recently, Foundation personnel discovered no further evidence of recent occupation.
@@ -21,23 +21,8 @@ Upon completion of transition, subject will be extremely fatigued, but not docil
 It is recommended that all subjects be terminated following testing and examination.
 Addendum: Testing the coats on non-human species has yielded mixed results.
 Placing an ordinary animal inside a coat made from its own species (I.E., placing a raccoon inside SCP-801-2), or placing the same subject in the same coat twice has no effect. However when placing ordinary animals (or sedated, transitioned subjects) inside a coat made from a different animal results in subject transitioning normally for the first three (3) minutes before aborting. Resultant subjects are often missing fur or limbs, or otherwise have limbs partially transitioned. In addition, once mass-purge has started, subjects may have organs [REDACTED] and are unable to support life functions. Most subjects do not live through this process.
-Addendum 2: Attempting to transition a subject wearing multiple articles (such as SCP-801-1 and SCP-801-6 and/or SCP-801-7) functions similarly to putting one species inside a non-coincident coat; however, in this case, the transition stops earlier, leaving the subject at least partially conscious, but with partially transitioned limbs, [DATA EXPUNGED] etc. As these subjected have exhibited the same violent tendencies as those fully transitioned, it is recommended they be terminated immediately. No attempt at communication should be made.
-
-
-‡ Licensing / Citation
+Addendum 2: Attempting to transition a subject wearing multiple articles (such as SCP-801-1 and SCP-801-6 and/or SCP-801-7) functions similarly to putting one species inside a non-coincident coat; however, in this case, the transition stops earlier, leaving the subject at least partially conscious, but with partially transitioned limbs, [DATA EXPUNGED] etc. As these subjected have exhibited the same violent tendencies as those fully transitioned, it is recommended they be terminated immediately. No attempt at communication should be made. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-801"" by ProfSnider, from the SCP Wiki. Source: https://scpwiki.com/scp-801. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",22,2009-02-04T14:54:00,ProfSnider,https://scp-wiki.wikidot.com/scp-801,"_licensebox, clothing, euclid, scp, transfiguration","scp-800, scp-802, component:license-box, licensing-guide"
+Cite this page as: ""SCP-801"" by ProfSnider, from the SCP Wiki. Source: https://scpwiki.com/scp-801. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",22,2009-02-04T14:54:00,ProfSnider,https://scp-wiki.wikidot.com/scp-801,"_licensebox, clothing, euclid, scp, transfiguration","scp-800, scp-802, component:license-box, licensing-guide"

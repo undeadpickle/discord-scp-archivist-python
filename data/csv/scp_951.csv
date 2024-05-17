@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-e70c5e88-f8f7-436b-b58e-7d929625a08d,SCP-951,"Item #: SCP-951
+2bda5cde-7119-4196-8d59-debcbf27619f,SCP-951,"Item #: SCP-951
 Object Class: Safe
 Special Containment Procedures: A copy of SCP-951-1 is to be kept in a standard containment locker and to be used only for testing. Extensive information suppression of SCP-951 is not necessary; however, websites concerning video game glitches or bugs are to be regularly monitored for descriptions of SCP-951, and any individuals discussing SCP-951 are to be made to believe that SCP-951 is a regular, non-anomalous glitch. Individuals further perpetuating SCP-951's anomalous nature are to be located and given a Class-A amnestic and their copy of SCP-951-1 replaced with a confirmed non-affected cartridge. In addition, Foundation-sponsored ROM image files of non-anomalous copies of SCP-951-1 are to be distributed to avoid accidental upload of affected cartridges and minimize exposure to SCP-951.
 Description: SCP-951 is a glitch found in the Sega Genesis/Sega Mega Drive game ""Pauper: Rise of the Monster King"" (hereby designated SCP-951-1), a turn based role-playing game created by Japanese developer ██████. The glitch has been found in approximately 1 out of every 3 cartridges; however, there does not appear to be any recognizable pattern found among the affected cartridges. Uploaded ROM image files of affected copies of SCP-951-1 do appear to have the same anomalous properties as physical cartridges.
@@ -18,10 +18,7 @@ Addendum: The following is a sample of discussion concerning SCP-951-1 and SCP-9
 
 Show log
 
-Hide log
-
-
-Lizalfos ██ ███ ████, 9:40
+Hide log Lizalfos ██ ███ ████, 9:40
 Hey, has anyone played Pauper Rise of the Monster King? I found it at a garage sale recently and so far it's pretty cool. Anyway, the reason I bring it up is because I found a pretty awesome glitch monster that kind of breaks the game and I was wondering if anyone else found it.
 ReGGie ██ ███ ████, 9:42
 @Lizalfos, are you talking about lucas? lucas is fucking bro tier
@@ -48,19 +45,11 @@ Wetualo ██ ███ ████, 10:13
 @Anonymoose Neat
 Anonymoose ██ ███ ████, 10:15
 @Lizalfos I've been working on a ROM hack of PRotMK, so I've seen this system firsthand. :)
-[FURTHER IRRELEVANT DATA REMOVED]
-
-
-
-
-Addendum: The following is an interview log with SCP-951 conducted on May 13, ████:
+[FURTHER IRRELEVANT DATA REMOVED] Addendum: The following is an interview log with SCP-951 conducted on May 13, ████:
 
 Show log
 
-Hide log
-
-
-Interviewer: Dr. █████
+Hide log Interviewer: Dr. █████
 Dr. █████: Good morning, SCP-951.
 SCP-951: Hello! Today we should check out the Magma Caves, I think there's some pretty neat stuff in there!
 Dr. █████: Perhaps, but I have a few questions for you first.
@@ -97,19 +86,11 @@ SCP-951: You're welcome! Are we going to play now?
 Dr. █████: Not right now, SCP-951.
 SCP-951: Aww, okay. You promise we'll go to the Magma Caves later?
 Dr. █████: …I promise.
-Notes: While it is certainly unusual that SCP-951 is aware that it will ""die"" when the game is beaten, unless there is some ulterior motive that we have not considered, SCP-951 appears to be harmless. - Dr. █████
-
-
-
-
-Addendum: The following printed document was recovered alongside sixteen affected cartridges of SCP-951-1. In addition, each cartridge was engraved with a serial number, one of which having the word ""PRIME"" engraved after its serial number. Investigation into the serial numbers is ongoing, however results so far have been inconclusive.
+Notes: While it is certainly unusual that SCP-951 is aware that it will ""die"" when the game is beaten, unless there is some ulterior motive that we have not considered, SCP-951 appears to be harmless. - Dr. █████ Addendum: The following printed document was recovered alongside sixteen affected cartridges of SCP-951-1. In addition, each cartridge was engraved with a serial number, one of which having the word ""PRIME"" engraved after its serial number. Investigation into the serial numbers is ongoing, however results so far have been inconclusive.
 
 Show document
 
-Hide document
-
-
-LOGICAL UNIFIED CENTRAL ANOMALY SYSTEM OUTPUT
+Hide document LOGICAL UNIFIED CENTRAL ANOMALY SYSTEM OUTPUT
 -
 SPECIMEN 000004089 DELETION LOG
 -
@@ -131,27 +112,8 @@ ERROR: PROTOCOL AD2525 FAILURE
 DELETION PROTOCOLS FAILED
 UNABLE TO DELETE SPECIMEN
 SPECIMEN 000004089 DISCARDED
-END OF LINE
-
-
-
-
-
-
-‡ Licensing / Citation
+END OF LINE ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-951"" by CryogenChaos, from the SCP Wiki. Source: https://scpwiki.com/scp-951. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",287,2014-03-22T20:51:00,CryogenChaos,https://scp-wiki.wikidot.com/scp-951,"_licensebox, computer, game, media, safe, sapient, scp","scp-950, scp-952, component:license-box, licensing-guide"
+Cite this page as: ""SCP-951"" by CryogenChaos, from the SCP Wiki. Source: https://scpwiki.com/scp-951. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",287,2014-03-22T20:51:00,CryogenChaos,https://scp-wiki.wikidot.com/scp-951,"_licensebox, computer, game, media, safe, sapient, scp","scp-950, scp-952, component:license-box, licensing-guide"

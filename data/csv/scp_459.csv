@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-35bae339-711d-4416-b854-9fb2469a25b8,SCP-459,"Item #: SCP-459
+2fdfa509-47ac-4676-81f1-bb215f5bc658,SCP-459,"Item #: SCP-459
 Object Class: Safe
 Special Containment Procedures: SCP-459 is to be kept unpowered in a standard security locker. The access code is to be changed bi-weekly and known to level 3 and higher personnel. Removal for testing purposes must be requested at least one week in advance, and approved by a level 4 personnel. As of 04/15/20██, testing has been indefinitely suspended. Proposals for use should be directed to O5-level personnel.
 Description: SCP-459 appears to be a standard home thermostat. The item is equipped with a small display, four buttons, and two dials on either side of the screen; the two buttons on the right side raise and lower temperature, and the other two appear to affect relative humidity in the area - However, these buttons will only work when both dials are set to the off position. The left dial (Dial 1) is marked with several standard weather conditions including ""rain"", ""snow"", and [DATA EXPUNGED]. The fourth and fifth positions' lettering has worn off, and have been marked as 4 and 5. The fourth and fifth positions have been respectively designated ""T-storm"" and ""Hurricane"". The right dial (Dial 2) has ██ different settings, all of which are unmarked. The rightmost positions on each dial are the ""off"" positions.
@@ -27,23 +27,8 @@ Notes: ""Was that the ███████ red spot?!"" -Dr. ██████
 Date: 4/15/20██
 Temperature/Humidity/Weather setting: 20°C/50%/Dial 2, one turn from leftmost position.
 Results: D-class personnel adjusted the device accordingly. After 742 seconds, [DATA EXPUNGED]. All further testing suspended indefinitely.
-Notes: ""It took three weeks to get the thing back, but it's completely undamaged. It's possible we could use this thing to help recreate natural environments for certain Earth-native animal SCPs."" -Dr. ███████
-
-
-‡ Licensing / Citation
+Notes: ""It took three weeks to get the thing back, but it's completely undamaged. It's possible we could use this thing to help recreate natural environments for certain Earth-native animal SCPs."" -Dr. ███████ ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-459"" by Pyonta, from the SCP Wiki. Source: https://scpwiki.com/scp-459. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",94,2010-11-22T01:35:00,Pyonta,https://scp-wiki.wikidot.com/scp-459,"_licensebox, appliance, electrical, meteorological, safe, scp","scp-458, scp-460, component:license-box, licensing-guide"
+Cite this page as: ""SCP-459"" by Pyonta, from the SCP Wiki. Source: https://scpwiki.com/scp-459. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",94,2010-11-22T01:35:00,Pyonta,https://scp-wiki.wikidot.com/scp-459,"_licensebox, appliance, electrical, meteorological, safe, scp","scp-458, scp-460, component:license-box, licensing-guide"

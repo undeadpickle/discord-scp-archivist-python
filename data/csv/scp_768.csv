@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-20e78164-a05c-49e2-a868-3147be1bbc5f,SCP-768,"Item #: SCP-768
+02a64efc-a0e7-4934-a487-1d951837a718,SCP-768,"Item #: SCP-768
 Object Class: Safe
 Special Containment Procedures: SCP-768 is stored without batteries in a standard Safe-class secure locker at Site ██. Access to SCP-768 requires approval from at least one (1) Level 3 Senior Researcher, and Site ██ Security must be notified of any experiments to be performed on SCP-768 at least twenty-four (24) hours in advance.
 Any experimentation using SCP-768 must be performed in a remote isolation chamber at least 300 m away from any critical alarm systems. Researchers experimenting on SCP-768 must not bring any devices with alert mechanisms or alarms into the testing area, and researchers with personal medical alarm systems must not be allowed into the area while experimentation is underway.
@@ -22,23 +22,8 @@ Addendum 768-1: Incident Report 768-01
 Initial experimentation conducted with SCP-768 caused the triggering of multiple containment breach alarms at Site ██, including that of Euclid-level SCP-███, SCP-███, and Keter-level SCP-███. Automated defense systems and self-destruct mechanisms were armed before the research team managed to alert site security and stop the response.
 Due to the potential for triggering emergency responses, future research with SCP-768's effects must take place outside of the range of any alarm systems connected to critical systems or SCP containment alarms.
 Addendum 768-2: Incident Report 768-05
-During experimentation on █████ ██, ████, Dr. █████████'s heart monitor was set to an alarm state by SCP-768, causing his pacemaker to increase his pulse rate to nearly three times his normal rate. Dr. █████████ was hospitalized but fully recovered after the incident. Future experimentation must be performed by research staff without pacemakers or personal medical alert systems.
-
-
-‡ Licensing / Citation
+During experimentation on █████ ██, ████, Dr. █████████'s heart monitor was set to an alarm state by SCP-768, causing his pacemaker to increase his pulse rate to nearly three times his normal rate. Dr. █████████ was hospitalized but fully recovered after the incident. Future experimentation must be performed by research staff without pacemakers or personal medical alert systems. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-768"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-768. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",137,2009-06-09T15:33:00,Aelanna,https://scp-wiki.wikidot.com/scp-768,"_licensebox, appliance, electrical, safe, scp","scp-767, scp-769, component:license-box, licensing-guide"
+Cite this page as: ""SCP-768"" by Aelanna, from the SCP Wiki. Source: https://scpwiki.com/scp-768. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",137,2009-06-09T15:33:00,Aelanna,https://scp-wiki.wikidot.com/scp-768,"_licensebox, appliance, electrical, safe, scp","scp-767, scp-769, component:license-box, licensing-guide"

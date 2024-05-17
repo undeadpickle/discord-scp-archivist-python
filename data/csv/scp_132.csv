@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-1b66c202-984e-4b6b-b4ed-f5eeff1f404f,SCP-132,"Item #: SCP-132
+8e7ab6ee-4a36-4d7b-8ccc-d8ca3f58b08a,SCP-132,"Item #: SCP-132
 Object Class: Safe
 Special Containment Procedures: All instances of SCP-132 are to be cataloged and etched with an appropriate designating mark. SCP-132 is to be stored at Containment Sector-██ when not in use. No special clearance is needed to have access to files relating to SCP-132 and instances of SCP-132 may be requisitioned for office decoration in any non-Command Foundation installation. After incident 132-01, no instances of SCP-132 are to leave Containment Area 23 without approval by the Sector Director. Following the incident detailed in Addendum 03, standard classification procedures are reinstated on SCP-132.
 Description: SCP-132 takes the form of a series of ███ glass tetrahedrons, each with a side length of 10.3 centimeters. Each instance of SCP-132 appears to contain a patch of desert sand. Occasionally scorpions and other desert creatures enter the confines of an instance of SCP-132 as if it were a continuous piece of desert. Creatures within SCP-132 have shown no awareness of the existence of anything outside of the object and attempts to influence the area within SCP-132 have failed.
@@ -25,23 +25,8 @@ Incident Log 132-01: Dr. R███████, currently stationed at Area-█
 Addendum 132-01: Careful observation of SCP-132 has found that many instances are contiguous, the largest 'section' composed of sixteen (16) different instances. Speculation over the existence of additional unsecured instances has been raised.
 Addendum 132-02: Administration has deemed the possible risk of unsecured instances of SCP-132 existing to be negligible and set retrieval efforts to lowest priority. Keywords relating to SCP-132 have been added to routine search protocols.
 Addendum 132-03: A large box arrived for Dr. Richardson at his home with a return address of [REDACTED], a Foundation front. No faculty associated with [REDACTED] report any association with said box and it does not appear on any [REDACTED] records. Inside were thirty-seven (37) uncatalogued instances of SCP-132. Twelve (12) were contiguous with previously documented instances of SCP-132 and three (3) instances which had no known shared edges were brought into contiguity. Of particular note were eighteen (18) instances which appear to display Martian soil, thirteen (13) of which were found to be contiguous.
-Addendum 132-04: At Dr. L████████'s suggestion, notes were taken over a year on the light cycle of SCP-132 clusters. Although imprecise, the Foundation now has a rough set of coordinates for various SCP-132 viewing locations. No missions need be sent to confirm these locations but teams passing near are encouraged to assist Dr. Peterson in pinpointing coordinates.
-
-
-‡ Licensing / Citation
+Addendum 132-04: At Dr. L████████'s suggestion, notes were taken over a year on the light cycle of SCP-132 clusters. Although imprecise, the Foundation now has a rough set of coordinates for various SCP-132 viewing locations. No missions need be sent to confirm these locations but teams passing near are encouraged to assist Dr. Peterson in pinpointing coordinates. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-132"" by Robert Sandler, from the SCP Wiki. Source: https://scpwiki.com/scp-132. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",301,2011-03-09T19:22:00,Robert Sandler,https://scp-wiki.wikidot.com/scp-132,"_licensebox, polyhedral, safe, scp, visual","scp-131, scp-133, component:license-box, licensing-guide"
+Cite this page as: ""SCP-132"" by Robert Sandler, from the SCP Wiki. Source: https://scpwiki.com/scp-132. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",301,2011-03-09T19:22:00,Robert Sandler,https://scp-wiki.wikidot.com/scp-132,"_licensebox, polyhedral, safe, scp, visual","scp-131, scp-133, component:license-box, licensing-guide"

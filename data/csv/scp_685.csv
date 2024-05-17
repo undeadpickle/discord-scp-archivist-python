@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-6b99207a-4e30-44c6-a5f3-47b23d49c0f5,SCP-685,"Item #: SCP-685
+38b21035-ffc8-4d02-a896-762eb4a9de10,SCP-685,"Item #: SCP-685
 Object Class: Euclid
 Special Containment Procedures: As SCP-685 is a geological feature, it is unable to be moved from its current location. A 20 km radius around SCP-685, designated Research Site-85, is to be kept clear of all non-indigenous or non-Foundation personnel. In addition to on-site personnel, SCP-685 is to be monitored remotely via satellite from Command-██.
 Non-biological objects are to be autoclaved or immersed in 10% bleach solution for 30 minutes before being removed from the site. All other objects are to be kept under BSL-3 conditions for no less than six months. Personnel rotating off duty at Site-85 will be quarantined for one month, and subject to weekly physical examinations for the next two months afterward.
@@ -15,23 +15,8 @@ Human exploration of SCP-685 has been limited to the lighted portion of the hole
 Note: SCP-685 is not a disposal pit. We don't know where it goes, we don't need to be telling anyone on the other end that we're here, and we won't need our garbage boomeranging back at us years from now. -Dr. Roger
 Document #685-D: Analysis of all rock debris obtained from SCP-685 reveals no anomalies, and is consistent with terrestrial origin. Analysis of the organic debris reveals that, while DNA was unable to be isolated from any sample, in roughly 63% of the samples obtained mass spectroscopy detected the pervasive presence of ██ non-canonical amino acids, including [DATA EXPUNGED]. Only a handful of known terrestrial organisms use non-canonical amino acids, and of those each only uses one.
 Petri dishes with media incorporating the non-canonical amino acids was used to grow cultures taken from all objects retrieved from the pit. Organisms cultured exhibited [DATA EXPUNGED] and are resistant to all known antibiotics. To date, none have been found that survive autoclaving or incineration.
-Additionally, Carbon-14 dating of the organic debris exhibiting terrestrially-normal amino acid compositions reveals that none of the debris is less than thirty-five years old. This is unsurprising in light of the dessicated hexapod corpse observed on ██ February ████ before the construction of the automated retrieval system.
-
-
-‡ Licensing / Citation
+Additionally, Carbon-14 dating of the organic debris exhibiting terrestrially-normal amino acid compositions reveals that none of the debris is less than thirty-five years old. This is unsurprising in light of the dessicated hexapod corpse observed on ██ February ████ before the construction of the automated retrieval system. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-685"" by DrRoger, from the SCP Wiki. Source: https://scpwiki.com/scp-685. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",26,2009-03-25T09:35:00,DrRoger,https://scp-wiki.wikidot.com/scp-685,"_licensebox, euclid, extradimensional, geological, gravity, scp, subterranean","scp-684, scp-686, component:license-box, licensing-guide"
+Cite this page as: ""SCP-685"" by DrRoger, from the SCP Wiki. Source: https://scpwiki.com/scp-685. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",26,2009-03-25T09:35:00,DrRoger,https://scp-wiki.wikidot.com/scp-685,"_licensebox, euclid, extradimensional, geological, gravity, scp, subterranean","scp-684, scp-686, component:license-box, licensing-guide"

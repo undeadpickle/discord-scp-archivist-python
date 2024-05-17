@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-0a51f87a-bdf6-4511-aed8-7418f2c6b920,SCP-666,"Item #: SCP-666
+a2484824-fdf6-4bea-8e0b-642b397f48d6,SCP-666,"Item #: SCP-666
 Object Class: Euclid
 Special Containment Procedures: SCP-666 is to be stored in a monitored, closed vault at all times at Site 73 in the Tibetan mountains. Guards are to be changed weekly, must pass a background check before being assigned to their post, and proven free of drug and alcohol addiction.
 SCP-666 is to be entered only by D-class personnel in approved testing procedures or by approved Foundation researchers with level 4 or higher security clearance. Non-D-class personnel who enter SCP-666, whether or not they have revealed a prior history of addiction, must be observed by a guard at all times. If they show any sign of being affected by SCP-666, they are to be removed immediately.
@@ -15,10 +15,7 @@ Addendum SCP-666-2: Interview log with Test Subject D-14390, regarding experienc
 
 Access Interview 666-13
 
-Close 666-13
-
-
-Interviewer: Dr. Lanis
+Close 666-13 Interviewer: Dr. Lanis
 Interview Subject: D-14390
 Date: 04/17/19██
 Dr. L: Subject D-14390, how are you feeling?
@@ -43,8 +40,4 @@ D-14390: Yeah, seems I wasn't just freaking out in the dream. Weird shit was, ab
 Dr. L: Thank you, D-14390. I just have one last question; after all this, you said you wanted to go back in? Why?
 D-14390: Well, it's simple right? *mild laughter* She was scary and all but… Man I've never been that high in my life. And with the shit that goes on in this place, I figured I'm not long for the world anyway, so I may as well go out with a smile, right?
 
-Note: Following the interview, D-14390 repeatedly volunteered for additional testing with SCP-666. Doctor Lanis finally relented; D-14390 began screaming approximately three seconds after entering the hallucinatory state, and expired from cardiac arrest less than one minute later.
-
-
-
-",388,2008-07-26T14:23:00,far2,https://scp-wiki.wikidot.com/scp-666,"auditory, building, euclid, hallucination, humanoid, rewrite, scp, tactile, telepathic, visual","scp-665, scp-667"
+Note: Following the interview, D-14390 repeatedly volunteered for additional testing with SCP-666. Doctor Lanis finally relented; D-14390 began screaming approximately three seconds after entering the hallucinatory state, and expired from cardiac arrest less than one minute later. ",388,2008-07-26T14:23:00,far2,https://scp-wiki.wikidot.com/scp-666,"auditory, building, euclid, hallucination, humanoid, rewrite, scp, tactile, telepathic, visual","scp-665, scp-667"

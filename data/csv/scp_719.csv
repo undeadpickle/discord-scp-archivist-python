@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-b5bcee7b-cb09-4861-a027-1425def9f2a4,SCP-719,"Item #: SCP-719
+db738265-7914-4d9c-a51f-57aa7a9506ce,SCP-719,"Item #: SCP-719
 Object Class: Safe
 Special Containment Procedures: SCP-719 is to be kept in a secure, lead-lined storage unit at Site-15 when not in use. SCP-719 is to be tested for residual radioactivity on a bi-monthly basis. If residual radiation levels exceed 10 Sv/h when SCP-719 is in an unpowered state, SCP-719-1 is to be removed from SCP-719 and installed into another compatible unit of similar manufacture.1 Once operation of the new unit is confirmed, the new unit will be designated SCP-719 and the old unit disposed of according to site protocols for radioactive waste.
 Any experimentation or testing of SCP-719 must take place in a radiation-shielded examination room. Foundation personnel are not to have direct contact with SCP-719 while it is powered on, and any power must be provided by circuits with a remotely monitored emergency shutoff. All tests shall be recorded and video archived in the Site-15 secure data center. Under no circumstances shall SCP-719 be permitted to remain powered on for longer than 75 minutes. All test signals are to be transmitted to SCP-719 via a standard digital converter box switched to channel 3.
@@ -31,10 +31,7 @@ Addendum 2: Recovery Notes SCP-719
 SCP-719 and SCP-719-1 were recovered from the site of an apparent murder-suicide at a ranch outside ███████, Arizona. The ranch had been purchased by a cult calling itself “The Guardians of the Light""4 who reportedly had at least 35 members resident at the compound. On ██/██/19██, agents of the ATF raided the compound based on rumors of a weapons cache. The raid found the bodies of approximately 20 members of the cult in a barn that had been converted into a church. 19 cult members had been shot execution-style while facing the altar. The corpse of the 20th member, apparently the gunman, was found at the altar with third-degree burns on 95% of the body. SCP-719 was on the altar, rear case removed, and one instance of SCP-719-1 clutched in the corpse's hand. The scene was quarantined and news of the incident suppressed by U.S. Intelligence agencies when all bodies were found to show advanced cases of radiation poisoning. The Foundation was called in when U.S. authorities discovered the only radiation source was the case of SCP-719, whose residual radioactivity could not account for the damage to the victims.
 The gunman had a note on his person which had almost completely burned. Forensic analysis of the remains have recovered the following text:
 
-[…] Cannot understand wh […] o to the u […] ot what they beli […] op them before they go an […] ing this, I failed. You have to destroy the […] t's not a window. It's a door.
-
-
-Footnotes
+[…] Cannot understand wh […] o to the u […] ot what they beli […] op them before they go an […] ing this, I failed. You have to destroy the […] t's not a window. It's a door. Footnotes
 1. A minimum of 2 operational standby units shall be kept on site at all times
 2. Tests have involved recorded and live over-the-air broadcasts, as well as signals from various recorded media.
 3. The actors and roles may change upon repeat of the same input signal.

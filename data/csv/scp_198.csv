@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-ba58d27c-7ba8-4eac-903a-0191a15f3baf,SCP-198,"Item #: SCP-198
+e9c4401f-1f54-4681-a7a1-b06d3fb20679,SCP-198,"Item #: SCP-198
 Object Class: Euclid
 Special Containment Procedures: SCP-198 is located in a secure room of Site-██ with armed guards posted outside to prevent any unauthorized access. SCP-198 is to be stored under 24-hour video surveillance in a sealed and locked case (0.5 m x 0.5 m x 0.5 m) and the key kept in a secured location accessible only to those personnel with Level 3 clearance and above. Under no circumstances are any Foundation personnel to handle SCP-198. All handling of SCP-198 is to be done via remote robotic means or by D-class test subjects only.
 In light of Incident 198-A and Incident 198-B, Object Class has been elevated to Euclid and Containment Protocol 198 has been established. SCP-198’s case must now be kept on a digital scale attached to an alarm system with redundant backups for power in its secure room. Any deviations in weight will indicate a breach and Site Supervisors must immediately enact Containment Protocol 198 detailed below.
@@ -27,23 +27,8 @@ Containment Protocol 198:
 
 Containment Protocol 198 is to be executed immediately by Site Supervisors after a containment breach of SCP-198 is detected. In the event that the alarm attached to SCP-198’s scale is sounded, Site-██ is to be locked down and all personnel are to immediately avoid any beverage containers and evacuate the facility until SCP-198 can be located and properly secured.
 
-For test logs, please see Experiment Log 198-A.
-
-
-‡ Licensing / Citation
+For test logs, please see Experiment Log 198-A. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-198"" by Soulbane, from the SCP Wiki. Source: https://scpwiki.com/scp-198. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",452,2010-06-26T05:22:00,Soulbane,https://scp-wiki.wikidot.com/scp-198,"_licensebox, artifact, euclid, liquid, scp, transfiguration","experiment-log-198-a, scp-197, scp-199, component:license-box, licensing-guide"
+Cite this page as: ""SCP-198"" by Soulbane, from the SCP Wiki. Source: https://scpwiki.com/scp-198. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",452,2010-06-26T05:22:00,Soulbane,https://scp-wiki.wikidot.com/scp-198,"_licensebox, artifact, euclid, liquid, scp, transfiguration","experiment-log-198-a, scp-197, scp-199, component:license-box, licensing-guide"

@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-03de48c4-59ce-4f52-b9eb-805b6ce1bc9c,SCP-107,"Item #: SCP-107
+d9204097-ae62-48d5-ac52-c03ab55787be,SCP-107,"Item #: SCP-107
 Object Class: Safe
 Special Containment Procedures: SCP-107 poses no immediate threat, so long as it does not come into contact with any liquid. As such, it is stored at Site-19 in a five (5) metre square containment cell, on a one (1) metre high pedestal, inside a clear perspex container. Experimentation with SCP-107 is to be carried out at Research Area-06, a 484 km2 (22 x 22 km) area of desolate land in █████████ dedicated to this purpose. Anyone who attempts to activate SCP-107 outside of an approved experiment must be eliminated with any force necessary.
 Access to and removal of the object requires the authorization of two (2) Level 4 personnel, and the approval by said personnel of a full experimental procedure. Should SCP-107 become active while within Site-19, two Class-D personnel are to remove it from the site via one of the item transport trucks in Loading Bay-02. This procedure must be followed regardless of the substance that activated SCP-107, given the unpredictable nature of the item's effect on plant matter. SCP-107 should only be returned once precipitation has ceased completely and any abnormal plant growth has been neutralized or contained for further study.
@@ -36,23 +36,8 @@ Result: Substance later proven to be human saliva fell on the test site for 8 mi
 Input: 10 ml 99.999% isotopically pure heavy water (D2O)
 Result: Standard precipitation pattern (27 minutes of drizzle). Mass spectrometry of samples revealed a deuterium abundance of ~154 ppm, which is standard for natural water.
 Input: 5 ml elemental mercury
-Result: Sample began to be absorbed, but was then re-exuded.
-
-
-‡ Licensing / Citation
+Result: Sample began to be absorbed, but was then re-exuded. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-107"" by RichardJ28, from the SCP Wiki. Source: https://scpwiki.com/scp-107. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",384,2010-01-11T14:48:00,RichardJ28,https://scp-wiki.wikidot.com/scp-107,"_licensebox, biological, ectoentropic, meteorological, safe, scp, skeletal","scp-009, scp-447, scp-874, scp-106, scp-108, component:license-box, licensing-guide"
+Cite this page as: ""SCP-107"" by RichardJ28, from the SCP Wiki. Source: https://scpwiki.com/scp-107. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",384,2010-01-11T14:48:00,RichardJ28,https://scp-wiki.wikidot.com/scp-107,"_licensebox, biological, ectoentropic, meteorological, safe, scp, skeletal","scp-009, scp-447, scp-874, scp-106, scp-108, component:license-box, licensing-guide"

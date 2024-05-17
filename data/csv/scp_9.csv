@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-1a2e0dd0-1e42-4c42-8deb-df6a5d95ec1e,SCP-009,"Item #: SCP-009
+840225d9-af55-42a4-a314-f60973db9163,SCP-009,"Item #: SCP-009
 Object Class: Euclid
 Special Containment Procedures: Object is to be contained within a sealed storage tank of heat-resistant alloy with dimensions not less than 2m x 2m x 2m.
 Under no circumstances should SCP-009 be exposed to temperatures in excess of 0°C when not undergoing testing, and no water-based solutions shall be allowed within 30 meters of the object's containment area. Object's chamber is to be fitted with temperature sensors which must be monitored at all times, and is to be kept refrigerated by no fewer than three (3) redundant cooling units. Any malfunction of sensors, or of coolant systems, is to be reported and repaired immediately. If at any time the temperature in the containment area climbs above -5°C, the chamber is to be locked down and flooded with coolant until temperatures return to safe levels (-30°C to -25°C).
@@ -29,32 +29,16 @@ Memo from O-5 Command: 1/09/20██
 We've decided to keep this thing Euclid for now. We understand the concerns raised, but as long as you keep the power on and nobody goes near its containment area, there shouldn't be a problem. That's why we're keeping it in Site ██, after all.
 As for the cold fusion research, we're putting a pin in that for now. Frankly, we don't have it in the budget for another SNAFU like Site ██. The salvage team still hasn't found Dr. █████'s [REDACTED]
 
-+ Cross-Testing report 9507F23
-
- Hide Report
++ Cross-Testing report 9507F23 Hide Report
 
 The following experiment record was recovered via a chance occurrence of SCP-507 shifting into a universe in which the described test was carried out using SCP-107. The applicability of the reported findings to our own universe is pending review.
 
 Input: 10mL of SCP-009
-Result: ""Red snow"" fell in test area for 27 minutes with moderate intensity. Grass growing in test area began runaway reaction which ended with entire area being ""frozen"" within minutes. Notably, anti-enthalpathic reaction of SCP-009 did not extend past the effective radius of SCP-107, for reasons still under investigation. Non-grass plants in area turned bright red in color, greatly expanded, and mutated to display cyan-colored ""tentacles"" similar to those of species Drosera capensis. Mucilage produced by these tentacles later found to be tiny beads of SCP-009. How the plant is able to survive with SCP-009 integrated into its cell structure is currently under investigation, with preliminary hypothesis being the plant is a reflection of flora from the substance's native universe.
-
-
-
-
-
-
-‡ Licensing / Citation
+Result: ""Red snow"" fell in test area for 27 minutes with moderate intensity. Grass growing in test area began runaway reaction which ended with entire area being ""frozen"" within minutes. Notably, anti-enthalpathic reaction of SCP-009 did not extend past the effective radius of SCP-107, for reasons still under investigation. Non-grass plants in area turned bright red in color, greatly expanded, and mutated to display cyan-colored ""tentacles"" similar to those of species Drosera capensis. Mucilage produced by these tentacles later found to be tiny beads of SCP-009. How the plant is able to survive with SCP-009 integrated into its cell structure is currently under investigation, with preliminary hypothesis being the plant is a reflection of flora from the substance's native universe. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-009"" by Chameleon X, from the SCP Wiki. Source: https://scpwiki.com/scp-009. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
+Cite this page as: ""SCP-009"" by Chameleon X, from the SCP Wiki. Source: https://scpwiki.com/scp-009. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
 
 Filename: 009.png
 Author: S D Locke
@@ -62,10 +46,4 @@ License: CC BY-SA 3.0
 Derivative of: Apostle Islands National Lakeshore - Ice Caves
 Author: The Cut
 License: CC BY 2.0
-Source Link: Flickr
-
-
-
-
-
-",978,2009-12-26T23:02:00,Chameleon X,https://scp-wiki.wikidot.com/scp-009,"_cc, _licensebox, ectoentropic, euclid, liquid, scp, self-replicating, thermal","exploration-log-a009-1, scp-3023, scp-507, scp-107, scp-008, scp-010, component:license-box, licensing-guide"
+Source Link: Flickr ",978,2009-12-26T23:02:00,Chameleon X,https://scp-wiki.wikidot.com/scp-009,"_cc, _licensebox, ectoentropic, euclid, liquid, scp, self-replicating, thermal","exploration-log-a009-1, scp-3023, scp-507, scp-107, scp-008, scp-010, component:license-box, licensing-guide"

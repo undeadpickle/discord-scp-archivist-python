@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-280d4f1f-9e39-49d7-9352-490dcf6fe645,SCP-730,"Item #: SCP-730
+5dde4b96-cd26-45fc-92e0-8e0342298425,SCP-730,"Item #: SCP-730
 Object Class: Euclid
 Special Containment Procedures: SCP-730 and associated materials and subjects are housed in Sector-07 in a Delta level containment facility. Ongoing research necessitates regular staff interaction with affected materials (using appropriate isolation equipment). Researchers are required to undergo 36 hours of isolation and decontamination before leaving the containment facility. Any staff exposed to SCP-730 will be reclassified as a research subject and assigned to the facility indefinitely.
 Description: SCP-730 is an engineered retrovirus developed in ████████, Italy by Dr. ████████████. It infects and mutates developing mammalian embryos, including humans, causing abnormal fetal development. Infected individuals grow to term as physically healthy fetuses lacking any anatomical features above the brain stem (see epidemiology report).
@@ -8,23 +8,8 @@ Adult organisms cannot be infected by the virus, but act as passive carriers onc
 While Foundation operations in support of SCP-730’s recovery and public suppression were successful, the possibility that carrier individuals remain at large cannot be discounted. Surveillance of public health institutions is ongoing even as materials recovered from the initial outbreak are studied to seek a treatment.
 Incident 730-01: Capture Summary SCP-730 was designed to affect fertilized mammalian embryos and intervene in the developmental process to produce “decerebrated” or brainless organisms. It was Dr. ███████ intention to use this virus to produce animals without higher brain function which could be raised for meat production without the ethical complications of killing thinking creatures for food.
 Shortly after the first successful test with sheep embryos, the virus mutated and was able to cross into members of the lab's staff. Because the virus does not manifest in adults, this jump was not initially detected. Only once hospitals in the region reported an epidemic of unprecedented birth defects did the Foundation become interested and the cause identified.
-The epidemic was intercepted before it spread beyond local confines to the global population. Sanitation procedures denied the virus an endemic population of passive carriers to further its spread. Materials and infected subjects were obtained and isolated under Foundation custody for further study, as were Foundation personnel exposed during the initial investigation.
-
-
-‡ Licensing / Citation
+The epidemic was intercepted before it spread beyond local confines to the global population. Sanitation procedures denied the virus an endemic population of passive carriers to further its spread. Materials and infected subjects were obtained and isolated under Foundation custody for further study, as were Foundation personnel exposed during the initial investigation. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-730"" by SimpleCadence, from the SCP Wiki. Source: https://scpwiki.com/scp-730. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",94,2010-03-20T16:56:00,SimpleCadence,https://scp-wiki.wikidot.com/scp-730,"_licensebox, biological, euclid, scp, virus","scp-729, scp-731, component:license-box, licensing-guide"
+Cite this page as: ""SCP-730"" by SimpleCadence, from the SCP Wiki. Source: https://scpwiki.com/scp-730. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",94,2010-03-20T16:56:00,SimpleCadence,https://scp-wiki.wikidot.com/scp-730,"_licensebox, biological, euclid, scp, virus","scp-729, scp-731, component:license-box, licensing-guide"

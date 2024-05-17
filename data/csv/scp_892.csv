@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-5c003277-dbbf-436b-9e66-40b59274ce7c,SCP-892,"Item #: SCP-892
+5328ff96-8b68-48bf-92e7-d271aa969fb5,SCP-892,"Item #: SCP-892
 Object Class: Euclid
 Special Containment Procedures: SCP-892 is to be contained within maximum security vault ████-██-████ located ████ meters beneath Site ██. All O5 personnel are to be issued a magnetic Access Key coupled with an individual Passcode. A minimum of three (3) O5 Overseer personnel Access Keys and corresponding Passcodes are required to begin a 48 hour unlock sequence to grant access to SCP-892. Should all thirteen O5 Overseer personnel Access Keys and corresponding Passcodes be entered simultaneously, vault will unlock immediately.
 Access to SCP-892 is permitted strictly under O5 supervision and for the sole purpose of attempting to identify the location of SCP-892-2. In the event that the SCP-892-2 is located, all O5 personnel are to be alerted and Mobile Task Force Mu-4 (aka ""Debuggers"") is to be dispatched.
@@ -43,24 +43,8 @@ TTC/50: Suspected corrupt cell; updates demonstrate self-awareness, yet are ofte
 ZIE/66,667: [REDACTED]
 AABT/38,545: Confirmed as Dr. ████████. Researcher has been detained and used for testing with SCP-892.
 ABWS/80,323: Updates display subsequent digits of pi to the 105th place before resetting.
-ABXA/20,468: Consistently displays ""death"" string. Name, time, and cause different each time.
-
-
-
-‡ Licensing / Citation
+ABXA/20,468: Consistently displays ""death"" string. Name, time, and cause different each time. ‡ Licensing / Citation
 
 ‡ Hide Licensing / Citation
 
-Cite this page as:
- 
-
-""SCP-892"" by evictedSaint, from the SCP Wiki. Source: https://scpwiki.com/scp-892. Licensed under CC-BY-SA.
-
-
-
-For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide.
-
-
-
-
-",178,2011-10-12T20:33:00,evictedSaint,https://scp-wiki.wikidot.com/scp-892,"_licensebox, computer, electronic, euclid, knowledge, scp","scp-891, scp-893, component:license-box, licensing-guide"
+Cite this page as: ""SCP-892"" by evictedSaint, from the SCP Wiki. Source: https://scpwiki.com/scp-892. Licensed under CC-BY-SA. For information on how to use this component, see the License Box component. To read about licensing policy, see the Licensing Guide. ",178,2011-10-12T20:33:00,evictedSaint,https://scp-wiki.wikidot.com/scp-892,"_licensebox, computer, electronic, euclid, knowledge, scp","scp-891, scp-893, component:license-box, licensing-guide"
