@@ -2,6 +2,7 @@ import csv
 import json
 import os
 from datetime import datetime
+import uuid
 
 # Load the processed JSON files from the directory
 json_dir = "./data/processed_json/"
@@ -37,14 +38,18 @@ for filename in os.listdir(json_dir):
         created_at = scp_data.get("created_at", "")
         creator = scp_data.get("creator", "")
         url = scp_data.get("url", "")
-        tags = ", ".join(scp_data.get("tags", []))
-        references = ", ".join(scp_data.get("references", []))
+        tags = ", ".join(scp_data.get("tags", [])) if scp_data.get("tags") else ""
+        references = (
+            ", ".join(scp_data.get("references", []))
+            if scp_data.get("references")
+            else ""
+        )
 
-        # Extract the SCP number from the title
-        scp_number = title.split("-")[-1] if "-" in title else ""
+        # Generate a unique identifier
+        unique_id = str(uuid.uuid4())
 
-        # Create a CSV file for the current SCP
-        csv_filename = f"{title.lower()}.csv"
+        # Create a CSV file for the current SCP with the title as the filename
+        csv_filename = f"{title}.csv"
         csv_path = os.path.join(csv_dir, csv_filename)
 
         # Write the data to the CSV file
@@ -53,7 +58,7 @@ for filename in os.listdir(json_dir):
             writer.writeheader()
             writer.writerow(
                 {
-                    "id": scp_number,
+                    "id": unique_id,
                     "title": title,
                     "content": content,
                     "rating": rating,

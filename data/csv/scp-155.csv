@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-155,SCP-155,"Item #: SCP-155
+5f13de94-8c6e-44ac-88ae-0e6c15ddd461,SCP-155,"Item #: SCP-155
 Object Class: Safe
 Special Containment Procedures: SCP-155 is contained in a heat-treated and radiation-shielded containment chamber at Site ██. Recovered documentation and the reverse-engineered compiler for SCP-155 are available for all personnel with sufficient clearance on Site ██'s secure file server, but execution of programs on SCP-155 may only be performed with prior permission from at least two (2) Level 3 Senior Researchers. Please see Document 155-EXEC-1 for radiation and thermal safety procedures for the safe operation of SCP-155.
 As of Incident 155-08, experimentation on SCP-155 has been suspended pending decontamination of SCP-155's former containment chamber and relocation to a new containment chamber. All tasks intended for execution on SCP-155 must now be triple-checked to prevent the possibility of non-halting execution.
