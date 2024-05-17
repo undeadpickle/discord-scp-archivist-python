@@ -4,7 +4,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Load the large JSON file from the URL
-url = "https://raw.githubusercontent.com/scp-data/scp-api/main/docs/data/scp/items/content_series-1.json"
+url = "https://raw.githubusercontent.com/scp-data/scp-api/main/docs/data/scp/items/content_scp-001.json"
 response = requests.get(url)
 data = json.loads(response.text)
 

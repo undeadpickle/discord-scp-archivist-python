@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-258d31be-5af1-483a-9bdc-bd1d1e3c61b0,SCP-061,"Item #: SCP-061
+c9d1bafe-d56c-40e6-a5c6-57c1b778aa1f,SCP-061,"Item #: SCP-061
 Object Class: Safe
 Special Containment Procedures: The source code for SCP-061 is to be kept on a standard archival-quality read-only data compact disc (CD-ROM); four copies of the CD-ROM with the source code are to be stored in separate maximum-security inanimate-object lockers. Except for purposes of approved experimentation, SCP-061 is not to be loaded, compiled, or run. Research proposals for SCP-061 require written approval from site command. Only one copy of the CD-ROM containing the source code for SCP-061 may be used at a time; the CD-ROM is to be returned to storage immediately after having been used to load the source code for SCP-061 to a device.
 SCP-061 must never be loaded, compiled, or run on any device which has a connection to the Internet, either directly or via another device. SCP-061 must never be loaded, compiled, or run on any device which is physically capable of wireless connectivity, regardless of whether that connectivity is in use.

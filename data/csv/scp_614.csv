@@ -1,5 +1,5 @@
 id,title,content,rating,created_at,creator,url,tags,references
-35bd76ba-6d63-42a6-9441-75a3d1d49377,SCP-614,"Item #: SCP-614
+64c12763-b4a1-4045-b728-d89225f34e92,SCP-614,"Item #: SCP-614
 Object Class: Euclid
 Special Containment Procedures: SCP-614 itself cannot be contained until knowledge is gained about the whereabouts of the server hosting SCP-614. Until then, knowledge of SCP-614 must be prevented from entering the public. Distributing the IP address of SCP-614 to unauthorized personnel is prohibited. Agents are to periodically take measures to make sure that access to SCP-614 is blocked at all internet service providers.
 Description: SCP-614 is a website located at the IP address 57.32.███.███. The IPv4 block 57.0.0.0/8 is owned by SITA and used for telecommunications in the air transport industry. It is not yet known if this has any significance. SITA records do not show that the IP address has been allocated or used for any purpose, and SITA claims to have no knowledge of any servers operating at the address.
