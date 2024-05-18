@@ -158,3 +158,5 @@ $RECYCLE.BIN/
 # Project specific files
 _archive
 data/txt
+temp.txt
+temp.json
