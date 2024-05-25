@@ -9,7 +9,7 @@ response = requests.get(url)
 data = json.loads(response.text)
 
 # Create the output directory if it doesn't exist
-output_dir = "./data/processed_json/"
+output_dir = "./data/processed_json2/"
 os.makedirs(output_dir, exist_ok=True)
 
 # Iterate over each SCP object in the JSON data
