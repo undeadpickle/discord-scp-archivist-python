@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langchain-pinecone
+openai
+python-dotenv
+pinecone-client
+pinecone-text
+pinecone-notebooks
+bs4
+tqdm
+jq
+tiktoken

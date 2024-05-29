@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1lCK6Y4V0uaFlXRv1uV1ZSav8ND9JVPTD
 """
 
-!pip install -qU langchain langchain-community bs4 pinecone-client pinecone-text langchain-openai langchain-pinecone pinecone-notebooks jq
 
 import getpass
 import os
@@ -41,7 +40,8 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.runnables import RunnablePassthrough
 
-json_directory = './data/'  # Directory containing the JSON files
+json_directory = "./data/"  # Directory containing the JSON files
+
 
 # Function to extract metadata from the JSON record
 def metadata_func(record: dict, metadata: dict) -> dict:
@@ -50,36 +50,37 @@ def metadata_func(record: dict, metadata: dict) -> dict:
             metadata[key] = value
     return metadata
 
+
 # Function to process a single JSON file
 def process_json_file(file_path):
     loader = JSONLoader(
         file_path=file_path,
-        jq_schema='.',
+        jq_schema=".",
         content_key="content",
-        metadata_func=metadata_func
+        metadata_func=metadata_func,
     )
 
     data = loader.load()
 
     print(f"Processing file: {file_path}")  # Debug: Print the file being processed
     for doc in data:
-        print(f"Content: {doc.page_content[:100]}...")  # Debug: Print the first 100 characters of the content
+        print(
+            f"Content: {doc.page_content[:100]}..."
+        )  # Debug: Print the first 100 characters of the content
         print("-----------")
         print(f"Metadata: {doc.metadata}")
         print("===========")  # Debug: Separator for each document
 
     return data
 
+
 # Initialize the text splitter
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,
-    chunk_overlap=0,
-    length_function=len,
-    is_separator_regex=False
+    chunk_size=1000, chunk_overlap=0, length_function=len, is_separator_regex=False
 )
 
 # Get a list of JSON files in the specified directory
-json_files = [file for file in os.listdir(json_directory) if file.endswith('.json')]
+json_files = [file for file in os.listdir(json_directory) if file.endswith(".json")]
 
 # Initialize an empty list to store the document chunks
 splits = []
@@ -105,6 +106,7 @@ embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
 import tiktoken
 
+
 # Function to count tokens in a string
 def num_tokens_from_string(string: str, encoding_name: str) -> int:
     """Returns the number of tokens in a text string."""
@@ -112,9 +114,12 @@ def num_tokens_from_string(string: str, encoding_name: str) -> int:
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
+
 # Calculate token counts for each chunk
 encoding_name = "cl100k_base"  # Appropriate encoding for the embedding model
-token_counts = [num_tokens_from_string(chunk.page_content, encoding_name) for chunk in splits]
+token_counts = [
+    num_tokens_from_string(chunk.page_content, encoding_name) for chunk in splits
+]
 
 # Calculate total tokens and average tokens per chunk
 total_tokens = sum(token_counts)
@@ -127,7 +132,9 @@ min_index = token_counts.index(min_tokens)
 max_index = token_counts.index(max_tokens)
 
 # Calculate the cost of embeddings
-cost_per_1000_tokens = 0.00013  # Actual cost per 1,000 tokens in USD for "text-embedding-3-large"
+cost_per_1000_tokens = (
+    0.00013  # Actual cost per 1,000 tokens in USD for "text-embedding-3-large"
+)
 total_cost = (total_tokens / 1000) * cost_per_1000_tokens
 
 # Print summary statistics and estimated cost
@@ -137,7 +144,10 @@ print(f"Max tokens in a chunk: {max_tokens} (Chunk number: {max_index + 1})")
 print(f"Min tokens in a chunk: {min_tokens} (Chunk number: {min_index + 1})")
 print(f"Estimated cost of embeddings: ${total_cost:.4f}")
 
-pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"], environment=os.environ["PINECONE_ENVIRONMENT"])
+pc = Pinecone(
+    api_key=os.environ["PINECONE_API_KEY"],
+    environment=os.environ["PINECONE_ENVIRONMENT"],
+)
 
 index_name = "scp-data"
 
@@ -151,16 +161,16 @@ if index_name in pc.list_indexes().names():
 pc.create_index(
     index_name,
     dimension=1536,
-    metric='dotproduct',
+    metric="dotproduct",
     spec=ServerlessSpec(
-            cloud="aws",
-            region="us-east-1",
-        )
+        cloud="aws",
+        region="us-east-1",
+    ),
 )
 print(f"Created new index: {index_name}")
 
 # wait for index to be initialized
-while not pc.describe_index(index_name).status['ready']:
+while not pc.describe_index(index_name).status["ready"]:
     print(f"Waiting for index {index_name} to be initialized...")
     time.sleep(1)
 
@@ -169,25 +179,35 @@ index_stats = index.describe_index_stats()
 print(f"New index stats: {index_stats}")  # Debug: Print the index stats
 
 batch_size = 100  # Adjust the batch size as needed
-print(f"Total number of chunks: {len(splits)}")  # Debugging: Print the total number of chunks
+print(
+    f"Total number of chunks: {len(splits)}"
+)  # Debugging: Print the total number of chunks
 
 for i in range(0, len(splits), batch_size):
-    print(f"Processing batch {i // batch_size + 1}")  # Debugging: Print the current batch number
+    print(
+        f"Processing batch {i // batch_size + 1}"
+    )  # Debugging: Print the current batch number
 
     # Get a batch of documents from the splits list
-    batch = splits[i:i+batch_size]
-    print(f"Number of documents in the batch: {len(batch)}")  # Debugging: Print the number of documents in the batch
+    batch = splits[i : i + batch_size]
+    print(
+        f"Number of documents in the batch: {len(batch)}"
+    )  # Debugging: Print the number of documents in the batch
 
     # Convert documents to dictionaries
     vectors = []
     for doc in batch:
         # Generate a unique ID for each document using the hash of its content
         doc_id = str(hash(doc.page_content))
-        print(f"Processing document with ID: {doc_id}")  # Debugging: Print the ID of the document being processed
+        print(
+            f"Processing document with ID: {doc_id}"
+        )  # Debugging: Print the ID of the document being processed
 
         # Embed the document content using the embeddings model
         doc_embedding = embeddings.embed_query(doc.page_content)
-        print(f"Embedding length: {len(doc_embedding)}")  # Debugging: Print the length of the document embedding
+        print(
+            f"Embedding length: {len(doc_embedding)}"
+        )  # Debugging: Print the length of the document embedding
 
         # Create a vector dictionary with the document ID, embedding, and metadata
         vector = {
@@ -195,17 +215,21 @@ for i in range(0, len(splits), batch_size):
             "values": doc_embedding,
             "metadata": {
                 "context": doc.page_content,  # Include the document content in the metadata
-                **doc.metadata  # Include the existing metadata
-            }
+                **doc.metadata,  # Include the existing metadata
+            },
         }
         vectors.append(vector)
 
-    print(f"Upserting {len(vectors)} vectors to the index")  # Debugging: Print the number of vectors being upserted
+    print(
+        f"Upserting {len(vectors)} vectors to the index"
+    )  # Debugging: Print the number of vectors being upserted
 
     # Upsert the vectors to the Pinecone index
     index.upsert(vectors)
 
-    print(f"Batch {i // batch_size + 1} processed successfully")  # Debugging: Print a success message for the batch
+    print(
+        f"Batch {i // batch_size + 1} processed successfully"
+    )  # Debugging: Print a success message for the batch
 
 print(f"Index stats: {index_stats}")
 
@@ -217,22 +241,18 @@ llm = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0.5)
 llm.invoke("what is scp-001?")
 
 text_field = "context"
-vectorstore = PineconeVectorStore.from_existing_index(index_name, embeddings, text_field)
+vectorstore = PineconeVectorStore.from_existing_index(
+    index_name, embeddings, text_field
+)
 retriever = vectorstore.as_retriever()
-#print(f"Vectorstore: {vectorstore}")
-#print(f"Vectorstore type: {type(vectorstore)}")
-#print(f"Vectorstore.embeddings: {vectorstore.embeddings}")
-#print(f"Retriever: {retriever}")
-#print(f"Retriever type: {type(retriever)}")
 
 docs = retriever.invoke("what is scp-003?")
-#print(f"Docs: {docs}")
-#print(f"Docs type: {type(docs)}")
+# print(f"Docs: {docs}")
+# print(f"Docs type: {type(docs)}")
 
 query = "which scp is described ass tumorous growth?"
 vectorstore.similarity_search(
-    query,  # our search query
-    k=3  # return 3 most relevant docs
+    query, k=3  # our search query  # return 3 most relevant docs
 )
 
 ### Contextualize question ###
@@ -281,6 +301,7 @@ def get_session_history(session_id: str) -> BaseChatMessageHistory:
         store[session_id] = ChatMessageHistory()
     return store[session_id]
 
+
 def trim_messages(session_id, max_messages, chain_input):
     stored_messages = get_session_history(session_id).messages
     if len(stored_messages) > max_messages:
@@ -301,18 +322,41 @@ conversational_rag_chain = RunnableWithMessageHistory(
     output_messages_key="answer",
 )
 
-conversational_rag_chain_with_trimming = RunnablePassthrough.assign(
-    chain_input=lambda chain_input, config: trim_messages(config["configurable"]["session_id"], max_messages, chain_input)
-) | conversational_rag_chain
+conversational_rag_chain_with_trimming = (
+    RunnablePassthrough.assign(
+        chain_input=lambda chain_input, config: trim_messages(
+            config["configurable"]["session_id"], max_messages, chain_input
+        )
+    )
+    | conversational_rag_chain
+)
 
 # Test conversation
 test_conversation = [
-    ("Who is general Mulhausen?", "General Mulhausen is a character in the SCP Foundation universe."),
-    ("What is his role?", "General Mulhausen is a high-ranking military officer involved with the SCP Foundation."),
-    ("Did he die?", "According to the SCP lore, General Mulhausen did die at some point."),
-    ("How did he die?", "The exact circumstances of General Mulhausen's death are not clearly specified in the SCP stories."),
-    ("What SCP was involved?", "I'm not sure which specific SCP was directly involved in General Mulhausen's death."),
-    ("What are some theories?", "There are various theories and speculations among SCP fans about how General Mulhausen died, but no definitive answer."),
+    (
+        "Who is general Mulhausen?",
+        "General Mulhausen is a character in the SCP Foundation universe.",
+    ),
+    (
+        "What is his role?",
+        "General Mulhausen is a high-ranking military officer involved with the SCP Foundation.",
+    ),
+    (
+        "Did he die?",
+        "According to the SCP lore, General Mulhausen did die at some point.",
+    ),
+    (
+        "How did he die?",
+        "The exact circumstances of General Mulhausen's death are not clearly specified in the SCP stories.",
+    ),
+    (
+        "What SCP was involved?",
+        "I'm not sure which specific SCP was directly involved in General Mulhausen's death.",
+    ),
+    (
+        "What are some theories?",
+        "There are various theories and speculations among SCP fans about how General Mulhausen died, but no definitive answer.",
+    ),
 ]
 
 # Initialize an empty chat history for testing
@@ -375,42 +419,3 @@ conversational_rag_chain_with_trimming.invoke(
     {"input": "Who or what killed him?"},
     config={"configurable": {"session_id": "abc123"}},
 )["answer"]
-
-"""## Pinecone Hybrid Search Retriever"""
-
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory
-from langchain.prompts.chat import (
-    ChatPromptTemplate,
-    SystemMessagePromptTemplate,
-    HumanMessagePromptTemplate
-)
-from langchain_community.retrievers import (
-    PineconeHybridSearchRetriever,
-)
-from pinecone_text.sparse import BM25Encoder
-
-# Initialize the BM25 encoder
-bm25_encoder = BM25Encoder().default()
-
-# Fit the BM25 encoder on the text chunks
-bm25_encoder.fit([chunk.page_content for chunk in splits])
-
-# Initialize the PineconeHybridSearchRetriever
-retriever = PineconeHybridSearchRetriever(
-    embeddings=embeddings,
-    sparse_encoder=bm25_encoder,
-    index=index_name
-)
-
-# Test the retriever
-query = "What is the containment procedure for SCP-999?"
-print(f"Query: {query}\n")
-results = retriever.get_relevant_documents(query)
-print(f"Results: {results}\n")
-
-# Print the retrieved documents
-for doc in results:
-    print(f"Content: {doc.page_content}\n")
-    print(f"Metadata: {doc.metadata}\n")
-    print("---")

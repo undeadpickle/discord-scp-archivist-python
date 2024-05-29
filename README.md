@@ -53,6 +53,7 @@ discord-scp-archivist-python/
 - **Environment:**
   - Python 3.8+
   - pip (package installer)
+  - VS Code IDE
 - **Dependencies:**
   - discord.py
   - langchain
